@@ -1,1507 +1,1507 @@
-1512509	kell	az	haza kellene menni még ...	
-1388057	tud	azt	nem tudok a fára mászni	
-1139548	lehet	az	amit úgy lehet tanulmányozni	
-840888	fog	x	Sokat fogunk így várni még ?	
-612623	akar	azt	Egycsapásra el akartam érni a tengert	
-489671	szeret	azt	szerettem hallgatni egyenletes ketyegését	
-381942	van	x	anyám nélkül nem voltam képes elaludni .		MN + van és nincs fix mellékmondat
-233321	próbál	azt	néhányan figyelmeztetni próbálták az embereket .	
-220386	kíván	azt	amelynek akkor kívánt hangot adni	
-217972	kezd	azt	mászni kezdtem én	
-131538	sikerül	az	sikerül azt az izzó lángot kioltani lelkemben	
-112947	igyekszik	azt	akármennyire is igyekeztem katonásan tartani magam	
-93219	szokik	x	Apám azt szokta hajtogatni	
-92870	meg+próbál	azt	megpróbálja irányítani érzéseit	
-65557	lesz	x	ezt nem lesz könnyű elbeszélni .		MN + lesz és nincs fix mellékmondat
-64930	el+kezd	azt	egyszer csak elkezdtem bőgni .	
-64492	mer	azt	nem mertem elhinni	
-56059	szabad	az	Senkit sem szabad megölni .	
-41136	nincs	x	senkinek nincs hatalma hazudni .		birtokos főnév és nincs fix mellékmondat, vagy 'nincs kinek írni'
-34357	megy	azért	a gyárba mentek dolgozni .	
-33052	segít	abban	egy fehér hajú bácsi segített vinni a bőröndömet .	
-27814	hagy	azt	alkatuknál fogva hagyták magukat sodortatni az árral	
-23673	enged	azt	ne engedd őt csalódni ...	
-23427	bír	azt	mozdulni sem bírtam .	
-20054	készül	arra	kitörni készült	
-17382	tetszik	x	csak tessék mondani .		magázás: tetszik jönni? tessék jönni!
-16644	látszik	az	Mégis minden lélegezni látszott	
-16638	lát	azt	láttam lábam előtt heverni	
-14766	jön	azért	mikor jön hozzánk játszani	
-14103	áll	x	Marosinak szándékában áll megszökni .		@lex: készen, módomban, szándékában...
-11500	el+megy	azért	elmegyek megkeresni a választ	
-11218	tervez	azt	amilyeneket Szlovákiában terveztek létrehozni	
-10944	vél	azt	melynek illúzióját ugyancsak a szerelemben véli megtalálni	
-10736	jár	azért	például kis purdék rendszeresen járnak kakálni a talapzatára .	
-10215	illik	az	Nem illik észrevenni	
-10176	szándékozik	azt	mikor szándékszom hazamenni	
-9675	kér	azt	Azután enni kért	
-9601	tart	x	természetesnek tartom egyszerűen kiállni a porond közepébe azzal a meggyőződéssel		@lex: kötelességének, lehetetlennek... VAGY 'valakivel tart': azért
-9208	esik	x	valahogy nehezükre esett elhinni		@lex: nehezemre, jól...
-9128	tanul	azt	nem tanulsz meg beszélni	
-9060	meg+tanul	azt	aztán megtanultam olvasni	
-9036	árt	az	talán nem ártana józan fővel számot venni azzal	
-8189	kényszerül	arra	hazudni kényszerült	
-8069	ad	x	Nem adnak enni .		@lex: enni, inni
-7681	meg+érik	az	megérte neked egy náci katonát megmenteni ?		%meg+ér
-7605	mond	x	is mondják vezetni ?		@lex: 'mondjuk x-ezni', 'azt mondod x-ezni?'
-6658	el+felejt|felejtet	azt	melynek szerzőjét elfelejtették feltüntetni	
-6509	szíveskedik	azt	a kedves édesapja szíveskedne visszaemlékezni	
-6293	fél	attól	Féltem megkérdezni .	
-6252	óhajt	azt	nem is óhajtja kiismerni magát	
-6127	győz	azt	utólag nem győz az ember azon morfondírozni	
-6039	javasol	azt	nem javasolta beleilleszteni .	
-5914	sincs	x	Jóformán senkinek sincs ereje ezt a kiformált utat megszakítani		birtokos főnév és nincs fix mellékmondat, vagy 'sincs kinek írni'
-5324	indul	azért	pecázni indultunk	
-5048	le+ül	azért	leült velem beszélni	
-4921	imád	azt	A politikusok imádnak beszélni	
-4839	meg+kísérel	azt	megkíséreltem elforgatni a kormányát	
-4723	jut	x	nem is jutna nekem idő beszélni .		@lex: idő, eszembe...
-4242	talál	x	azt találja mondani		@lex: azt találja mondani, el találja sütni...
-3651	tesz	x	ő teszi oda a tejet főni		@lex: mit tesz x-ezni
-3406	kap	x	ma még jóformán enni sem kaptak szegények .		@lex: enni, inni, zabálni...
-3374	jelent	az	rangot jelentett bekerülni .	
-3295	ajánl	azt	A kastélyt sem ajánlom felügyelet nélkül hagyni .	
-3284	gondol	azt	hogyan gondolja a vagyonát növelni	
-3213	hallik	az	a saját szavait hallja kifolyni mások szájából .	
-3167	tanít	arra/azt	A cenzúra írni tanít .	
-3135	mehet	azért	nem mehettem ebédelni .	
-3095	visz	azért	kirándulni visszük őket .	
-3029	ül	azért	Egyedül ültél be ide sörözni .	
-3022	felejt	azt	ne felejtsük idejében kifizetni a villanyszámlát .	
-2936	el+felejt	azt	esetleg tapsolni is elfelejtek az igézettől	
-2904	ér	az	ezen tűnődni immár mit sem ér	
-2790	marad	azért	nem maradt ott késő éjszakáig dolgozni	
-2770	merészel	azt	aki szólni merészelt	
-2760	siet	azért	Az öregem is sietett elhagyni a szülői házat	
-2648	kerül	azért	útjába került jeget magával ragadni	
-2634	hív	azért	gyakran hívták hivatalos ügyben tanúskodni	
-2546	ki+megy	azért	kiment egyet sétálni .	
-2535	segíthet	abban	segíthet élni	
-2467	kísérel	azt	a hónom alatt kíséreltem meg hátrasandítani .	
-2447	hisz	azt	gondolatot hitte méltónak kimondani	
-2442	jogosul	arra	NOPE	
-2440	meg+tanít	azt/arra	megtanítottam kocsit vezetni .	
-2206	hoz	azért	a rossz lelkiismeret hozza ide ezeket a férgeket letérdepelni eléd	
-2199	küld	azért	aludni küldte őket .	
-2191	kel	azért	a bénák járni kelnek	
-2066	neki+áll	annak	nekiállt mosogatni	
-2058	tartozik	azzal	akiknek mindenki engedelmeskedni tartozik .	
-1986	el+mulaszt	azt	elmulasztotta annak számát idézni .	
-1884	el+indul	azért	a regényben elindul virágot venni	
-1865	kezdhet	azt	De most kezdhetnék szép dolgokat csinálni .	
-1811	vár	azt	várja javulni a rendet	
-1774	meg+szűnik	x	megszűnt lélegezni .	
-1767	választ	azt	Ezért választotta kedves székében megfestetni magát .	
-1746	nyílik	x	Legalább alkalmam nyílik a járás viszonyait megismerni .		@lex: alkalma, lehetősége...
-1740	vesz	azért	vegyék fel dolgozni .	
-1687	tűnik	x	még elképzelni is bizarrnak tűnt		@lex: bizarrnak, jónak...
-1667	keres	azért	én bizony keressek benne egy kis szárazat tüzet gyújtani	
-1645	válik	x	aztán még könnyebbé vált közöttük elhinteni		@lex: szükségessé, szokásommá...
-1634	próbálkozik	azzal	régóta próbálkozott megfelelő munkát találni .	
-1607	el+kezdhet	azt	elkezdhetek élni ott	
-1606	vágyik	arra	autót vezetni sehogy se vágyott .	
-1565	utál	azt	én utálok reggel felkelni .	
-1506	méltóztatik	arra	éppen az állam meg méltóztatik nekik engedni	
-1505	érkezik	ahhoz/azért	Alig érkezek kimondani	
-1454	érzik|érez	azt	a nyugalomban fájdalmat érzünk sajogni .		@lex: fölöslegesnek, kötelességének...
-1442	rendel	azt	gödrét visszahányni rendelem	
-1400	támad	x	azonnal kedvem támadt elvonulni vele valami privátabb helyre .		@lex: kedvem
-1368	el+visz	azért	Egyik nap elvitt ebédelni .	
-1318	számít	az	Libát tömni állatkínzásnak számít ott		@lex: x-nek számít
-1292	vonakodik	attól	a nép vonakodik letenni az esküt ?...	
-1277	bátorkodik	arra	Bátorkodom megjegyezni	
-1272	vezet	azért	Messzire vezetne ugyan kifejteni	
-1266	el+jön	azért	eljött segíteni .	
-1257	használ	az/arra	mit használ itt sírni ?	
-1254	szégyell	azt	Nem szégyellt nevetni	
-1250	kéret	x	Kéretik tisztelettel azonnal az iskolában megjelenni .		%kéretik
-1244	jelenik	x	mit jelent ezeken az Istenverte havasokon hónapszámra szolgálni ?		%jelent
-1239	be+megy	azért	Aztán bement egy Kovács nevezetűnek a gyógyszertárába segédkezni .	
-1198	átall	azt	mégsem átallottam megjegyezni	
-1183	tudhat	azt	nem is tudhatja elvégezni .	
-1174	törekszik	arra	azt elérni törekszel .	
-1146	ment	x	Együtt mentünk vadászni .		%megy
-1130	kegyeskedik	arra	kegyeskedjen a labdát továbbítani !...	
-1123	rá+érik	x	Ráérünk kicsomagolni .		%rá+ér
-1115	rohan	azért	Rohantak jegyet vásárolni .	
-1060	érez	azt	erejét megint nőni érezte	
-1057	fáj	az	fájt bármiről is lemondani .	
-1056	veszik	x	a legközelebbi templom felé veszik útjukat Dávid zsoltárait énekelni		%vesz	@lex: fenyegetésnek, útjukat veszik VAGY vesz magának enni...
-1044	meg+próbálhat	azt	talán járni is megpróbálhat a lábain .	
-1023	utazik	azért	a szülei nyaralni utaztak	
-1022	tér	azért	mindenki aludni tért		@lex: aludni, pihenni...
-1012	felejtet|felejt	azt	nemcsak te felejtetted el a Sorsot hangsúlyozni	
-1009	láthat	azt	ökörcsordát láthatott elvonulni	
-990	remél	azt	Klárát remélte felbukkanni valahonnan	
-986	iparkodik	azért	iparkodtak mindenben segíteni .	
-970	vissza+megy	azért	Aztán visszament a fürdőszobába becsavarni a haját	
-951	meg+áll	azért	megálltak kicsit hallgatni a zenét	
-933	vonul	azért	a kunyhó mögé vonult morogni	
-911	mulaszt	x	mulasztottál el megüzenni valamit		%el+mulaszt
-909	mered	x	ezt csak így a szemembe mered mondani ?		%mer
-886	telik	az	Időbe telik megszokni		@lex: időbe, öröme...
-873	le+fekszik	azért	talán már lefeküdt aludni .	
-841	csinál	azért	NOPE	
-829	jól+esik	az	jólesik elterpeszkedni a fotőjben	
-823	sajnál	azt	szinte sajnáltam felbontani .	
-775	nyújt	x	NOPE		@lex: vigaszt
-764	jöhet	azért	cipelni ő rossz lábakkal nem jöhetett .	
-756	tetszik|tetszet	x	A nevét biztosan tetszettek hallani ...		%tetszik
-755	ki+jön	azért	aki konzultáció után kijött az udvarra bámulni .	
-750	él	azért	ki halni él .	
-736	készít	azért	addig készítek valamit enni	
-729	próbálhat	azt	a parancsot próbálhatta megsürgetni	
-726	el+ment	x	aztán elmentek egy kínai vendéglőbe vacsorázni .		%el+megy
-725	szűnik	x	soha nem szűnt meg szeretni egy pillanatra sem	
-674	le+megy	azért	ma délután lemegyek játszani a hóba	
-671	szoktat	x	Szavazni is szoktatok ?		%szokik
-645	akarózik	az	A gyereknek nem igazán akaródzott lemenni	
-624	születik	azért	Élni csak azért született	
-601	meg+lát	azt	a fiú meglátta a vágyat fellobbanni az ő tekintetében	
-591	sikerülhet	az	fölébe nőni senkinek sem sikerülhetett	
-547	habozik|habzik	x	Harcos ne habozzék kukacot taposni .		%habozik
-547	be+áll	azért	A fiatal legénykék beálltak szolgálni a nagygazdákhoz .	
-543	meg+un	azt	Másnapra megunta a falat nézni	
-529	lép	azért	barna kockás szövetpapucsban lép ki a fürdőszobából öltözködni .	
-527	neki+lát	annak	Nekiláttak vacsorázni .	
-508	el+mehet	azért	bármikor elmehet körülnézni	
-487	akarhat	azt	segíteni is akarhat	
-484	von	azért	reggel már felkötni vonták .	
-482	fel+megy	azért	felmentem szüleimhez vacsorázni .	
-478	leszel	x	Képes leszel fogadni őket ?		%lesz	@lex: képes, hajlandó...
-455	restell	azt	Nem restellte bevallani	
-449	kezdet	x	azt kezdette feszegetni		%kezd
-448	un	azt	Unok dolgozni .	
-445	szalad	azért	Szaladt is venni egy moziújságot .	
-443	állít	azért	az ajtó elé állítanak vigyázni	
-442	meg+hív	azért	Meghívtak halászlét enni .	
-441	vissza+tér	azért	visszatértünk vacsorázni .	
-441	akad	azért	NOPE	
-439	el+küld	azért	a nagyságos asszony majd elküld bevásárolni	
-436	rá+ér	arra	Csakugyan ráér törődni velem ?	
-429	el+jár	azért	Ezalatt az idő alatt eljártam a strandra úszni	
-428	kínál	azért	ma is ható hagyományokat fejleszteni kínálnak	
-410	át+megy	azért	átmegyek anyámékhoz aludni .	
-405	fordul	azért	féléberen nem fordulok hasra szundikálgatni	
-402	oda+megy	azért	odamegyünk halászni	
-402	engedhet	azt	Nem engedhetem bántani .	
-398	nyer	x	ahová jogot nyertem beutaltatni		@lex: jogot
-390	be+jön	azért	két héttel korábban hat német utóvéd bejött hozzánk enni .	
-389	be+ül	azért	Beülnénk valami rendes helyre egy kis zenét hallgatni	
-385	létezik	az	Nem létezik ezt a fránya kalapot szétlőni	
-384	meg+jelenik	azért	újra megjelent kávéillattal tüntetni el albérlete vénasszonyszagát	
-382	okozhat	az	nem okozhat gondot 150-et tekerőzni		@lex: kárt, bajt, örömet...
-376	állhat	azt	Nem állhatok be dolgozni	
-370	félt	x	Félt megmozdulni .		%fél
-366	habozik	azon	ő habozott átlépni ezt a küszöböt .	
-356	jelenthet	az	Valamit megkerülni sohasem jelenthet fejlődést	
-350	röstell	azt	az öregtől röstelltem megkérdezni	
-347	találkozik	azért	önök hajlott korukkal dacolva még találkoznak egymással közösen emlékezni	
-345	meg+tanulhat	azt	Most aztán megtanulhat bal kézzel lőni	
-345	emlékszik	arra	NOPE	
-341	jelentkezik	arra/azért	Jelentkeztem fát vágni	
-341	hallhat	azt	hallhatta épp elégszer emlegetni az utóbbi időben .	
-337	mutatkozik	arra	nem mutatkozott hajlandónak azokat megírni .		@lex: x-nek mutatkozott
-337	fut	azért	Aztán futott a konyhába csirkét rántani .	
-331	meg+próbálkozik	azzal	a les végeztével hazafelé menet megpróbálkoztak az öreg erdő alatti bokros részekben a vizsla segítségével keresni .	
-330	el+marad	azért	NOPE	
-328	ki+jár	azért	Egyedül is nap mint nap kijártam sízni	
-323	kényszerít	arra	ezeket a rablók az asztal alá bújni kényszerítették	
-322	hagyhat	azt	Nem hagyhatom az égig nőni .	
-320	haza+megy	azért	aztán hazamentem tanítóskodni .	
-318	meg+van	x	minden okom megvolt hinni		@lex: minden okom, képességem...
-316	jön|jő	azért	Máskor is ide jövünk vásárolni .	
-313	örül	annak	most örülök élni	
-313	baszik	arra	baszik rendesen letölteni	
-312	sújt	az	éppúgy sújt felismerni a törékenységét	
-312	indít	arra	Bitorolt földből napfényre fakadva görnyedt szolgák indítottak járni	
-309	be+jár	azért	Ekkorra a két gyermek is bejárt a városba dolgozni	
-305	húz	azért	az emberek a derekukon húzták el szárítani	
-301	el+kezdődik	az	ahogy elkezdődött nekilendülni az infláció növekedése	
-298	feled	azt	ne feledjen el lelkesedni !	
-292	óvakodik	attól	óvakodott azt átlépni .	
-289	kezdődik	az	mikor is történetünk játszódni kezdődik .	
-286	fekszik	azért	aludni feküdtek .	
-283	száll	azért	eleven szavak szálltak megszólalni a számra	
-282	meg+kezd	azt	mielőtt megkezditek a férfiakat szapulni .	
-280	le+áll	azért	Ekkorra már többen leálltak bámészkodni .	
-278	fel+tesz	azért	ő rögtön feltette a kását főni .	
-276	vállal	azt	Ezt a ragyogást vállaltuk mi gyermekien kimondani .	
-273	meg+enged	azt	testvér atyafija Esterházy István Orsolya nevű lányát feleségül elvenni neki megengedte	
-269	vall	az	Alattomban távozni gyengeségre vall !	
-265	ki+áll	azért	A dolog után kiálltam stoppolni .	
-258	hajt	azért	szabadság ábrándja hajtott írni .	
-256	oda+jön	azért	odajött hozzánk tudtunkra adni	
-253	ki+ír	azért	NOPE	
-250	tekint	x	a munkásság első parancsolatának tekinti együttesen küzdeni az egész romániai magyarsággal		@lex: jónak, rossznak...
-250	bizonyul	arra	csak jól írni bizonyultak gyengéknek		@lex: gyengének, okosnak...
-248	zár	azért	akit kijózanodni zártak be ide .	
-248	szolgál	x	NOPE		@lex: örömömre
-246	próbálgat	azt	amiből most próbálgatunk kimászni	
-244	ide+jön	azért	idejött enbert ölni fölnevelő helyére	
-241	érdemel	azt	a napvilágot látni sem érdemlik .	
-236	ugrik	azért	ketten ugranak visszakötözni .	
-236	adódik	x	végre alkalmam adódott megkérdezni		@lex: alkalma
-235	küldhet	azért	Nem küldhettek akárkit külföldre kapitalistákkal tárgyalni	
-229	tanulhat	azt	emberként is tanulhatsz szeretni .	
-229	fel+hív	azért	felhívott konzultálni	
-224	engedélyez	azt	érc szoborkolosszusomat felállítani engedélyezem .	
-224	el+vonul	azért	a többiek elvonultak tanácskozni	
-222	ígér	azt	ígért szállítani bennünket .	
-222	gyűlik	azért	Katalinozni gyűlnek	
-220	szarik	arra	szarnak magyarítani még azt is	
-217	adhat	x	enni is adhatsz neki		@lex: enni, inni
-216	át+jön	azért	mikor esténként átjönnek kötni .	
-214	képzel	azt	az őszre képzelik megnyitni a házat .	
-207	el+kerül	azért	NOPE	
-206	igényel	az	Alapos értelmi munkát igényel látni a világ sokféleségét	
-201	le+jár	azért	Lejárt hozzánk a házbért beszedni .	
-201	el+hív	azért	a szomszédot egyaránt elhívják segíteni .	
-200	tilt	azt	kinek a nevét jó ízlésünk tiltja elárulni	
-198	járhat	azért	oda most napszámba kapálni járhatnának .	
-192	vissza+jön	azért	még visszajön látogatni	
-191	vehet	x	NOPE		@lex: bátorságot
-189	követel	azt	Leszállítani követelem !	
-187	helyez	azért	egy iskolavárosba helyeztek magyart tanítani	
-185	élvez	azt	Én élvezek kinézni a sötétbe .	
-185	el+utazik	azért	elutazom pihenni egy gyógyfürdőbe	
-184	indulhat	azért	a reggeli után vadászni indulhasson .	
-182	vissza+jár	azért	visszajárok dolgozni	
-182	kél	arra	A gyermeknek kél káromkodni kedve	
-177	kaphat	x	Kaphatnánk valamit enni ?		@lex: enni, inni
-173	szán	arra/annak	mit veszni szánunk	
-171	el+feled	azt	elfeledtek leülni	
-170	ítél	x	amit Zalabai prózaszemléletéről elmondani érdemesnek ítélek .		@lex: szükségesnek, hasznosnak...
-169	hallgat	arról	Először akkor hallgattam két polihisztort uralkodót játszani	
-167	szállít	azért	a budapesti rabkórházba szállították meghalni .	
-165	rak	azért	nálunk ilyenkor rakják rudakra szellőzni a téli ágyneműt	
-164	meg+érkezik	azért	megérkezett egy fiatal lány tanítani .	
-164	kötelez	arra	készülni parancs kötelez már	
-163	kelletik	az	fertály óraként kelletett pisilni mennem	
-162	fel+jön	azért	a szüleimmel feljöttünk Pestre megnézni	
-161	be+ugrik	azért	apám beugrott ide cigarettát venni ...	
-160	zavar	azért	Zavarta azonnal paraffint főzni .	
-158	hangzik	x	Talán vakmerőnek hangzik 25 év távlatából megkockáztatni		@lex: jól, rosszul
-157	ki+vonul	azért	a fácánok kivonulnak szárítkozni a sínekre .	
-157	késlekedik	azzal	nem késlekedik megnevezni őket	
-149	parancsol	azt	a mi doktorunkat gyógyulni parancsolták	
-149	nyom	azért	őt már senki se nyomja a falhoz csókolózni	
-149	ki+visz	azért	kivittem száradni a kötélre a törülközőt	
-149	ered	azért	Eredj aludni !	
-147	el+tűnik	azért	A többiek már eltűntek átöltözni .	
-146	kerülhet	azért	Csupán azért nem kerülhetett egyetemre tanítani	
-145	el+kezdet	x	Mi ezt elkezdettük tenni		%el+kezd
-143	le+húz	azért	majd lehúzom magamhoz a fejét csókot váltani .	
-142	őriz	attól	Isten őrizz ennek megmondani		@lex: Isten őrizz
-142	neki+fog	annak	nekifogtam varrni .	
-142	készülődik	arra	Feküdni készülődtem	
-142	idéz	azért	a bíróságra idézték be tanúskodni	
-142	át+jár	azért	akik éjjelenként felfegyverkezve rendszeresen átjártak hozzánk rabolni .	
-140	merhet	azt	melyben alig merhet mozdulni	
-140	ki+ül	azért	kiültem a diófa alá a nyugszékbe olvasni	
-138	le+jön	azért	Isten egyszer régen lejött a földre körülnézni	
-138	jelentkezhet	azért	akkor jelentkezhet felmondani !	
-138	be+tér	azért	minden nap betért oda imádkozni .	
-137	késik	azzal	melyet latba vetni nem késtek	
-137	haza+jön	azért	hazajöttek nyaralni a gyerekek	
-136	kopogtat	azért	még a szomszédok se kopogtatnak át kölcsönkérni ezt meg azt	
-136	adatik	x	akinek csak ez az egy esélye adatott meg élni		@lex: enni, inni
-135	csesz	arra	persze csesztek kivizsgálni .	
-134	látogat	azért	látogasson el hozzájuk is szilveszterezni	
-134	el+jut	oda	amíg eljutok Franciaországba síelni !	
-133	költözik	azért	Sömjénbe költözött gazdálkodni .	
-133	ki+mehet	azért	máris kimehetett a katedra mellé csillagokat látni .	
-132	vihet	azért	kirándulni vihetjük .	
-132	hívat	azért	Ezután cigányokat hívatok be szerelmeskedni	
-131	képez	az	NOPE		@lex: nevetség tárgyát
-129	ki+küld	azért	Kiküldtem őket kicsit kozmetikázni .	
-128	ott+hagy	azért	Otthagyták őket meghalni .	
-127	fárad	azért	ezt nem fáradunk hangsúlyozni	
-127	be+rohan	azért	berohant a tanáriba lekapcsolni a kávéfőzőt	
-126	kísér	azért	bálozni kíséred a lányokat .	
-125	bocsát	azért	magát nagy bátran ki az ablakon repülni bocsássa	
-124	maradhat	azért	csak én maradhattam otthon csomagot várni .	
-123	meg+hallik	azt	véletlenségből meghallod a közeledben sziszegni	
-122	meg+marad	azért	ki még egyezkedni megmarad	
-122	akartat	x	Mit akartatok vásárolni ?		%akar
-121	meg+kísérelhet	azt	ott a csípőből adott válasz helyett inkább megkísérelhetjük rekonstruálni a kérdést	
-120	menekül	azért	aludni menekül	
-120	fel+kel	azért	felkel tüzet rakni .	
-119	emel	azért	kit szárny emel repülni	
-118	hord	azért	nekünk enni hordott	
-118	alakít	azért	NOPE	
-117	meg+kíván	azt	belőletek hatalmat venni megkívánják újra .	
-116	össze+gyűlik	azért	összegyűlnek hallgatni egy órát	
-114	juthat	x	akinek eszébe juthatna megérinteni .		@lex: eszébe
-114	gyűlöl	azt	gyűlölök varrni	
-113	ki+tesz	azért	amelyet kitettek hűlni az ablak elé	
-112	vissza+vonul	azért	visszavonultak tanakodni	
-112	merészkedik	arra	Végül már senki sem merészkedett megtámadni a kolostort	
-112	épít	azért	akkor majd lehet sok pénzt kérni hogy építsünk új börtönöket	
-111	teremt	azért	élni teremtett bennünket az Úr .	
-111	távozik	azért	kisebb dolgát végezni távozott .	
-111	retteg	attól	Már rettegek élni	
-111	gyűjt	azért/arra	pénzt gyűjt nyaralni	
-110	meg+kap	azért	a fiatal zeneművészek megkapták gyakorolni Lehel kürtjét	
-109	oda+áll	azért	fényes nappal odaáll pisálni a hátsó kerék mellé	
-109	kedvel	azt	Apolló jobban kedveli a vétkesek fülét megnöveszteni	
-107	oda+jár	azért	úgy estefelé odajárt kaszálgatni .	
-107	bízik	azt	a kérdezőre bízzuk a feleletet eltalálni .	
-106	késztet	arra	tűnődni késztet	
-106	el+enged	azért	aki elengedte a feleségét dolgozni	
-104	ki+ment	x	kimentünk a folyópartra sétálni .		%ki+megy
-104	feledkezik	arról	Ne feledkezzünk meg előző vasárnap meg is hirdetni a gyűjtést
-102	nyílhat	x	így mód nyílhat talán véglegesen egy bizonyos kérdést tisztázni .		@lex: mód
-102	dől	azért	aludni dőlt az angol téli síkra	
-101	le+ülhet	azért	leülhetek egy bokor mellé lélegezni	
-101	kívánkozik	azért	nem kívánkoztál megállni ?	
-101	ide+jár	azért	emiatt máshonnan is idejárnak verekedni ...	
-100	tűnhet	x	most célszerűnek tűnhet emelni a támogatások mértékét		@lex: unalmasnak, luxusnak ...
-99	javall	azt	silány álművészet áldásával javallod megoldani ?...	
-98	össze+ül	azért	összeültem velük marxizmust tanulni .	
-98	derogál	az	neki még egy köszönömöt is derogál mondani .	
-97	fel+vesz	azért	Felvettek rajzolni	
-96	ülhet	azért	az alacsony székre ülhessen manikűröztetni .	
-96	szólít	arra	felelni szólították matematikából	
-96	fel+hajt	azért	felhajt a járdára parkolni	
-95	támaszt	azért	a pitvarban támasztotta oda a fülét hallgatózni az ajtóhoz .	
-95	nevel	arra	Mert értelmetlen kínokat megszokni még tízezeréves lét sem nevel .	
-95	hajlik	arra	Hajlunk ilyen módon szemlélni azokat is	
-94	be+visz	azért	bevitték operálni	
-93	fel+szerel	azért	NOPE	
-91	igazol	azt	talán ezt igazolta alátámasztani a távozó vezetők	
-90	szottyan	x	olykor kedvük szottyan ingyen utazni .		@kedve
-90	ki+száll	azért	Kiszálltunk eprészni .	
-90	fel+kér	arra	felkéri a pesti lányt táncolni	
-89	irányít	azért	Később a fogolykórházba irányítottak takarítani .	
-88	ódzkodik	attól	nem ódzkodik bemutatni oly műveket	
-88	el+sétál	azért	Elsétáltam megnézni	
-86	hívhat	azért	sétálni hívhatnám a feleségemet	
-86	fenyeget	az	feketézni elsejétől már nemigen fenyeget	
-85	repül	azért	álmodni repült	
-85	kérhet	azt	még tüzet is kérhetne tőle cigarettára gyújtani .	
-85	indítványozik	azt	szövegrészt indítványozza elhagyni .	
-85	gyengül	ahhoz	egyre gyengül az akaratod őhozzá kötni az életedet .	
-84	ki+rak	azért	kirakták száradni .	
-84	célozik	azt	amely azt célozza meghatározni	
-83	következik	abban	Apám intésére most már valóban ő következett a sort továbbfejleszteni	
-82	szül	azért	akik engesztelni fiat szülnek nekik ...	
-82	sikeredik	az	csak még nem sikeredett támogatáshoz jutni .	
-82	át+kel	azért	átkeltem a Kárpátok hágóin régi kedvesemet meglátogatni .	
-81	szaladhat	azért	Most szaladhatsz árulkodni a moderátorhoz	
-81	össze+jön	azért	az emberek összejöttek beszélgetni .	
-81	el+rohan	azért	elrohant dolgozni .	
-81	bújik	azért	sokan csak ebédelni bújnak elő az irodájukból .	
-80	tartózkodik	attól	tartózkodtam ezzel előhozakodni .	
-80	le+visz	azért	Nagyapám mindennap levitt sétálni	
-80	el+szalad	azért	elszalad érdeklődni	
-79	húzódik	azért	oda húzódott a családtól legénykedni	
-79	be+mehet	azért	egyelőre bemehetek kaszálni	
-78	ki+fekszik	azért	kifekszik aludni egy erkélyre vagy benyílóba	
-78	hozzá+fog	annak	Mindjárt hozzáfogtak csépelni .	
-78	gyakorol	azt	madárfüttyös erdőkben gyakorolnak embert ölni	
-78	el+indulhat	azért	elindulhatok megkeresni mindent	
-76	be+hív	azért	Egyszer behívtam vacsorázni	
-75	vélhet	azt	A másikból olyasmit vélhet kihallani a fül	
-75	neki+kezd	annak	nekikezdett bömbölni újra .	
-75	meg+indul	azért	a kóstolómesterrel megindult ízlelgetni a kondérokból	
-75	igyekezhet	azért	igyekezhetünk egyeztetni azokat a valósággal	
-74	vissza+fekszik	azért	Visszafeküdtél alukálni ?	
-74	neki+állhat	annak	az ember nekiállhat mosni	
-74	meg+állapodik	azért	Kitűnő tiszta vizénél mindig megállapodtunk inni .	
-74	hív|hí	azért	forgalmas utcára hívod sétálni .	
-74	fel+ül	azért	majd felült duzzogni a csillárra .	
-72	sejt	azt	ahol más világokat sejtünk sötétleni	
-72	reagál	azért	akkor egy fél mondat erejéig reagálnék kegyet gyakorolni ...	
-72	be+vonul	azért	Bevonultak a városba a hazát megmenteni	
-71	vissza+mehet	azért	visszamehet ezen a héten dolgozni .	
-71	ragad	azért	kisebbik lányának váratlan szerelme az okos népfőiskola-szervező parasztfiú iránt ragadja ki a balatoni villából meghalni	
-71	ki+próbál	azt	Ma kipróbálom bátorságomat igazat mesélni .	
-71	engedtet	azt	élni sem engedtetek ;	
-71	bukik	azért	amíg levegőt venni végre a felszínre bukott .	
-70	találhat	azt	időközben valami történni találhat	
-70	meg+jelöl	azt	amely szervezeteket Marsi Péter Pál képviselő úr javaslatát megelőzően támogatni megjelölt .	
-70	meg+ad	x	NOPE		@lex: a lehetőséget
-70	látszódik	x	hol délután kék gázok látszódnak fényleni	
-70	haza+ér	azért	A világos vezér hazaért védekezni .	
-69	oda+tesz	azért	odatettek rendet csinálni .	
-69	ki+enged	azért	egy idő után a városba is kiengedtek vásárolni .	
-69	jegyez	az	Féllábú nővel hálni szöröncsét jegyez		-@jelent
-69	át+ad	azért	akik átadtak neki egy-egy cipőt javítani	
-68	veszt	x	NOPE		@lex: értelmét
-68	űz	azért	mely előbb még öldökölni űzte őket	
-68	nyúlik	azért	Azzal már nyúlok is beseperni a bankot .	
-68	el+jöhet	azért	eljöhetsz majd horgászni	
-67	úszik	azért	úszott Pula felől lebombázni a torpedógyárat .	
-67	tanácsol	azt	nem tanácsolta a zsidókat Isten ellen harcolni .	
-67	meg+szakad	azért	kiért élni megszakadtam	
-67	láttat	x	Láttatok már kapuhidat felnyílni folyón		%lát
-67	álmodik	azt	élni álmodtam valaha	
-66	utasít	arra	Kelemen eprészni utasította a leányt	
-66	kelt	azért	melyet meg kelt bontani	
-65	ki+fárad	azért	ki már tetemét hurcolni kifárad	
-65	hajszol	azért	hajszolták a kedvem megkeresni	
-65	érhet	azért	ritkán érhetnek rá mesélni róluk .	
-64	szükségeltet	az	feltétlen szükségeltetik mélyebbre merülni	
-64	minősül	az	Pascalban írni programozásnak minősül -e ?	
-64	kerekedik	x	kedvem kerekedett vitatkozni vele		@lex: kedve
-64	invitál	arra/azért	olykor sétálni invitált valakit	
-64	fel+ér	azért	azt szinkronozni felér egy öngyilkossággal ?	
-63	meg+érhet	az	rövid távon még megérheti euróban eladósodni	
-63	le+száll	azért	Afrika között leszállt a Ság hegyre kukacot reggelizni .	
-63	fázik	attól	A hajóknak még fázik a fenekük vízre bocsátkozni	
-63	el+ad	azért	eladod magad Lopni	
-62	várhat	arra	hová eljönni várhatom	
-62	közelít	ahhoz	NOPE	
-62	csábít	arra	távolsági sofőröket csábít fürödni	
-61	telepít	azért	új életet kezdeni New Yorkba telepítette .	
-61	meg+kockáztat	azt	megkockáztatom megtudakolni	
-61	be+hoz	azért	Tizenegykor behozták kihallgatni	
-60	oda+ad	azért	odaadtak engem egy ismeretlen város gimnáziumába tanulni .	
-60	neki+ül	annak	nyomban nekiült írni	
-60	mászik	azért	Nyomában másztam először madártojást szedni	
-59	ültet	azért	ámulni egy könyvre ültetem	
-58	vissza+térhet	azért	visszatérhettem Kaposvárra befejezni a kiképzést .	
-58	le+dől	azért	subájukba takarózva ledőltek szundítani	
-58	hozhat	azért	Nem hozhatlak ide dolgozni .	
-58	be+költözhet	azért	NOPE	
-57	tűzik	azért	magam elé tűztem drámasorozatban ábrázolni az új fogalmú hazafiság nagy magyar példáit .	
-57	ront	azért	Henkerszkyre rontsanak kezet csókolni neki	
-57	próbáltat	x	nem próbáltatok panaszkodni rá ?		%próbál
-57	észre+vesz	azt	észrevettem benne felcsillanni azt a fényt	
-57	be+lép	azért	belép a lét alapértelmét kutatni	
-56	rühell	azt	rühellek gólyalábon járni !	
-56	meg+ér	az	Szerintem megér egy misét megnézni benne lagzilajost izzadni	
-56	könyörög	azért	Székely Magdát a József Attila-díj listájára könyörögtem fölvenni .	
-56	be+száll	azért	Esetleg beszállok sütni .	
-56	akaszt	azért	Az irodán a fogasra akasztja szikkadni .	
-55	utazhat	azért	utazhatott külföldre előadni	
-55	ki+hív	azért	még felelni is kihívta	
-55	irtózik	attól	irtózik újragondolni a hallottakat .	
-55	el+húz	azért	elhúzom a csíkot önkritikázni	
-54	meg+kér	arra	majd megkérte azt postázóba továbbítani soron kívül .	
-54	el+kísér	azért	öt napig pisilni is elkísért .	
-53	teremt|teremtet	arra	ábrándozni teremtette a természet	
-53	létre+jön	azért	amelyikkel vitatkozni e néhány válasz létrejött	
-52	terjed	az	a fiatalok közt ilyenféle övet viselni egy kicsit divatként terjedt .	
-52	be+ment	x	Bementem elbúcsúzni hozzá ...		%be+megy
-51	takarodik	azért	Akkor takarodj aludni !	
-51	iratkozik	x	iratkozzunk be teniszezni		%be+iratkozik
-51	halaszt	azt	mit gyáván egyre halasztunk fizetni .	
-51	félre+tesz	azért	Félretesszük hűlni .	
-51	be+enged	azért	beengedtek a raktárba nézelődni .	
-50	vissza+küld	azért	a titkárnő szokás szerint visszaküldi várakozni a folyosóra	
-50	kellhet	az	amelyhez bizonyos históriai stúdiumokat is kellhetett folytatni	
-50	gázol	azért	a szennybe tisztálkodni gázolok	
-50	be+tesz	azért	amit betesztek sülni a sütőbe	
-49	le+tesz	azért	Letették hűteni	
-49	el+vár	azt	NOPE	
-49	elő+készít	azért/arra	NOPE	
-49	be+állít	azért	beállítottak mosogatni .	
-48	keveredik	azért	NOPE	
-48	kényszerülhet	arra	Ebből következően néhány kiadó csökkenteni kényszerülhet lapja terjedelmét	
-48	fektet	azért	aludni fektette gyári szobájában .	
-48	ébred	azért	Ébredni is citeraszóval ébredtek .	
-48	bele+fog	abba	Belefogtam elmondani e tény egy-két fájdalmas következményét	
-47	vissza+hív	azért	A jelenlegi vezetőség mindenkit visszahív dolgozni .	
-47	vállalkozik	arra	egészen ingyen vállalkozott tanítani .	
-47	tanítgat	arra	tanítgatta szép szóval írni	
-47	sért	az	így törvényt hozni sérti azokat a normákat	
-47	le+lép	azért	Lelépek tanulni .	
-47	fel+áll	azért	amikor először felállt a dobogóra elszavalni	
-47	el+felejtettet	x	erről az apróságról elfelejtettetek szólni .		%el+felejt
-47	be+nyújt	azért	pontosan az ellenzék észrevételei mentén újra benyújtják módosítani	
-46	térhet	azért	nem térhetnek be egyetlen házba se melegedni ...	
-46	találkozhat	azért	a rokonok a hídon találkozhassanak elmondani egymásnak	
-46	szándékol	azt	egy sose-volt-világ bejáratát szándékolja jelképezni	
-46	őrül	x	Nem vagyok őrült még egyszer nősülni !		%meg+őrül
-46	ki+ugrik	azért	kiugrok ebédelni	
-46	ki+tűzik	azért	fehér ingemet kitűzöd száradni fagyra	
-46	ígérkezik	x	Simának ígérkezik szándékom kifuttatni .		@lex: simának, jónak...
-46	haza+utazik	azért	hazautazott nyaralni szülőhazájába	
-46	el+hoz	azért	Elhoztuk ide körülnézni .	
-46	árthat	az	NOPE	
-45	tör	azért	nagyon fájni a felszínre tör	
-45	telepszik	azért	közéjük telepszem rakosgatni őket témánként	
-45	le+vág	azért	a galambot levágják megfőzni .	
-45	le+ment	x	lementünk az udvarra játszani .		%le+megy
-45	ki+repül	azért	kirepült a kalitkából szárítkozni	
-45	haza+jár	azért	éjszakánként hazajárt aludni	
-45	érezhet	azt	az egyén a végtelenség huzatát érezhette önmagán átáramolni .		@lex: jónak
-45	el+rendel	azt	elrendelte telekkönyvileg törölni	
-45	el+feledkezik	arról	elfeledkezett ön arról beszámolni	
-45	be+ülhet	azért	Beülhetek meghallgatni ?	
-44	vezérel	azért/arra	látványt habzsolni vezérelt .	
-44	téved	azért	hisz csak nullázni tévedtél ide	
-44	próbálkozhat	azzal	Csak következtetni próbálkozhatom	
-44	meg+állít	azért	engem méterenként megállítanak igazoltatni	
-44	biztat	arra	a monyasokat hágni biztatták	
-44	áhít	azt	nem áhítja puszta sznobériából utánozni a tömeg .	
-43	tódul	azért	ahova ugyanúgy tódultak a pestiek mulatni	
-43	szegődik	azért	Szerény hangommal hozzád szegődnék énekelni	
-43	léphet	azért	szinte az előadásában szereplő vesszők gyanánt léphetett ki hűsölni a hatalmas erkélyre	
-43	ki+lép	azért	amint kilépek a balkonra rágyújtani .	
-43	járul	azért	Panaszkodni járult a kiscseléd	
-43	int	attól/azért	az eretnek őrjöngőt eltávolítani intik	
-42	tekintet|tekint	x	A kollektív tudat nem tekintette többé bűnnek meglopni		@lex: kötelességének, megtiszteltetésnek...
-42	meg+nyer	azt	megnyerték vezényelni Rácz Mártont	
-42	hall	azt	Zörgő babszárat hall pattogni a halántékánál	
-41	vissza+utasít	azt	visszautasítja ingyen közölni a házeladási hirdetést	
-41	vándorol	azért	híveket gyűjteni vándorolt	
-41	szorít	azért	A török Kassára szorította fel meghalni .	
-41	kívánhat	azt	senki se kívánhatja tőlem ezt a szöveget végighallgatni .	
-41	ki+szalad	azért	mire én kiszaladtam játszani	
-41	javít	az	a lincselők közé keveredni javítja a hatékonyságot .	
-41	föl+megy	azért	mire a kimosott ruhákkal fölmentem teregetni a padlásra .	
-41	fel+rak	azért	farmernadrágját felrakta száradni a fűtőtestre	
-41	el+ugrik	azért	elugrik a büfébe reggelizni	
-40	sürget	azért	azokat a törvényeket sürgesse minél hamarabb meghozni	
-40	sétál	azért	sétálj el munkát keresni	
-40	rohangál	azért	nem rohangáltunk ki vigasztalni	
-40	meg+taníthat	arra	A táborban megtaníthatnák őket úszni .	
-40	ki+választ	azért/arra	amit előadni kiválasztunk	
-40	ki+kerül	azért	kikerült a világ legnagyobb divatközpontjaiba dolgozni	
-40	kerget	azért	dolgozni kergeti	
-40	gondolkozik	azon	mégis gondolkoztok szívetekre ölelni	
-40	főz	azért	NOPE	
-40	fel+ugrik	azért	most felugrott megkérdeni	
-40	be+törik	x	amíg az éppen aktuális politikusok érdekei szerint betörsz kazettát keresni		%be+tör
-39	vágyódik	arra	Vágyódtam tudni	
-39	tarthat	az	pl. egy linuxot elég sokáig tarthat kiismerni egy sima felhasználónak .	
-39	tár	azért	égszínü szárnyát repülni tárja		@lex: szélesre
-39	taníttat	arra	Minek taníttattak hegedülni ?	
-39	oktat	arra	énekelni oktatná a pacsirtát .	
-39	ki+ad	azért	kiadták birkát őrizni a járásszéli rokonokhoz	
-39	jő	x	Nem jő megnézni senki síromat .		%jön
-39	fel+készül	arra	felkészülsz az ellentétével siklani .	
-39	bírhat	azt	a nyelv nem bírhat fölmagasodni	
-38	vágyakozik	arra	vágyakoznék megismerni	
-38	szökik	azért	tanulni szökött a városi iskolába	
-38	remélhet	azt	amit meglátni sohasem remélhettem	
-38	meg+feledkezik	arról	megfeledkezzünk valami apró ajándékot vinni .	
-38	le+küld	azért	Leküldtem őt a konyhába főzni	
-38	kapcsolódik	az	NOPE	
-38	hátra+jön	azért	hátrajönnek telefonálni	
-38	el+vihet	azért	pl. elviheted vacsizni .	
-38	bérel	azért	Ki bérelte fel őket az egyszerű díszletezőmunkás szerepében mindent megfigyelni ?	
-38	becsuk	azért	becsukták a szemüket pihentetni	
-37	vissza+jön|jő	azért	valamelyik este visszajövök a szállásra beszélgetni a lányokkal	
-37	segédkezik	abban	is segédkeznek megoldást találni .	
-37	rendeltet	arra	Az egyiknek élni rendeltetett	
-37	össze+áll	azért	egy csapat kamasz összeállt beszélgetni .	
-37	meg-meg+áll	azért	meg-megállt hallgatózni .	
-37	helyesel	azt	erkölcsileg helyeseljük kárpótlásban részesíteni .	
-37	formál	x	jogot formálnak beleszólni mások döntésébe		@lex: jogot
-37	fel+veszik	x	Felvesznek valamelyik magánirodába körmölgetni minimálbérért .		%fel+vesz
-37	fel+hív|hí	azért	felhívod vacsorázni	
-37	el+jön|jő	azért	Eljövök segíteni .	
-37	csatol	azért	amiket az ember repülni magára csatolt	
-37	be+fejez	azért	NOPE	
-36	szakít	x	konzuli munkád közben időt szakítottál meglátogatni !		@lex: időt
-36	ránt	azért	sírni ránt .	
-36	meg+jön	azért	Amúgy nekem is néha megjön a gusztusom világvárost építeni	
-36	könnyít	azt	A hit könnyíti elviselni az élet nehézségeit .	
-36	haza+tér	azért	csomagolni hazatértem	
-36	elő+kerül	azért	NOPE	
-36	el+indít	azért	elindít gondolkodni !!	
-36	el+bújik	azért	elbújnak a bokrok alá ölelkezni .	
-36	csúszik	azért	Csúszott tanulni ?	
-36	aggódik	amiatt	aggódtak egy esetleges bolsi utódkormánynak alárendelni a vád képviseletét .	
-35	szárnyal	azért	NOPE	
-35	össze+jár	azért	az emberek összejárjanak beszélgetni	
-35	le+ugrik	azért	leugrom sörözni	
-35	eshet	x	nehezére eshet ezt olyan embernek hinni		@lex: nehezére
-35	dug	azért	mások szeme láttára a cselédlányhoz dugtál aludni .	
-35	borul	azért	a válladra borulna zokogni egy igazi kék ridegmarha .	
-35	be+jöhet	azért	Esetleg bejöhetne elbúcsúzni .	
-34	reménykedik	abban	A környék hajléktalanjai talán melegedni reménykednek itt	
-34	ragaszkodik	ahhoz	NOPE	
-34	le+feküdhet	azért	lefeküdhessen szunyókálni egy kicsikét .	
-34	ki+hajt	azért	kihajtják őket dolgozni	
-34	hezitál	azon/attól	mégis sokan hezitálnának rendőrt hívni	
-34	fel+lép	azért	felléptem megszemélyesíteni	
-34	el+képzel	azt	Elképzelem őket birkózni a cukornáddal	
-34	be+kerül	azért	NOPE	
-34	át+ment	x	Mikor a mamájuk átment a szomszédba altatót kölcsönkérni		%át+megy
-33	vezethet	azért	Arányokról vitatkozni elég gusztustalan dolgokhoz vezethet	
-33	terel	azért	gyakran terelnek a karaván végére pihenni	
-33	szerethet	azt	szerethet kavarni	
-33	neki+indul	annak	Aztán nekiindult keresni az apját .	
-33	mozdul	azért	mégis tenni mozdul	
-33	meg+adatik	az	Akinek megadatott ezen a két úton járhatni	
-33	lapul	azért	a fűre lapultak havasi pocokra vadászni .	
-33	foghat	x	foghatják látni	
-33	fel+nő	azért	NOPE	
-33	fel+ajánl	azt	két dandárt felajánl integrálni a NATO-haderőbe	
-33	fáraszt	az	Négykor kelni nem fáraszt ?	
-33	éltet	azért	mely élni éltetett	
-33	el+járhat	azért	ráadásul délutánonként jó pénzért eljárhattam fusizni	
-33	be+rak	azért	aztán berakta száradni a tűzhely sütőjébe	
-33	be+ad	azért	csak beadtam csináltatni	
-32	vissza+ül	azért	visszaült lóbázni .	
-32	rá+kényszerül	arra	jobban rákényszerült tudni a keresztény vallás szabályait nálunk	
-32	motivál	arra	NOPE	
-32	meg+hoz	azért	másokon segíteni sokszor meghozza a hasznát a segítőnek is .	
-32	meg+fordul	x	megfordultam búcsúzni		@lex: a fejében
-32	hozzá+lát	ahhoz	hozzálátott újat készíteni .	
-32	el+un	azt	mikor már elunta várni a lányait	
-32	el+látogat	azért	ahová minden pihenni vágyó ember szívesen ellátogat .	
-32	dobál	azért	NOPE	
-32	be+érkezik	azért	NOPE	
-31	vezényel	azért	Fejszésre vezényeltek teherautót rakni .	
-31	undorodik	attól	undorodtunk egy levegőt szívni velük	
-31	süllyed	azért	NOPE	
-31	lóg	azért	mi is a Vagon presszóba lógtunk ki sörözni	
-31	le+szalad	azért	a néni leszaladt bevásárolni	
-31	le+marad	azért	lemaradok még vigasztalni őt	
-31	le+ad	azért	Leadnak egy szerelési utasítást fordítani	
-31	ki+jelöl	arra	NOPE	
-31	kételkedik	abban	NOPE	
-31	haza+visz	azért	Hazavittem olvasni	
-31	hajol	azért	meríteni a kút fölé hajolt	
-31	fel+visz	azért	felvisz kocsikázni a hegyekbe	
-31	félre+vonul	azért	félrevonultak néhány napra pihenni .	
-31	erőltet	azt	ahová felmászni senki sem erőltetett .	
-31	ellenez	azt	a Trón Nyilvántartó Hüpographeusz Magnificuszának hírrel járni nem ellenzem .	
-30	törődik	azzal	ki már lépni is törődött .	
-30	tétovázik	azon	Ne tétovázzunk odahagyni	
-30	oda+ül	azért	egy kicsit odaülnék dideregni	
-30	mulaszthat	x	Nem mulaszthatjuk el megemlíteni		%el+mulaszt
-30	merészelhet	azt	a nemességet támadni merészelhetné .	
-30	meg+könnyít	az	Világsztárokkal dolgozni megkönnyíti	
-30	meg+akadályoz	azt	ami megakadályozza látni azt	
-30	le+dőlhet	azért	ledőlhetek sziesztázni .	
-30	ki+rohan	azért	kirohant megnézni a jégszekrényt	
-30	ki+próbálhat	azt	NOPE	
-30	ki+néz	azért	NOPE	
-30	kínálkozik	arra	végre alkalom kínálkozik kikezdeni	
-30	be+húzódik	azért	mire behúzódott a cselédszobába bőgni	
-30	át+küld	azért	átküldte a szomszédba kölcsönkérni .	
-29	vissza+fordul	azért	Az ajtóból még visszafordult megkérdezni	
-29	üldöz	azért	NOPE	
-29	le+mehet	azért	szünetben mindig lemehetett aludni a szakácshoz .	
-29	ki+hoz	azért	Kihoztam ide három lovat legelni	
-29	fel+jár	azért	feljártam hozzájuk takarítani .	
-29	ereszt	azért	most eresztik itatni .	
-29	el+vezet	azért	mindig elvezet ide benézni	
-29	el+lop	azért	Én egyet elloptam megfesteni	
-28	vissza+feküdhet	azért	majd visszafeküdhetek aludni egy kicsit .	
-28	ösztönöz	arra	ösztönöz színt vinni a kapcsolatba .	
-28	meg+hagy	azért	a magad hatáskörén belül fellépni meghagyom .	
-28	le+fektet	azért	lefektetjük aludni	
-28	kelt|keltet	azért	Mért nem keltettél fel tornászni ?	
-28	hull	azért	NOPE	
-28	haza+ugrik	azért	Éppen csak hazaugrott üdvözölni szüleit .	
-28	gyötör	azért	guggolni gyötrik görcsei	
-28	elégszik	x	elégedj meg azt hallani		%meg+elégszik
-28	be+térhet	azért	újra betérhetsz egy templomba imádkozni	
-28	be+állhat	azért	beállhatott az ember a boltba melegedni	
-27	zarándokol	azért	a világból turisták tízezrei zarándokolnak oda megbámulni e romokat	
-27	tojik	arra	tojnak végiggondolni .	
-27	szerződik	arra	nyakát szegni szerződtünk .	
-27	szaladgál	azért	mi a csudát szaladgál protekciót keresgélni	
-27	remeg	attól	akik beleírni sem remegnek !	
-27	pillant	azt	olyasmit pillantott meg onnan közeledni	
-27	meg+száll	azért	NOPE	
-27	meg+nyugtat	az	megnyugtat tudni	
-27	ki+nyit	azért	szellőzni kinyitottad éjjel az ablakot	
-27	hátra+megy	azért	mikor hátrament enni adni a tyúkjainak	
-27	fordulhat	x	NOPE		@lex: megfordulhat a fejemben
-27	fel+kerekedik	azért	Hősünk felkerekedik hát megtudni az igazságot	
-27	el+tart	az	De beletanulni a demokráciába nyugaton is eltartott pár száz évig	
-27	el+menekül	azért	amitől elmenekültem szörfözni .	
-27	el+dől	azért	némi édes-bús mulatozás után eldőlnek aludni .	
-27	bele+fér	az	hazudni még belefér .	
-27	át+ugrik	azért	Átugrok másfelé nézelődni ...	
-26	vissza+von	azért	a kormány visszavonná átdolgozni	
-26	riad	arra	maga sem riadt vissza kellő taktikával váltogatni azokat .	
-26	meg+tilt	azt	megtiltja az erőszakos magatartást követendő példaként megjeleníteni	
-26	meg+szüntet	azt	Megszüntetek már félni	
-26	meg+próbálkozhat	azzal	később megpróbálkozhatnám újrakezdeni	
-26	meg+kezdhet	azt	megkezdhetjük berendezni a tantermeket .	
-26	ki+dob	azért	kidobjuk a kert végébe rohadni	
-26	haza+küld	azért	ő most mindenkit szép szóval hazaküld lefeküdni .	
-26	föl+tesz	azért	föltette a tésztát főzni	
-26	érkezhet	azért	érkezhetünk belépni annyian .	
-26	be+érik	azért	Aztán beértem dolgozni	
-25	ráz	azért	föltámadni ráz szerelemben-szívbénúlt halottat a másik	
-25	özönlik	azért	miután a népek özönlöttek megnézni a tetthelyet	
-25	meg+ragad	x	egy füst alatt megragadtam az alkalmat utánanézni		@lex: az alkalmat
-25	meg+pillant	azt	megpillantja a ház körül körözni	
-25	közeledik	azért	NOPE	
-25	ki+veszik	azért	Mikor kiveszem mutatni	
-25	ki+jöhet	azért	Kijöhetne magának törülgetni az úriasszony .	
-25	ki+járhat	azért	sétálni is kijárhatnak a börtönből	
-25	haza+érik	x	NOPE		%haza+ér
-25	fel+szólít	arra	felszólítottak felelni .	
-25	fekhet	azért	nem fekhettem le pihenni	
-25	egyezik	abban	NOPE	
-25	be+dug	azért	bedugta az orrát melegedni	
-24	ugrál	azért	Állandóan ugráljak átkapcsolni ?	
-24	szűnhet	x	nőni sosem szűnhet	
-24	száműz	azért	királyfit békává bűvölő erő száműzte körmölni az apját	
-24	meg+tart	azért	NOPE	
-24	meg+nő	az	az új rendszerrel megnő a diákok esélye sikeresen belépni a munka világába	
-24	meg+ígér	azt	amit elküldeni megígért	
-24	lohol	azért	Loholt átölelni .	
-24	kockáztat	azt	kockáztassa a szárazföldicsapatokat is bevetni	
-24	ki+fejleszt	azért	NOPE	
-24	hozzá+tesz	azért	hozzáteszem a Fürj utcai Görög Pizzériát sem érdemes kihagyni .	
-24	haza+mehet	azért	hazamehetett lefeküdni .	
-24	hátrál	azért	NOPE	
-24	halogat	azt	ne halogasd visszahozni a szép tavaszt .	
-24	gyújt	azért	te gyújts a lelkünkben tüzet nyőstényt teperni	
-24	feszül	azért	sarkantyús már cicerélni feszül	
-24	el+áll	azért	Elálltam vályogot verni	
-24	bújtat	azért	NOPE	
-24	be+vesz	azért	a húgomat bevették dolgozni az óvodába	
-24	be+szalad	azért	apám beszalad ügyeit intézni valahová .	
-24	be+rendel	azért	apja berendeli őket a házba aludni	
-24	bele+kerülhet	azért	NOPE	
-23	rá+kezd	arra	én egyszer rákezdek botrányt csinálni	
-23	mellékel	azért	NOPE	
-23	ki+vesz	azért	kivettük repülni .	
-23	ki+vág	azért	a nagyobbik tömeg ütlegelni kivágja a kisebbiket .	
-23	ki+sétál	azért	kisétáltunk gombászni az erdőbe	
-23	gyülekezik	azért	amelyek már lakmározni gyülekeznek fölöttük .	
-23	érvel	amellett	tanú jelenlétében végrehajtani érvelt .	
-23	el+ballag	azért	majd elballag a kocsmába eszmét cserélni .	
-23	abba+hagy	azt	A zenekarnak is abbahagyott játszódni .	
-22	vonulhat	azért	Reggelizni vonulhattak	
-22	vissza+tesz	azért	visszatesszük sülni	
-22	vissza+tart	azért	NOPE	
-22	vissza+áll	azért	Most a második visszaáll őrködni	
-22	össze+gyűjt	azért	fabulázni összegyűjtöm	
-22	neki+láthat	annak	nekiláthatok ping-pong labdát keresgélni ...	
-22	neki+esik	annak	Mindjárt nekiesek enni	
-22	le+utazik	azért	leutaznak a Balatonra zöldséget árulni	
-22	le+ültet	azért	leültetek már ezt megbeszélni azóta ?	
-22	le+esik	azért	ahova esténként táplálkozni leestem	
-22	lebeg	azért	NOPE	
-22	ki+utazik	azért	kiutazik menedékjogot kérni	
-22	ki+húz	azért	aztán mikor a nép kihúzott a földekre aratni	
-22	kapaszkodik	azért	az útkereszteződésnél átérve pihenni egy fába kapaszkodott	
-22	gondolhat	azt	NOPE	
-22	emlékszik|emlékezik	arra	Emlékezzél visszatérni hozzánk	
-22	el+van	azért	Elvoltam gombászni itt az erdőben	
-22	előre+megy	azért	Előrement az öregember kötelet csinálni	
-22	el+érkezik	azért	amelynek a színét elérkezik a keresztelésnél megállapítani .	
-21	vissza+jöhet	azért	visszajöhet dolgozni a rendelőbe .	
-21	tölthet	azért	NOPE	
-21	tetszet	x	Nem tetszettek hallani		%tetszik
-21	terít	azért	Ideje terített asztalhoz ülni	
-21	telhet	x	egyenként elkapni sok embert sok időbe telhet		@lex: időbe
-21	tanulgat	azt	Most tanulgatok járni .	
-21	méltóztat	arra	Méltóztat parancsolni valamit ?	
-21	le+telepszik	azért	a vízimalom udvarán letelepedtünk egy félórára reggelizni .	
-21	le+néz	azért	szoval a nejnénivel lenéztünk most a hullámokat nézni	
-21	le+állít	azért	Leállította a hajtóművet pihentetni .	
-21	lankad	ahhoz	nem lankadtam mondani	
-21	ki+csap	azért	kicsapták legelni az oroszlánbarlang szikláira .	
-21	járat	azért	Engem ide járattak nyiratkozni	
-21	irányul	arra	NOPE	
-21	fontolgat	azt	Fontolgatom megnyitni	
-21	erőlködik	azon	Nem erőlködtem menteni magam	
-21	el+zavar	azért	őt gyerekfejjel elzavarták főzni	
-21	el+veszt|vesztet	az	a tulajdonosok elvesztették jogaikat szabadon kiadni a lakásokat .	
-21	el+távozik	azért	csak most eltávozott a sofőrt megkeresni .	
-21	el+felejthet	azt	a szerzőt elfelejthetjük meghívni	
-21	cipel	azért	nem cipel el bennünket mozi után vacsorázni !	
-21	be+sétál	azért	szépen besétálok vasárnap délután megnézni	
-21	be+nézik	x	Délután benéztem olvasgatni		%be+néz
-21	be+iratkozik	azért	majd beiratkoznak szaunázni	
-21	be+épít	azért	NOPE	
-21	ajándékozik	azért	lehetőséget ajándékozott Budapestnek megtenni azt	
-20	vissza+ment	x	visszamentünk megbeszélni		%vissza+megy
-20	társul	azért	az éppen nálunk vendégeskedők gyerekeihez társuljon játszani	
-20	szór	azért	NOPE	
-20	pusztul	azért	NOPE	
-20	nyomul	azért	Amerikáig nyomul hitet tanulni .	
-20	ki+tart	azért	erre a nyárra kitart bejárni .	
-20	járkál	azért	most majd megint járkál panaszkodni fűhöz-fához	
-20	gátol	az	NOPE	
-20	fel+mászik	azért	felmászott az irodaépület tetejére aludni	
-20	el+szállít	azért	a vontató elszállítja a rönköt fűrészelni	
-20	elő+jön	azért	olykor magától előjön tökéletesebb munkát végezni	
-20	elő+irányoz	azt	az indítványok mintegy 13 milliárd 424 millió forinttal előirányozták csökkenteni .	
-20	el+fordul	azért	elfordultak tollászkodni .	
-20	el+fárad	abban/azért	elfáradtak hallgatni .	
-20	be+költözik	azért	aki beköltözik lakni a falutokba ?	
-19	települ	azért	Válladra pihenni madár települ ,	
-19	össze+hoz	azért	NOPE	
-19	nyújthat	x	hátha ez az új tudomány nyújthat segédkezet kivezetni az emberiséget abból a pokolból		@lex: segédkezet
-19	lök	azért	amely élni lökött	
-19	ki+jön|jő	azért	majd kijövök ide a hídra festeni .	
-19	ki+akaszt	azért	kiakasztotta száradni	
-19	hurcol	azért	hurcolják faluhosszat sétálgatni .	
-19	helyezkedik	azért	aludni helyezkednek .	
-19	haladhat	azért	NOPE	
-19	fosik	attól	egyedül meg fosok menni .	
-19	fel+emel	azért	NOPE	
-19	döglik	azért	csakugyan azzal döglöttem le aludni	
-19	csalogat	azért	Meg-meghajolva csalogatlak lapulni lábam elé	
-18	zúz	azért	NOPE	
-18	terheltet	az	felküldeni ne terheltessenek ...	
-18	támadhat	x	a mostani jog(ász) államban néha valóban önbíráskodni támadhat kedve az állampolgárnak .		@lex: kedve
-18	szállhat	azért	lehetőleg szőlőhegyekre szállhat pihenni	
-18	sodródik	azért	Sodródtunk pusztulni az árral	
-18	rá+ért	x	a magyar ráért eljönni a jó hírek után is .		%rá+ér
-18	óv	attól	Óvd magad annak látszani	
-18	menetel	azért	Az emberek mégis fegyveresen meneteltek világot látni .	
-18	mellőz	azt	gyakran mellőzik megkülönböztetni azokat	
-18	meg+állhat	azért	Itt megállhatnánk csodálkozni .	
-18	márt	azért	edzeni márt a hideg vízbe ,	
-18	le+rohan	azért	hátra sem nézve lerohantunk a kertbe hógolyózni .	
-18	jártat	x	Később aztán jártatok haknizni is .		%jár
-18	idegenkedik	attól	A költészetről idegenkedem közvetlenül beszélni .	
-18	hí	x	hítta szappanozni		%hív
-18	győzhet	azt	Aztán meg győzhet az ember mosakodni	
-18	el+vonulhat	azért	elvonulhatok dolgozni .	
-18	el+kér	azért	elkérte játszani	
-18	csomagol	azért	NOPE	
-18	be+zár	azért	Bezárunk a pofontérszobába kupálódni ...	
-18	be+küld	azért	Beküldtek egy osztályba helyettesíteni	
-18	be+jön|jő	azért	bejövök pénzt keresni	
-18	ballag	azért	lefeküdni ballagott fölfelé	
-17	viszolyog	attól	amely viszolygott tudomásul venni e népek értékeit .	
-17	szid	azért	NOPE	
-17	szalaszt	azért	Akármerre szalasztom itthonról ezt-amazt intézni	
-17	sejtet|sejt	azt	olvashatni sejtettem szemében ,	
-17	meg+tér	azért	ahová éjszakára megtértem aludni	
-17	meg+nézhet	azt	NOPE	
-17	meg+ijed	attól	akik szabályszerűen megijedtek iskolába járni .	
-17	le+hív	azért	Lehív beszélgetni	
-17	követhet	azért	NOPE	
-17	futhat	azért	még anyádhoz se futhatsz megbeszélni	
-17	föl+kel	azért	bizonyára fölkelt elkészíteni a reggelit	
-17	fel+szalad	azért	átizzadva felszaladtam a palahányóra razziázni	
-17	el+tesz	azért	tavasszal eltette a zsákokat pihenni	
-17	el+száll	azért	elszáll meghalni hamar	
-17	el+ragad	azért	NOPE	
-17	el+fér	azért	NOPE	
-17	ejt|ejtet	x	Közben leendő apósom módját ejtette értésemre adni		@lex: módját
-17	be+jut	azért	egykor az országos kapitányságra valakik egyszerűen bejutottak aranyat szabadon árusítani .	
-17	át+vonul	azért	majd átvonultak a Piros Lóba sörözni .	
-17	át+hív	azért	áthívtak kártyázni .	
-16	vissza+visz	azért	akkor visszaviszlek az ágyadba aludni .	
-16	vissza+húz	azért	azzal újra visszahúzta fejét hallgatózni .	
-16	vetődik	azért	főleg Magyarországra vetődnek el munkát keresni	
-16	ügyel	arra	NOPE	
-16	tülekszik	azért	két lelkecske is tülekszik bejutni ugyanabba a testbe ?	
-16	taníthat	arra/azt	hogyan taníthatja meg szopni a csecsemőt	
-16	szerezhet	azért	csak ekként szerezhetek reális esélyt megtudni	
-16	röpül	azért	röpülnek húst tépni az arcból a férgek .	
-16	pattan	azért	a nagyfilm között a nép egyszerre pattant föl pisilni	
-16	oda+siet	azért	odasietek fordítani	
-16	meg+szűnhet	x	megszűnhetnék élni	
-16	le+fekhet	azért	lefekhet pihenni	
-16	kuncsorog	azért	Mégis naponta kuncsorognak be egész családok befogadást kérni .	
-16	ki+szökik	azért	én kiszöktem sétálni a királyi kertbe	
-16	kísérletezik	azzal	én se kísérletezzek olyan dolgokban dönteni	
-16	ki+lóg	azért	a kínai előadások alatt kilógott cigarettázni	
-16	ki+készít	azért	NOPE	
-16	ki+állít	azért	NOPE	
-16	kecsegtet	az	Az elemzők szerint az új generációra összpontosítani több sikerrel kecsegtet	
-16	helyettesít	abban	NOPE	
-16	előre+visz	az	logikusan gondolkodni előrevisz .	
-16	el+felejtkezik	arra	a koncerttel kapcsolatban elfelejtkeztem kiemelni egy olyan részletet	
-16	be+fizet	arra	befizet hozzánk enni	
-16	át+szalad	azért	Majd este átszaladok megbeszélni .	
-16	át+ruccan	azért	átruccanok tesztelni .	
-15	vitet	azért	kit vitetnék elvonókúrára epét öklendezni	
-15	vissza+kerül	azért	a diploma után visszakerült az egyetemre oktatni .	
-15	tolong	azért	Ezzel szemben a munkások sem tolonganak segíteni a nyomorgókon	
-15	tanultat	x	Pesten nem tanultatok énekelni		%tanul
-15	szabadít	azért	az utcára szabadították őket vacsorát keresni .	
-15	sorakozik	azért	magánvállalkozók sorakoztak fel segíteni .	
-15	ruccan	azért	Budapestről ide ruccant le telelni	
-15	rohanhat	azért	akik rohanhatnak minden film után új autót venni .	
-15	parkol	azért	épp egy rendőrőrs előtt a pázsiton parkolt le pihenni részegen	
-15	omlik	azért	NOPE	
-15	láttatik	x	sírni láttatik az ég	
-15	ki+vezényel	azért	kivezényeltek az udvarra sétálni .	
-15	ki+nevez	azért	az illetőt kinevezték az egyetemre tanítani .	
-15	ki+mászik	azért	egy katona kimászott a fedezékből a dolgát végezni	
-15	ki+kel	azért	Hát kikelsz itten verekedni talán a főnökkel	
-15	kényszeríttet	arra	megenni kényszeríttettek	
-15	izgul	attól/amiatt	NOPE	
-15	iszonyodik	attól	miért iszonyodom egy olyan tükörbe nézni	
-15	irányoz	x	NOPE		%elő+irányoz
-15	fel+ment	x	Felmentem a lakásunkba telefonálni		%fel+megy
-15	el+szegődik	azért	Legénykorában elszegődött valahová dolgozni .	
-15	ellenkezik	az/azzal	stílusáról topicot nyitni ellenkezik a Kódex elveivel	
-15	el+határoz	azt	elhatároztam hallgatni addig	
-15	dukál	az	vajon kinek dukál itt visszaütni	
-15	csönget	azért	csöngettek már be érdeklődni ?	
-15	buzdít	arra	nem is buzdítunk senkit bármi jogtalant tenni ellenük .	
-15	be+oszt	azért	Beosztották fegyelmezni .	
-15	bele+fárad	abba	amíg belefáradunk lakni benne ?	
-15	be+járhat	azért	a kutyák bejárhatnak összepiszkítani a homokot .	
-15	át+néz	azért	átnéztem a szülőszobába ott is belekotyogni a dolgokba .	
-15	át+áll	azért	de érdeklődés híján nemsokára átáll Royal Colát meg efféle szarokat gyártani .	
-14	sokall	azt	egy-tálból enni nem sokallotta	
-14	rángat	azért	ne rángassák őket szerepelni ide-oda	
-14	neki+vág	annak	nekivágtunk felfedezni a szigetet .	
-14	mentet|ment	x	NOPE		%megy
-14	meg+vár	azt	A buszt megvárták elhaladni	
-14	meg+őrül	attól	Majd megőrültem tönkretenni az alakomat !	
-14	meg-meg+próbál	azt	meg-megpróbált szabadulni .	
-14	le+rak	azért	leraktam hagymás olajba érni .	
-14	küszködik	azért	áramlani küszködik	
-14	ki+ruccan	azért	kiruccantak a tópartra piknikezni .	
-14	ki+rendel	azért	igazán beteget is kirendeltek dolgozni .	
-14	ki+bocsát	azért	NOPE	
-14	ki+állhat	azért	Ezekben a rongyokban legfeljebb kiállhatok koldulni a Rókus elé ...	
-14	készülhet	arra	készülhet a konyhára vizet vinni .	
-14	idegesít	az	NOPE	
-14	haza+ment	x	hazamentünk demokráciát építeni		%haza+megy
-14	fogan	azért	a műveltség emelkedni fogand .	
-14	fogadhat	azért	Akárki napszámost nem is fogadhatsz fel kapálni	
-14	félre+áll	azért	mindjárt félreállottak a folyosón beszélgetni .	
-14	fel+keres	azért	felkereste őket megtudakolni	
-14	el+hívhat	azért	a legrondább titkárnőt is elhívhatják vacsorázni .	
-14	el+hajt	azért	elhajtott valakihez bejelenteni	
-14	el+csal	azért	aztán elcsalom sétálni .	
-14	be+ugorhat	azért	tíz percre beugorhatok a családomhoz elbúcsúzni	
-14	be+toppan	azért	Bernát úr betoppant kávézni	
-14	át+visz	azért	átvigye igazgatni a keleti szektorba ?	
-14	át+képez	arra	A tanárokat átképezik szénát kapálni	
-14	ajánlkozik	arra	Trágyát hordani már nem ajánlkoztam	
-13	zúdul	azért	fosztogatni zúdult a török .	
-13	vissza+hoz	azért	aztán visszahozták fényképezni	
-13	tűr	azt	Nézni sem tűri akárkinek	
-13	tündököl	x	Bírálni tündököl .	
-13	tovább+megy	azért	Dante továbbment meghalni	
-13	térdel	azért	nem térdelnek gyónni	
-13	találtat	x	kit már mindenki ismerni találtatott .	
-13	szégyenkezik	amiatt	minden bizonnyal szégyenkeznék előhozakodni .	
-13	sétálgat	azért	sétálgattunk a Tesco-ban venni egy kis rágcsát ...	
-13	preferál	azt	NOPE	
-13	pakol	azért	ellopni pakolja magát	
-13	oson	azért	a külföldi trénerek álruhában osonnának szemelgetni belőlük .	
-13	ömlik	azért	ömlik majd e sírgödört temetni	
-13	oda+rohan	azért	odarohanunk segíteni	
-13	méltat	x	NOPE		@lex: szóra
-13	meg+gátol	azt	meggátolt valahányszor már-már szólni	
-13	le+zuhan	azért	lezuhanok egy pár órára aludni	
-13	ki+merészkedik	azért	kimerészkedjem játszani a küszöb elé	
-13	ki+dől	azért	Nagynénim kidőlt még egy kicsit sziesztázni	
-13	kerít	x	Zöldikéből kerítették őket ünnepelni		@lex: sort
-13	jogosít	arra	másrészt hálistennek senki nem jogosított fel ilyesmit megtenni .	
-13	járogat	azért	Járogatott a mezőre szántani	
-13	izgat	az	Izgatta a fantáziámat ismét rendezni valamit .	
-13	íratik	x	Írasd be hegedülni ...		%be+írat
-13	igényelhet	az	NOPE	
-13	hozzá+kezd	ahhoz	amint hozzákezdek beírni	
-13	hihet	azt	józan ésszel nem hihet szikrát láthatni ott	
-13	haza+hoz	azért	akit a vőlegénye hazahozott a családnak bemutatni .	
-13	fukarkodik	azzal	ne fukarkodjatok meglepni a barátnőtöket .	
-13	föl+jön	azért	följött a nővérét meglátogatni	
-13	fel+jön|jő	azért	feljövök gépezni egyet	
-13	eridj	x	Eridj mosdani		%ered
-13	el+juthat	azért	ahol a nyáron mindenki eljuthat táborozni	
-13	el+járogat	azért	eljárogatott vadászni .	
-13	el+húzódik	azért	elhúzódott gondolkozni	
-13	el+áraszt	azért	amelyek elárasztják tartani	
-13	be+vállal	azt	bevállalja ezt megint megrendezni ..	
-13	be+segít	abban	besegítettünk leszedni a teherautókról	
-13	be+mászik	azért	Inkább bemászok a hűtőbe csokizni .	
-13	bele+kezd	abba	belekezdjek kifejteni	
-13	be+jelentkezik	azért	Én ugyan szándékaim szerint bejelentkeztem hozzászólni	
-13	át+mehet	azért	Átmehetünk mindjárt megnézni a lakást ?	
-12	vetkőzik	azért	derékra vetkőzött az anyja szappanát habbá verni .	
-12	utaztat	azért	nincsteleneket utaztatott a Balatonhoz nyaralni ...	
-12	tapsol	x	aki pecázni legyeket tapsol	
-12	szüntet	x	ezt szüntesse meg folytatni		%meg+szüntet
-12	szaporít	azért	akit szegény anyám szenvedni szaporított	
-12	száguld	azért	száguldjunk haza sokasodni .	
-12	suhan	azért	csillag suhanna leülni a székre	
-12	sóvárog	arra	Aki a mindenható mosolyát egy földi képben látni sóvárog	
-12	reszket	attól	gyúlni reszket	
-12	rendelhet	azért	Ilyen tilalmak megszegését a törvény is büntetni rendelheti	
-12	rá+tesz	azért	rátettek egy lábas teavizet melegedni .	
-12	rá+száll	azért	Rászállt tollászkodni egy fekete holló .	
-12	oda+szalad	azért	nagy sivalkodással odaszaladtak megnézni az eredményt .	
-12	oda+lép	azért	odalépett az apjához köszönni .	
-12	meg+szökik	azért	gyszer Adrika is megszökött ott az unokatestvérével sétálni .	
-12	meg+érez	azt	Megérezte az anyja kezét elnyugodni a vállán	
-12	le+térdel	azért	Mielőtt letérdelnél könyörögni .	
-12	le+tér	azért	NOPE	
-12	le+nyom	azért	Etit nagynehezen már lenyomtuk aludni	
-12	le+jön|jő	azért	Lejövök edzeni	
-12	le+hajol	azért	Újra lehajolt kimerni a szivárgást .	
-12	látszhat	az/annak	eltörpülni látszhattak azok a változások	
-12	kölcsön+ad	azért	kölcsönadnának egy kicsit erősödni előtte	
-12	ki+köt	azért	miközben ott kikötöttek fürdőzni .	
-12	ki+fut	azért	kifut a ló a pályáról füvet legelni	
-12	ki+feszít	azért	NOPE	
-12	ítéltet	arra	fölkelni ítéltetett	
-12	húzódozik	attól	sokan húzódoztak odahagyni házukat .	
-12	hangol	arra	továbbmenni hangol .	
-12	fütyül	arra	Fütyültek eljönni .	
-12	férhet	azért	ő meg nem férhet oda melegedni a tűz közelébe .	
-12	fel+száll	azért	bombázni is felszállnak -e majd onnan a NATO katonai gépei	
-12	fel+mehet	azért	Felmehetett a végtelen fenyvesben gyönyörködni	
-12	fel+küld	azért	aztán felküldte aludni	
-12	fel+ébred	azért	felébredünk pisilni	
-12	farag	x	NOPE	
-12	esküszik	arra	téged lenyakazni esküdött .	
-12	el+repül	azért	elrepültek permetezni .	
-12	el+múlik	x	kedve elmúljék itt letelepedni .		@lex: kedve
-12	ellent+mond	az	Az egyházak közül néhányat bármilyen indok alapján is privilegizálni teljesen ellentmond a vallási	
-12	el+küldhet	azért	egy mérnököt is elküldhetnek havat lapátolni .	
-12	el+hibázik	azt	elhibázott úgy átállni a többciklusú képzésre	
-12	dívik	az	Strassert baloldalisággal dívik vádolni .	
-12	bizonyulhat	x	Keményebb diónak bizonyulhat a tanulságok levonása után meghatározni a DSZM új stratégiáját .		@lex: x-nek
-12	be+néz	azért	lefekvés előtt a néni mindig benéz traccsolni .	
-12	be+kopog	azért	akihez bekopogott megkérdezni	
-12	be+íratik	azért	beíratták zongorát tanulni .	
-12	be+fut	azért	Köröm községből befut a cigány a városba a Tiszában fürödni	
-12	bátorít	arra	honnét a szikár eszmény egy kövér énekesnőt bátorít áriázni	
-12	át+sétál	azért	átsétálok az ebédlőbe kajálni .	
-12	át+mászik	azért	Átmászok egy másik ágy alá elhatárolódni ...	
-11	vissza+húzódik	azért	visszahúzódnak majd tanácskozni	
-11	vetkezik	azért	félig alva már aludni vetkezem	
-11	toboroz	azért	NOPE	
-11	tévedhet	azért	NOPE	
-11	szerettet	x	Eddig szerettetek ide járni .		%szeret
-11	rugaszkodik	azért	Törni egymást rugaszkodtak keményen Tiámat	
-11	robog	azért	maga robogott oda a professzor kívánságát kitudni	
-11	rá+megy	azért	konkrétan rámennek ellenőrizni az evásokra .	
-11	olvaszt	azért	Ők olvasztanak havat kis Csilla pelenkáit mosni	
-11	oda+küld	azért	odaküldték az erdőben a favágókhoz érdeklődni	
-11	oda+csődül	azért	erre a fél város odacsődül kíváncsiskodni	
-11	meg+jelenhet	azért	más tettes is megjelenhet a sötétben diót csemegézni	
-11	meg+jár	az	Egyszer megjárja még fehéret álmodni	
-11	mászkál	azért	A gyerekek pisilni mászkáltak	
-11	le+hoz	azért	lehozzák a kutyát sétálni	
-11	le+heveredik	azért	leheveredett a fűbe napozni	
-11	le+csúszik	azért	NOPE	
-11	körbe+jár	azért	én körbejártam ellenőrizni	
-11	ki+vándorol	azért	esetleg kivándorolsz karriert csinálni	
-11	ki+terít	azért	kiterítettem száradni a padlásra	
-11	ki+pattan	azért	a hapsi kora reggel kipattant az ágyból szemügyre venni az autót	
-11	ki+helyez	azért	kihelyezik az igénylőhöz dolgozni .	
-11	ki+baszik	azért	NOPE	
-11	ki+ballag	azért	kiballagtak megnézni	
-11	inspirál	arra	nem inspirálják a jó képességű fiatalokat az ágazatban maradni .	
-11	ide+hoz	azért	csak idehozta megmutatni	
-11	húzhat	azért	télen alanyi jogon húzhatna délre tárgyalni .	
-11	hűt	azért	NOPE	
-11	hathat	az	Ilyen környezetben komikusnak hathat magyar ügyekről szólni .	
-11	függeszt	azért	esetén függeszt fel veszteséget termelni	
-11	föl+kér	arra	Fölkérek táncolni egy lányt	
-11	fel+hoz	azért	NOPE	
-11	felejthet	x	nem is felejthetem el megnézni .		%el+felejthet
-11	fel+akaszt	azért	felakasztják lecsöpögni .	
-11	ereszkedik	azért	ezúttal nem ereszkedtek le inni a holtágba .	
-11	építhet	azért	NOPE	
-11	el+tol	azért	inasa eltolta vendégeskedni különböző körökbe .	
-11	el+tanácsol	azért	néhány hónapos tanácsadás után eltanácsoljuk a tanácsadókat máshova tanácsot adni	
-11	el+szalaszt	azért	a felemelő pillanatot elszalasztotta megörökíteni .	
-11	el+jő	x	szombatról-szombatra eljő minden test engem imádni		%el+jön
-11	el+fut	azért	még gyorsan elfutok szavazni .	
-11	bele+vág	abba	belevágtam törleszteni régi adósságomat	
-11	bele+kerül	az	akinek egy-két napjába belekerült megszokni	
-11	be+húz	azért	NOPE	
-11	át+járhat	azért	Akárki átjárhat játszani	
-11	átalkodik	x	nem átalkodtak tömegesen hamisítani a fűszerpaprikát ...	
-11	árulkodik	az	emlegetni a tájékozottság nagy fehér foltjairól árulkodik .	
-10	zárkózik	azért	egyébként sose zárkózik el szellemi tanácsot adni .	
-10	vergődik	azért	Montpellier-be vergődtek ki igét tanulni .	
-10	tovább+lép	azért	mindig továbblépett tanítani	
-10	taszít	azért	rászívódva gyöngén menni taszította .	
-10	szét+szed	azért	szétszedem a toronycsapágyat zsírozni	
-10	sereglik	azért	Tanácskozni sereglettek	
-10	roskad	azért	NOPE	
-10	rejteget	az	milyen veszélyeket rejteget autóstoppost felvenni .	
-10	pirul	attól	amit másként pirulna kimondani	
-10	ott+marad	azért	mindenki ottmaradna nézni	
-10	örvend	annak	örvend maradni	
-10	oda+visz	azért	akkor odavitték megforgatni a lányokat .	
-10	mulat	x	az Úrnak haragját engesztelni el nem mulatjuk .		%mulaszt
-10	merít	azért/az	bátorságot merítettem leülni melléje	
-10	meg+tanultat	x	Megtanultatok hallgatni		%meg+tanul
-10	meg+hív|hí	azért	meghívom őt vezényelni	
-10	meg+hívhat	azért	Meghívhatlak vacsorázni ?	
-10	liheg	azért	OV lihegett lódarazsat befogadni	
-10	le+ver	azért	NOPE	
-10	le+szed	azért	NOPE	
-10	le+ront	azért	lerontott a műhelybe melózni .	
-10	le+hajt	azért	lehajtott a havat kihordani a kaszárnyaudvarból	
-10	le+guggol	azért	leguggolt hozzá megsimogatni a vállát	
-10	köteleztet	arra	A tót nyelvet nálunk csak tót születésűek köteleztettek tanulni	
-10	ki+zavar	azért	mikor kizavartak egy komát hegedülni a pályaudvarra ?	
-10	ki+tol	azért	NOPE	
-10	ki+szorul	azért	étkezni kiszorultak	
-10	ki+szorít	az	NOPE	
-10	ki+költözik	azért	kiköltöztem a fáskamrába dolgozni .	
-10	kereshet	azért	szerdán a Hódmezővásárhelyi Rendőrkapitányságot kereshették fel a vért adni kívánó rendőrök	
-10	kényteleníttet	arra	Fájdalommal kényteleníttetem megvallani	
-10	kényszeríthet	arra	kényszerítheti olyasmit eltűrni	
-10	kelletik|kell	az	mely tulajdonságokkal kellettek ezeknek bírni .	
-10	kanyarodik	azért	Csak akkor kanyarodnak fölénk megnézni a zavarkeltőket	
-10	ingázik	azért	ingázom Pestre gályázni	
-10	ide+küld	azért	minden nap ideküldik kéregetni .	
-10	haza+látogat	azért	hazalátogatnak szétnézni .	
-10	hárul	az	újságíróknak a vállára hárul a teher megmondani	
-10	hajózik	azért	szintén egy szigetre hajóznak pihenni	
-10	hajít	azért	megszáradni hajítom	
-10	gyalogol	azért	énekszóval gyalogolnak meghalni .	
-10	görget	azért	görgeti mérni	
-10	föl+áll	azért	a napon pihenni fölállt	
-10	fel+segít	azért	aki felsegíti ülni az embert	
-10	fel+készít	arra	majd új vízben felkészítjük főzni .	
-10	fel+kerül	azért	NOPE	
-10	fel+fogad	azért	kinek birodalmat megtartani felfogadtam	
-10	el+utazhat	azért	Azért még elutazhatsz egy két helyre megcsodálni	
-10	el+üldöz	azért	NOPE	
-10	el+tökél	azt	ily hosszú út viszontagságait megosztani eltökélem	
-10	el+tervez	azt	NOPE	
-10	el+szökik	azért	ezért a kutya gyakran elszökik egyedül sétálni .	
-10	elő+veszik	x	ma is előveszed még az érmeket nézegetni ?		%elő+vesz
-10	el+juttat	azért	NOPE	
-10	dicsekszik	azzal	NOPE	
-10	bátorkodhat	arra	bátorkodhatom tanácsot adni	
-10	át+jöhet	azért	játszani is átjöhetsz .	
-10	áhítozik	arra	egy ideig ő maga is áhítozott e pályán tündökölni	
-9	zavarhat	azért	NOPE	
-9	vissza+kocog	azért	Visszakocogtak folytatni a haditanácsot .	
-9	vélelmez	azt	amit ön szerintem vélelmez belőlük kiolvasni	
-9	szövetkezik	arra	líraiságot színre vinni jeles színészek szövetkeztek .	
-9	szemel	x	Rómát tönkretenni téged szemeltek ki az istenek .		%ki+szemel
-9	simul	azért	homlokom nyugodni simul	
-9	siethet	azért	felszabadultan siethetett ebédelni .	
-9	sejtet	azt	ami azt az elhamarkodott logikai következtetést sejteti levonni	
-9	rá+fér	az	Vezíredre is ráférne valami ember formát felvenni .	
-9	őrizkedik	attól	aki még bemutatkozni is őrizkedik	
-9	oda+van	azért	míg odavolt a menekültek szekereit fosztogatni	
-9	oda+utazik	azért	én is odautaztam vendégszerepelni .	
-9	oda+ment	x	Odamentem a kasszához fizetni .		%oda+megy
-9	oda+érik	x	odaérjen a mikrofonhoz énekelni		%oda+ér
-9	mozgat	azért	NOPE	
-9	meg+próbáltat	x	megpróbáltatok segíteni ...		%meg+próbál
-9	meg+küld	azért	NOPE	
-9	masírozik	azért	milyen zenére masírozzanak be verekedni a marcona férfiak .	
-9	lopakszik	azért	Elsőként Suzuki-kereskedésekbe lopakodtak új Swiftet venni .	
-9	le+kapcsol	azért	NOPE	
-9	ki+tereget	azért	kiteregesse a lelkét szárítani .	
-9	ki+jut	azért	kijutok Egyiptomba arabot tanulni .	
-9	igyekeztet	x	Ti ezt tételesen cáfolni igyekeztetek		%igyekszik
-9	haza+ad	azért	1/2 évesen az orvosok hazaadtak meghalni	
-9	gurul	azért	Visszafele kb tizenöt gép gurult egyszerre felszállni .	
-9	fel+sorakozik	azért	aztán kipirulva felsorakoznak hallgatózni .	
-9	fel+jöhet	azért	feljöhet ide beszélgetni	
-9	el+szán	arra	végre elszánjuk magunkat az úton menni	
-9	borzad	attól	Én borzadnék kockát játszani a nemzet jövendőjével	
-9	bolondul	azért	játszani bolondul	
-9	be+zárkózik	azért	bezárkózik tévét nézni	
-9	bele+tesz	azért	főni beleteszi az ember egy edénybe	
-9	be+léphet	azért	ami után beléphet játszani .	
-9	be+fordul	azért	befordultunk Sógor bácsiékhoz fölmelegedni .	
-9	be+esik	azért	valaki beessen hozzá árulkodni .	
-8	vissza+lép	azért	akkor visszalépek megvigasztalni .	
-8	tömörül	azért	NOPE	
-8	tekinthet	x	NOPE		@lex: x-nek
-8	tárul	azért	szólni tárul a száj	
-8	restelkedik	attól	Szinte restelkedem is elmondani	
-8	össze+hív	azért	NOPE	
-8	össze+bújik	azért	összebújtak röhécselni a felszólaláson	
-8	oda+kerül	azért	mire ők odakerültek törölgetni	
-8	oda+jöhet	azért	odajöhetnek megpihenni	
-8	nyüzsög	azért	nyüzsögnek semlegesíteni mindent	
-8	nyomorít	x	nyomorítják az ént odaemelkedni	
-8	meg+elégel	azt	már megelégelted hallgatni	
-8	le+vonul	azért	levonult a pincébe téli álmot aludni .	
-8	le+nyúlik	azért	Éppen lenyúltam megtapogatni a kötelet	
-8	le+kísér	azért	inkább lekíséri felvilágosítani	
-8	le+jöhet	azért	lejöhessen tanítani ebbe a szemét kisvárosba	
-8	le+fut	azért	lefutott a tóhoz a békákat lesni	
-8	le+dob	azért	majd ledobtam az ágyra száradni	
-8	le+állhat	azért	bárkivel leállhat beszélgetni	
-8	kúszik	azért	Az nem kúszik ki a napfényre melegedni	
-8	kottyan	x	meg sem kottyan neki szétrágni járókája fakereteit		%meg+kottyan
-8	költözhet	azért	NOPE	
-8	ki+oson	azért	hangtalanul kiosonok zuhanyozni .	
-8	ki+önt	azért	utána egy vödörbe kiöntöttem hűlni .	
-8	ki+merít	az	Ilyenféleképp foglalkozni magammal mindig kimerít	
-8	ki+látogat	azért	egyszer-egyszer a temetőbe is kilátogat három volt férjével beszélgetni .	
-8	ki+hajol	azért	az erkélyről kihajolt megnézni	
-8	hozzá+tartozik	az	A műveltséghez hozzátartozik a pluralizmus zongoráján játszani .	
-8	haza+szalad	azért	hazaszaladtam fürödni	
-8	haza+rohan	azért	hazarohant átöltözni .	
-8	haza+jő|jön	azért	hazajövök olvasgatni .	
-8	hallatszik	az	amikor közeledni hallatszott	
-8	hajthat	azért	NOPE	
-8	hajol|hajlik	azért	Fölém hajolsz megnézni	
-8	foszlik	azért	mely sokasodni foszlik	
-8	fel+vonul	azért	időnként mégis felvonul csörömpölni	
-8	fel+utazik	azért	szombatonként felutaztam Pestre játszani	
-8	félhet	attól	félhetnek odaadni a személyes okmányaikat	
-8	evez	azért	a partra evez információt szerezni	
-8	érdemesít	arra	ki ez órát elérni érdemesítettél	
-8	el+űz	azért	szép személyét nézni elűz éngem	
-8	el+siet	azért	majd elsietett átöltözni	
-8	el+rak	azért	télen elraktuk a kerékpárt porosodni !	
-8	el+mentet	x	elmentetek megnézni		%el+megy
-8	el-el+jár	azért	el-eljárt vadászni .	
-8	dűl	x	Dűlj le kicsit pihenni .		%dől
-8	cammog	azért	Éjjelente többször az ablakhoz cammogunk megnézni	
-8	bújhat	azért	ugye nem bújhatunk el egy barlangba elmélkedni ?	
-8	be+utazik	azért	Külön beutaztak a városba megvenni .	
-8	be+ültet	azért	Beültettek gondolkozni .	
-8	berzenkedik	attól	Valahogy berzenkedek megkérdezni	
-8	be+kukkant	azért	Csak éppen bekukkantottunk elbúcsúzni .	
-8	át+lép	azért	átléptek kávézni .	
-8	át+helyez	azért	áthelyeztük őket másik céghez dolgozni	
-8	át+enged	azért	átengedi beszélgetni a másik zárkába húsz-harminc percre .	
-8	adódhat	x	Az együttműködés keretében lehetőségünk adódhat a két észak-amerikai járatunk veszteségeit felszámolni .		@lex: alkalom
-7	vonszol	azért	vonszol az oszlopok mögé szeretkezni	
-7	vissza+indul	azért	visszaindulna tésztát enni .	
-7	vissza+esik	azért	NOPE	
-7	vetemedik	arra	én odabenn nem vetemedtem rágyújtani .	
-7	végig+jár	azért	Sanyika már a kocsik napja előtt végigjárta a rokonságot búcsúzkodni	
-7	tolakszik	azért	Sehol sem tolakodtak szavazni !	
-7	szédül	attól	szédülne lenézni ilyen bizonytalan mélységbe	
-7	sétálhat	azért	nem sétálhat el nézelődni .	
-7	segítget	abban	Cserébe én segítgetek a telefonját karbantartani :) .	
-7	segél	abban	aztán még segéljek nekik is majd megcsinálni .	
-7	sarkall	arra	az úgynevezett valóság legfeljebb élni sarkall ...	
-7	rá+áll	azért	akkor ráálltak zavarni .	
-7	pártol	azért	A javaslat nem pártolja visszaállítani a halálbüntetést .	
-7	össze+jő|jön	azért	Ha már ebédelni összejövünk páran	
-7	össze+függ	az	NOPE	
-7	össze+verődik	azért	NOPE	
-7	össze+állhat	azért	ketten párosozni is összeállhatnak .	
-7	neki+fut	annak	már többször nekifutottak egy olyan műholdrendszert üzemeltetni	
-7	minősülhet	x	a könnyebbik utat választani rövidlátásnak minősülhetne .		@lex: x-nek
-7	meg+pihen	azért	amikor a Naszályon felfelé megpihenek farigcsálni a Bik kútnál .	
-7	meg+kaphat	azért	az megkaphatja automatával az Evót ellötyögni vele a forgalomba	
-7	meg+bolondul	x	megbolondultam megadni a címemet .	
-7	marasztal	azért	amelyen a combtőig érő víz hűvössége egy ideig állni marasztal	
-7	le+pihen	azért	lepihen aludni	
-7	le+pattan	azért	egy kicsit lepattansz dolgozni ?	
-7	le+kerül	azért	lekerülök az utca felé ácsorogni .	
-7	ki+terel	azért	kiterelnek legelni	
-7	ki+szed	azért	valamit kiszedünk az összepakolt kupacból megvarrni	
-7	ki+siet	azért	azonnal kisiet a kamrába fát vágni .	
-7	ki+rajzik	azért	kirajzott bámészkodni a virágos teraszra	
-7	ki+fizetődik	az	talán kifizetődik majd tanítót tartani .	
-7	ki+csal	azért	kicsalja nagybátyját a mezőkre egy kicsit nyulászni	
-7	késztet|készt	arra	maradni késztette	
-7	kelhet	azért	tisztálkodni sem kelhetnek fel .	
-7	jön-megy	azért	NOPE	
-7	ingerel	az/arra	nevetni ingerelje .	
-7	hozzá+segít	ahhoz	maga hozzásegített bennünket bebizonyítani	
-7	győzköd	azt	aztán csak győzködjétek felkapkodni az állatokat mindenhonnan	
-7	frusztrál	az	frusztrált a környezetemet a képemre formálni	
-7	föl+jár	azért	Nagyapám még följárt vadászni Norvégiába	
-7	feltételez	azt	Ezt a TÉNYT összekeverni ALAPVETÖ JÁRATLANSÁGOT feltételez	
-7	félre+húzódik	azért	félrehúzódtam aludni .	
-7	fel+húz	azért	akit a filmben Springsteen felhúz a színpadra táncolni .	
-7	fel+enged	azért	éjszaka felengedjék a fedélzetre imádkozni	
-7	fel+dob	azért	NOPE	
-7	el+varázsol	az	elvarázsol csak üldögélni	
-7	el+kísérhet	azért	elkísérhetem világot látni .	
-7	delegál	azért	a legtapasztaltabb tagjainkat delegálnánk Bankokba választani .	
-7	cibál	azért	cibálnak focizni .	
-7	bosszant	az	Bosszantja látni bátyja örömét .	
-7	be+téved	azért	csak betévedt olvasgatni	
-7	be+ront	azért	beront a faluba újabb áldozatot keresni .	
-7	be+nyit	azért	néha benyit valaki elköszönni tőle	
-7	be+nevez	azért	rutint szerezni benevezett	
-7	bele+hal	abba	amibe belehaltak Istennek elmondani ?	
-7	be+dob	azért	NOPE	
-7	be+bújik	azért	bebújok az ágyba zokogni	
-7	be-be+jár	azért	a polgármester úr még be-bejárt olvasni ...	
-7	át+rohan	azért	Átrohanok etetni	
-7	át+rándul	azért	átrándulnak Szabadkára magyart enni .	
-7	áramlik	azért	A nézők akadálytalanul áramlottak át táncosokat figyelni	
-7	akadozik	azért	csak időm nem iged akadozott netezni .	
-7	ajánlhat	azért	helyettesíteni ajánlhatja ?	
-6	vissza-vissza+tér	azért	vissza-visszatér enni belőle .	
-6	vissza+rak	azért	visszarakom pihenni a hűtőbe .	
-6	vissza+marad	azért	visszamaradt pihenni	
-6	vissza+bújik	azért	a gilisztát hátára illesztve ebédelni visszabújjon .	
-6	üget	azért	ügettek uzsonnázni .	
-6	tovább+áll	azért	majd továbbállok a többi játékot kipróbálni .	
-6	toszik	arra	ma tosztam bemenni	
-6	tágít	attól	a fényt hirdetni nem tágítottam ! </l>	
-6	reménykedhet	abban	miként reménykedhetünk e legtöbbet elérni	
-6	rejtőzik	azért	a száraz ághalomba rejtőzzön el kimúlni .	
-6	rá+tér	azért	NOPE	
-6	rajta+kap	azon	amikor rajtakaptam kolleganőt sírni munkában .	
-6	rá+gyújt	azért	NOPE	
-6	össze+rak	azért	Utóbbit kipróbálni direkt újra összeraktam a CF-et	
-6	össze+forr	azért	újulni összeforrt	
-6	oda+sereglik	azért	NOPE	
-6	oda+hív	azért	roham közben odahívjuk tanácsot kérni a vezérkart a tűzbe .	
-6	oda+gyűlik	azért	odagyűlnek hallgatni a bandát .	
-6	oda+ér	azért	ugye mire szegény kopi odaér kajálni ...	
-6	meg+ugrik	azért	aztán megugrott PhD-zni az USA-ba .	
-6	meg+kínál	azért	NOPE	
-6	lovagol	azért	Goethe gyakran lovagolt ki Elzász faluiba népdalokat gyűjteni	
-6	le+vesz	azért	A fóliát is levettem megnézni	
-6	le+költözik	azért	hajdan a szlovákok is leköltöztek az Alföldre jobb megélhetést keresni .	
-6	le+hull	azért	bomlani lehull .	
-6	le+bukik	azért	lebuktak kibekkelni .	
-6	kívántatik	az	kívántatik beszélni róla	
-6	ki+ülhet	azért	kiülhetnek pihenni egy kicsit .	
-6	ki+tár	azért	NOPE	
-6	ki+rándul	azért	Tihanyba kirándulnak visszhangot hallgatni	
-6	kínlódik	azért	például rengeteget kínlódtunk munkahelyet szerezni	
-6	ki+lök	azért	kilökik az út szélére pénzt keresni .	
-6	ki+léphet	azért	kiléphessenek az ajtó elé néhány percre friss levegőt szippantani .	
-6	ki+hord	azért	kihordták öntözni .	
-6	ki+felejt|felejtet	azt	Kifelejtetted elmondani	
-6	kertel	azért	NOPE	
-6	javasolhat	azt	bármennyit javasolhat a helyi tantervbe beépíteni	
-6	ide+ül	azért	ideülök önhöz egy kicsit beszélgetni	
-6	ide+jöhet	azért	idejöhetnek ordítozni	
-6	húzódhat	azért	e zugba húzódhattam írni	
-6	haza+siet	azért	Hazasietek dolgozni .	
-6	hátra+hagy	azért	hátrahagyják megrothadni .	
-6	hallik|hal	azt	hangosan nevetni nem hallak .	
-6	futkos	azért	Futkostunk ide-oda tárgyalni	
-6	föl+vesz	azért	fölvennének dolgozni valahová .	
-6	félre+vonulhat	azért	a nap hátralevő részében nyugodtan félrevonulhatnánk elmélkedni	
-6	el+zarándokol	azért	Te elzarándokoltál meghallgatni őket ?	
-6	el+úszik	azért	Elúsztam megkeresni Camillát	
-6	el+sajátít	azt	amit elsajátítottam bátran alkalmazni	
-6	el+rángat	azért	Tegnap este elrángattak barátaim bulizni egy kicsikét	
-6	el+oson	azért	A többiek elosontak búvóhelyet keresni .	
-6	elő+kap	azért	minden járókelő előkapja a telefonját videózni	
-6	elő+bújik	azért	A házakból előbújtak a szorongatott lakók szellőzni	
-6	el+látogathat	azért	Egyszer már kannibálokhoz is ellátogathatna egy kicsit seftelni .	
-6	el+kerget	azért	elkerget elemi iskolába oktatni	
-6	el+kanyarodik	azért	A rendőrök is elkanyarodtak leellenőrizni a bejelentést .	
-6	el+engedhet	azért	nyugodtan elengedhetik a gyerekeket nyaralni .	
-6	el+adhat	azért	NOPE	
-6	csúsztat	azért	mindig csúsztatott költeni 50-60 márkát .	
-6	csináltat	azért	Én örülni csináltattam .	
-6	csábíthat	arra	NOPE	
-6	buzgólkodik	azon	az öngyilkosságot tagadni buzgólkodnak	
-6	buszozik	azért	onnan buszozott edzeni az ETO-stadionba	
-6	be+zavar	azért	bezavartam őket chipet nézetni .	
-6	be+szervez	azért	A visszavonulókat beszervezték különböző szakaszokban őrséget adni .	
-6	be+szállhat	azért	ekkor már én is beszállhatok néhány percre játszani .	
-6	be+rángat	azért	berángatják szavazni ?	
-6	be+merészkedik	azért	mire bemerészkedtem megkérdezni	
-6	be+juthat	azért	bejuthassak pént költeni .	
-6	be+hajt	azért	NOPE	
-6	át+fut	azért	átfutottunk elújságolni .	
-6	ágál	azellen	ágál behajolni az újkommunista iránynak	
-5	vissza-vissza+jár	azért	csipegetni még vissza-visszajártak a téli barlangba	
-5	vissza+kényszerít	azért	visszakényszerítették a Szent László Gimnáziumba tanítani .	
-5	vissza+enged	azért	máris visszaengedték lubickolni .	
-5	vissza+dob	azért	amelyeket minden törvénytisztelő egyesületi tag horgász visszadob növekedni .	
-5	viaskodik	azon/amiatt	NOPE	
-5	vállalkozhat	arra	ma megközelítőleg öt nappal előre vállalkozhatunk olyan biztonsággal prognosztizálni az időjárást	
-5	úszhat	azért	NOPE	
-5	untat	az	már untat körbe-körbe vezetni	
-5	újra+indul	azért	NOPE	
-5	tovább+menetel	azért	NOPE	
-5	tolerál	azt	amelyet kétszer nem tolerálunk elkövetni .	
-5	teremtődik	x	lehetőségünk teremtődjön a nemzetünk kulturális gyöngyszemeit felmutatni		@lex: alkalom, jogalap...
-5	tereget	azért	teregette száradni a zoknikat .	
-5	szünetel	abban	NOPE	
-5	szét+széled	azért	a mezőny szépen szétszéled pihenni	
-5	szándékoztat	azt	Hogyan szándékoztatok megdönteni a rendszert	
-5	szabódik	azon	kicsit szabódott magára venni a magas tisztséget .	
-5	surran	azért	surranjak az itt maradók után leskelődni ?	
-5	siettet	azt	majd siettette beszámolót küldeni erről azon kijelentéssel	
-5	serkent	arra	izzani serkenti a parazsat	
-5	serken	azért	alkotni serkent szelíden	
-5	rosszul+esik	az	Rosszulesett kimondani a nevét	
-5	repülhet	azért	Helsinkibe repülhet dolgozni	
-5	rá+vezet	arra	amilyennek benneteket hinni rávezettek .	
-5	rá+rak	azért	rárakja pirulni a kenyérszeleteket .	
-5	rajzik	azért	ahonnan legfennebb tudományt öregbíteni rajzott ki a bujdosónak nevezett diákság	
-5	rá+bukkan	arra	rábukkan énekelni a helyi bárban	
-5	ösztökél	arra	A megcsökött tökély tökölni ösztökél !	
-5	össze+gyűlhet	azért	annak keretében összegyűlhettünk énekelni	
-5	oda+tart	azért	amit a megvadultaknak ütlegelni odatartunk	
-5	oda+mehet	azért	attól más még odamehet fúrni .	
-5	oda+hoz	azért	amikor odahozták meghalni ...	
-5	oda+enged	azért	odaengedné a fiatalokat inni	
-5	nógat	azért	Ez ölni nógatta	
-5	neki+vághat	annak	csak egyszerűen nekivághatunk felfedezni a környéket	
-5	neki+kezdhet	annak	most nekikezdhetnék jegyzetelni	
-5	meg+taníttat	arra	megtaníttatja halászni .	
-5	meg+lép	azért	meglépjen a többi kutyához játszani	
-5	le+vezet	azért	aztán levezettek bennünket megnézni a géptermet	
-5	leshet	x	Utólag leshet vitatkozni	
-5	le+ruccan	azért	A hétvégén leruccant a méhészeket meglátogatni Torgyán is	
-5	le+merül	azért	majd lemerült megkeresni .	
-5	le+járogat	azért	újabban lejárogatok mozogni egy kicsit	
-5	le+hullik	azért	majd lehullok meghalni az árva földre én	
-5	le+ereszkedik	azért	A szarvasok leereszkedtek a patakra inni	
-5	le+ballag	azért	mindennap leballagott a rabhoz beszélgetni .	
-5	küldözget	azért	őt küldözgetik F1-et közvetíteni .	
-5	konzervál	az	beleállni az egyetlen vélt igazunkba pont a jelen helyzetet konzerválja .	
-5	ki+utazhat	azért	még kapálni is kiutazhattak a kisvonattal	
-5	ki+ültet	azért	kiültette napozni a szeretőjét	
-5	ki+rándul	azért	Tihanyba kirándulnak visszhangot hallgatni	
-5	ki+tör	azért	robbanni kitör	
-5	ki+szállhat	azért	kiszállhatna szétnézni a városban	
-5	ki+gyűjt	azért	NOPE	
-5	ki+borít	azért	kiborította száradni .	
-5	kérelmez	azt	Ezt kérelmezték kereskedelmi légi szállítási engedélyre módosítani	
-5	képzelhet	azt	így képzelhette magát beleveszni a sivatagba .	
-5	járulhat	azért	a kislány csak egy béna lábú éjjeliőrhöz járulhat beszélgetni	
-5	ítélhet	arra	szükségesnek ítélheti a jogsértést elkövető feleket bírsággal sújtani .	
-5	indíthat	arra	Csak ez a kényszer indíthatja őt megszabni	
-5	időzik	azért	az úr nem menyasszonynak valót kutatni időzik a kúriákon	
-5	haza+vihet	azért	Olykor hazavihettem korrigálni néhány hasonló színvonalú regényt	
-5	haza+térhet	azért	majd nemrég hazatérhetett további éveit letölteni .	
-5	haza+jöhet	azért	hazajöhetnek lázítani .	
-5	haza+hord	azért	én minden nőmet hazahordom bemutatni .	
-5	hatol	azért	a szerelmesek beljebb hatolnak fogócskázni	
-5	hajlít	azért	miféle bánat hajlít a papír fölé hónapok óta görnyedni engem ?	
-5	hajkurász	azért	engem hajkurásztak disznót őrizni	
-5	guggol	azért	mikor kakálni a trágyadombra guggoltam	
-5	futkározik	azért	Örökké futkároztok családot látogatni	
-5	föl+vonul	azért	az új mamához tisztelegni fölvonultak .	
-5	föl+ment	azért	a szünetben fölmentem hozzájuk köszönni .		%föl+megy
-5	föl+ér	az	az embert megérteni fölér a robottal .	
-5	fel+vetet|vet	azért	Felvetettek Márciusban dolgozni !!!	
-5	fel+vehet	azért	NOPE	
-5	félt|féltet	attól	amit úgy féltettem elveszteni	
-5	fel+pattan	azért	felpattant reklamálni .	
-5	fel+kérhet	arra	bárkit felkérhetünk tanúskodni	
-5	fel+jogosít	arra	NOPE	
-5	fel+érik	x	az összeset bemutatni felérne a Bűn		%fel+ér
-5	fájlal	azt	bármennyire fájlalom ezt kimondani	
-5	fájhat	az	még leírni is fájhat	
-5	eresztet|ereszt	azért	aztán az udvarra eresztette száradni .	
-5	emigrál	azért	munkaképes ember emigrált napjainkig az Európai Unióba megélhetést keresni .	
-5	el+vándorol	azért	a gyerekekkel elvándoroltak a prérire vadászni .	
-5	el+takarodik	azért	eltakarodtak aludni .	
-5	el+széled	azért	Társaim elszéledtek tájékozódni	
-5	el+merül	azért	NOPE	
-5	el+iramodik	azért	Míg a gyerekek eliramodnak játszani	
-5	el+hozhat	azért	akkor elhozhatnám őket ide gyönyörködni a hatalmas zöld hegyekben .	
-5	el+hord	azért	amiket elhordtam játszani .	
-5	el+hí|hív	azért	aztán elhívod sétálni	
-5	el+helyezkedik	azért	elhelyezkedem valahová dolgozni	
-5	el-el+felejt	azt	el-elfelejt bejönni .	
-5	el+cipel	azért	Elcipelt vacsorázni .	
-5	csíp	azt	én nagyon csípem úgy nézni a filmeket .	
-5	botorkál	azért	ellenkezés nélkül botorkált megkeresni a vödröt	
-5	bocsájt	azért	NOPE	
-5	be+tanít	arra	Betanít embereket sakkozni	
-5	be+szökik	azért	Vasárnap beszöktek a főiskolára mintázni .	
-5	bele+telik	az	néhány könyvbe beletelne részletesen kifejteni	
-5	bele+megy	azért	bátran belemegy a medencébe úszkálni is egy kicsit	
-5	bele+kapaszkodhat	azért	NOPE	
-5	bele+csúszik	azért	NOPE	
-5	be+indít	az/azért	a gépet működni beindítom / egymásra vadászni a reneszánsz Róma emberáradatában hallás után is beindítja a nyáltermelést
-5	be+idéz	azért	2006-ban beidézték tanúskodni a rendőrségre	
-5	be+hatol	azért	megint behatolt a kertembe lopni .	
-5	be+hajol	azért	melybe szelíden behajolt zavarni egy-egy bokor	
-5	be+fekszik	azért	befeküdt haldokolni a gyepűbe	
-5	át+ül	azért	Átültem hozzá sakkozni .	
-5	át+terjed	azért	NOPE	
-5	át+halad	azért	NOPE	
-5	át+hajt	azért	máris áthajtott bátyjához kérkedni	
-5	abba+hagyhat	azt	az adósok az immár megállapíthatatlan összegű törlesztőrészletek fizetését nyugodtan abbahagyhatják fizetni	
+1512509	kell	az	haza kellene menni még ...			
+1388057	tud	azt	nem tudok a fára mászni			
+1139548	lehet	az	amit úgy lehet tanulmányozni			
+840888	fog	x	Sokat fogunk így várni még ?			
+612623	akar	azt	Egycsapásra el akartam érni a tengert			
+489671	szeret	azt	szerettem hallgatni egyenletes ketyegését			
+381942	van	x	anyám nélkül nem voltam képes elaludni .			#MN + van és nincs fix mellékmondat
+233321	próbál	azt	néhányan figyelmeztetni próbálták az embereket .			
+220386	kíván	azt	amelynek akkor kívánt hangot adni			
+217972	kezd	azt	mászni kezdtem én			
+131538	sikerül	az	sikerül azt az izzó lángot kioltani lelkemben			
+112947	igyekszik	azt	akármennyire is igyekeztem katonásan tartani magam			
+93219	szokik	x	Apám azt szokta hajtogatni			
+92870	meg+próbál	azt	megpróbálja irányítani érzéseit			
+65557	lesz	x	ezt nem lesz könnyű elbeszélni .			#MN + lesz és nincs fix mellékmondat
+64930	el+kezd	azt	egyszer csak elkezdtem bőgni .			
+64492	mer	azt	nem mertem elhinni			
+56059	szabad	az	Senkit sem szabad megölni .			
+41136	nincs	x	senkinek nincs hatalma hazudni .			#birtokos főnév és nincs fix mellékmondat, vagy 'nincs kinek írni'
+34357	megy	azért	a gyárba mentek dolgozni .			
+33052	segít	abban	egy fehér hajú bácsi segített vinni a bőröndömet .			
+27814	hagy	azt	alkatuknál fogva hagyták magukat sodortatni az árral			
+23673	enged	azt	ne engedd őt csalódni ...			
+23427	bír	azt	mozdulni sem bírtam .			
+20054	készül	arra	kitörni készült			
+17382	tetszik	x	csak tessék mondani .			
+16644	látszik	az	Mégis minden lélegezni látszott			
+16638	lát	azt	láttam lábam előtt heverni			
+14766	jön	azért	mikor jön hozzánk játszani			
+14103	áll	x	Marosinak szándékában áll megszökni .	@lex: készen, módomban, szándékában...		
+11500	el+megy	azért	elmegyek megkeresni a választ			
+11218	tervez	azt	amilyeneket Szlovákiában terveztek létrehozni			
+10944	vél	azt	melynek illúzióját ugyancsak a szerelemben véli megtalálni			
+10736	jár	azért	például kis purdék rendszeresen járnak kakálni a talapzatára .			
+10215	illik	az	Nem illik észrevenni			
+10176	szándékozik	azt	mikor szándékszom hazamenni			
+9675	kér	azt	Azután enni kért			
+9601	tart	x	természetesnek tartom egyszerűen kiállni a porond közepébe azzal a meggyőződéssel	@lex: kötelességének, lehetetlennek... VAGY 'valakivel tart': azért		
+9208	esik	x	valahogy nehezükre esett elhinni	@lex: nehezemre, jól...		
+9128	tanul	azt	nem tanulsz meg beszélni			
+9060	meg+tanul	azt	aztán megtanultam olvasni			
+9036	árt	az	talán nem ártana józan fővel számot venni azzal			
+8189	kényszerül	arra	hazudni kényszerült			
+8069	ad	x	Nem adnak enni .	@lex: enni, inni		
+7681	meg+érik	az	megérte neked egy náci katonát megmenteni ?		%meg+ér	
+7605	mond	x	is mondják vezetni ?	@lex: 'mondjuk x-ezni', 'azt mondod x-ezni?'		
+6658	el+felejt|felejtet	azt	melynek szerzőjét elfelejtették feltüntetni			
+6509	szíveskedik	azt	a kedves édesapja szíveskedne visszaemlékezni			
+6293	fél	attól	Féltem megkérdezni .			
+6252	óhajt	azt	nem is óhajtja kiismerni magát			
+6127	győz	azt	utólag nem győz az ember azon morfondírozni			
+6039	javasol	azt	nem javasolta beleilleszteni .			
+5914	sincs	x	Jóformán senkinek sincs ereje ezt a kiformált utat megszakítani			#birtokos főnév és nincs fix mellékmondat, vagy 'sincs kinek írni'
+5324	indul	azért	pecázni indultunk			
+5048	le+ül	azért	leült velem beszélni			
+4921	imád	azt	A politikusok imádnak beszélni			
+4839	meg+kísérel	azt	megkíséreltem elforgatni a kormányát			
+4723	jut	x	nem is jutna nekem idő beszélni .	@lex: idő, eszembe...		
+4242	talál	x	azt találja mondani	@lex: azt találja mondani, el találja sütni...		
+3651	tesz	x	ő teszi oda a tejet főni	@lex: mit tesz x-ezni		
+3406	kap	x	ma még jóformán enni sem kaptak szegények .	@lex: enni, inni, zabálni...		
+3374	jelent	az	rangot jelentett bekerülni .			
+3295	ajánl	azt	A kastélyt sem ajánlom felügyelet nélkül hagyni .			
+3284	gondol	azt	hogyan gondolja a vagyonát növelni			
+3213	hallik	az	a saját szavait hallja kifolyni mások szájából .			
+3167	tanít	arra/azt	A cenzúra írni tanít .			
+3135	mehet	azért	nem mehettem ebédelni .			
+3095	visz	azért	kirándulni visszük őket .			
+3029	ül	azért	Egyedül ültél be ide sörözni .			
+3022	felejt	azt	ne felejtsük idejében kifizetni a villanyszámlát .			
+2936	el+felejt	azt	esetleg tapsolni is elfelejtek az igézettől			
+2904	ér	az	ezen tűnődni immár mit sem ér			
+2790	marad	azért	nem maradt ott késő éjszakáig dolgozni			
+2770	merészel	azt	aki szólni merészelt			
+2760	siet	azért	Az öregem is sietett elhagyni a szülői házat			
+2648	kerül	azért	útjába került jeget magával ragadni			
+2634	hív	azért	gyakran hívták hivatalos ügyben tanúskodni			
+2546	ki+megy	azért	kiment egyet sétálni .			
+2535	segíthet	abban	segíthet élni			
+2467	kísérel	azt	a hónom alatt kíséreltem meg hátrasandítani .			
+2447	hisz	azt	gondolatot hitte méltónak kimondani			
+2442	jogosul	arra	NOPE			
+2440	meg+tanít	azt/arra	megtanítottam kocsit vezetni .			
+2206	hoz	azért	a rossz lelkiismeret hozza ide ezeket a férgeket letérdepelni eléd			
+2199	küld	azért	aludni küldte őket .			
+2191	kel	azért	a bénák járni kelnek			
+2066	neki+áll	annak	nekiállt mosogatni			
+2058	tartozik	azzal	akiknek mindenki engedelmeskedni tartozik .			
+1986	el+mulaszt	azt	elmulasztotta annak számát idézni .			
+1884	el+indul	azért	a regényben elindul virágot venni			
+1865	kezdhet	azt	De most kezdhetnék szép dolgokat csinálni .			
+1811	vár	azt	várja javulni a rendet			
+1774	meg+szűnik	x	megszűnt lélegezni .			
+1767	választ	azt	Ezért választotta kedves székében megfestetni magát .			
+1746	nyílik	x	Legalább alkalmam nyílik a járás viszonyait megismerni .	@lex: alkalma, lehetősége...		
+1740	vesz	azért	vegyék fel dolgozni .			
+1687	tűnik	x	még elképzelni is bizarrnak tűnt	@lex: bizarrnak, jónak...		
+1667	keres	azért	én bizony keressek benne egy kis szárazat tüzet gyújtani			
+1645	válik	x	aztán még könnyebbé vált közöttük elhinteni	@lex: szükségessé, szokásommá...		
+1634	próbálkozik	azzal	régóta próbálkozott megfelelő munkát találni .			
+1607	el+kezdhet	azt	elkezdhetek élni ott			
+1606	vágyik	arra	autót vezetni sehogy se vágyott .			
+1565	utál	azt	én utálok reggel felkelni .			
+1506	méltóztatik	arra	éppen az állam meg méltóztatik nekik engedni			
+1505	érkezik	ahhoz/azért	Alig érkezek kimondani			
+1454	érzik|érez	azt	a nyugalomban fájdalmat érzünk sajogni .	@lex: fölöslegesnek, kötelességének...		
+1442	rendel	azt	gödrét visszahányni rendelem			
+1400	támad	x	azonnal kedvem támadt elvonulni vele valami privátabb helyre .	@lex: kedvem		
+1368	el+visz	azért	Egyik nap elvitt ebédelni .			
+1318	számít	az	Libát tömni állatkínzásnak számít ott	@lex: x-nek számít		
+1292	vonakodik	attól	a nép vonakodik letenni az esküt ?...			
+1277	bátorkodik	arra	Bátorkodom megjegyezni			
+1272	vezet	azért	Messzire vezetne ugyan kifejteni			
+1266	el+jön	azért	eljött segíteni .			
+1257	használ	az/arra	mit használ itt sírni ?			
+1254	szégyell	azt	Nem szégyellt nevetni			
+1250	kéret	x	Kéretik tisztelettel azonnal az iskolában megjelenni .		%kéretik	
+1244	jelenik	x	mit jelent ezeken az Istenverte havasokon hónapszámra szolgálni ?		%jelent	
+1239	be+megy	azért	Aztán bement egy Kovács nevezetűnek a gyógyszertárába segédkezni .			
+1198	átall	azt	mégsem átallottam megjegyezni			
+1183	tudhat	azt	nem is tudhatja elvégezni .			
+1174	törekszik	arra	azt elérni törekszel .			
+1146	ment	x	Együtt mentünk vadászni .		%megy	
+1130	kegyeskedik	arra	kegyeskedjen a labdát továbbítani !...			
+1123	rá+érik	x	Ráérünk kicsomagolni .		%rá+ér	
+1115	rohan	azért	Rohantak jegyet vásárolni .			
+1060	érez	azt	erejét megint nőni érezte			
+1057	fáj	az	fájt bármiről is lemondani .			
+1056	veszik	x	a legközelebbi templom felé veszik útjukat Dávid zsoltárait énekelni	@lex: fenyegetésnek, útjukat veszik VAGY vesz magának enni...	%vesz	
+1044	meg+próbálhat	azt	talán járni is megpróbálhat a lábain .			
+1023	utazik	azért	a szülei nyaralni utaztak			
+1022	tér	azért	mindenki aludni tért	@lex: aludni, pihenni...		
+1012	felejtet|felejt	azt	nemcsak te felejtetted el a Sorsot hangsúlyozni			
+1009	láthat	azt	ökörcsordát láthatott elvonulni			
+990	remél	azt	Klárát remélte felbukkanni valahonnan			
+986	iparkodik	azért	iparkodtak mindenben segíteni .			
+970	vissza+megy	azért	Aztán visszament a fürdőszobába becsavarni a haját			
+951	meg+áll	azért	megálltak kicsit hallgatni a zenét			
+933	vonul	azért	a kunyhó mögé vonult morogni			
+911	mulaszt	x	mulasztottál el megüzenni valamit		%el+mulaszt	
+909	mered	x	ezt csak így a szemembe mered mondani ?		%mer	
+886	telik	az	Időbe telik megszokni	@lex: időbe, öröme...		
+873	le+fekszik	azért	talán már lefeküdt aludni .			
+841	csinál	azért	NOPE			
+829	jól+esik	az	jólesik elterpeszkedni a fotőjben			
+823	sajnál	azt	szinte sajnáltam felbontani .			
+775	nyújt	x	NOPE	@lex: vigaszt		
+764	jöhet	azért	cipelni ő rossz lábakkal nem jöhetett .			
+756	tetszik|tetszet	x	A nevét biztosan tetszettek hallani ...		%tetszik	
+755	ki+jön	azért	aki konzultáció után kijött az udvarra bámulni .			
+750	él	azért	ki halni él .			
+736	készít	azért	addig készítek valamit enni			
+729	próbálhat	azt	a parancsot próbálhatta megsürgetni			
+726	el+ment	x	aztán elmentek egy kínai vendéglőbe vacsorázni .		%el+megy	
+725	szűnik	x	soha nem szűnt meg szeretni egy pillanatra sem			
+674	le+megy	azért	ma délután lemegyek játszani a hóba			
+671	szoktat	x	Szavazni is szoktatok ?		%szokik	
+645	akarózik	az	A gyereknek nem igazán akaródzott lemenni			
+624	születik	azért	Élni csak azért született			
+601	meg+lát	azt	a fiú meglátta a vágyat fellobbanni az ő tekintetében			
+591	sikerülhet	az	fölébe nőni senkinek sem sikerülhetett			
+547	habozik|habzik	x	Harcos ne habozzék kukacot taposni .		%habozik	
+547	be+áll	azért	A fiatal legénykék beálltak szolgálni a nagygazdákhoz .			
+543	meg+un	azt	Másnapra megunta a falat nézni			
+529	lép	azért	barna kockás szövetpapucsban lép ki a fürdőszobából öltözködni .			
+527	neki+lát	annak	Nekiláttak vacsorázni .			
+508	el+mehet	azért	bármikor elmehet körülnézni			
+487	akarhat	azt	segíteni is akarhat			
+484	von	azért	reggel már felkötni vonták .			
+482	fel+megy	azért	felmentem szüleimhez vacsorázni .			
+478	leszel	x	Képes leszel fogadni őket ?	@lex: képes, hajlandó...	%lesz	
+455	restell	azt	Nem restellte bevallani			
+449	kezdet	x	azt kezdette feszegetni		%kezd	
+448	un	azt	Unok dolgozni .			
+445	szalad	azért	Szaladt is venni egy moziújságot .			
+443	állít	azért	az ajtó elé állítanak vigyázni			
+442	meg+hív	azért	Meghívtak halászlét enni .			
+441	vissza+tér	azért	visszatértünk vacsorázni .			
+441	akad	azért	NOPE			
+439	el+küld	azért	a nagyságos asszony majd elküld bevásárolni			
+436	rá+ér	arra	Csakugyan ráér törődni velem ?			
+429	el+jár	azért	Ezalatt az idő alatt eljártam a strandra úszni			
+428	kínál	azért	ma is ható hagyományokat fejleszteni kínálnak			
+410	át+megy	azért	átmegyek anyámékhoz aludni .			
+405	fordul	azért	féléberen nem fordulok hasra szundikálgatni			
+402	oda+megy	azért	odamegyünk halászni			
+402	engedhet	azt	Nem engedhetem bántani .			
+398	nyer	x	ahová jogot nyertem beutaltatni	@lex: jogot		
+390	be+jön	azért	két héttel korábban hat német utóvéd bejött hozzánk enni .			
+389	be+ül	azért	Beülnénk valami rendes helyre egy kis zenét hallgatni			
+385	létezik	az	Nem létezik ezt a fránya kalapot szétlőni			
+384	meg+jelenik	azért	újra megjelent kávéillattal tüntetni el albérlete vénasszonyszagát			
+382	okozhat	az	nem okozhat gondot 150-et tekerőzni	@lex: kárt, bajt, örömet...		
+376	állhat	azt	Nem állhatok be dolgozni			
+370	félt	x	Félt megmozdulni .		%fél	
+366	habozik	azon	ő habozott átlépni ezt a küszöböt .			
+356	jelenthet	az	Valamit megkerülni sohasem jelenthet fejlődést			
+350	röstell	azt	az öregtől röstelltem megkérdezni			
+347	találkozik	azért	önök hajlott korukkal dacolva még találkoznak egymással közösen emlékezni			
+345	meg+tanulhat	azt	Most aztán megtanulhat bal kézzel lőni			
+345	emlékszik	arra	NOPE			
+341	jelentkezik	arra/azért	Jelentkeztem fát vágni			
+341	hallhat	azt	hallhatta épp elégszer emlegetni az utóbbi időben .			
+337	mutatkozik	arra	nem mutatkozott hajlandónak azokat megírni .	@lex: x-nek mutatkozott		
+337	fut	azért	Aztán futott a konyhába csirkét rántani .			
+331	meg+próbálkozik	azzal	a les végeztével hazafelé menet megpróbálkoztak az öreg erdő alatti bokros részekben a vizsla segítségével keresni .			
+330	el+marad	azért	NOPE			
+328	ki+jár	azért	Egyedül is nap mint nap kijártam sízni			
+323	kényszerít	arra	ezeket a rablók az asztal alá bújni kényszerítették			
+322	hagyhat	azt	Nem hagyhatom az égig nőni .			
+320	haza+megy	azért	aztán hazamentem tanítóskodni .			
+318	meg+van	x	minden okom megvolt hinni	@lex: minden okom, képességem...		
+316	jön|jő	azért	Máskor is ide jövünk vásárolni .			
+313	örül	annak	most örülök élni			
+313	baszik	arra	baszik rendesen letölteni			
+312	sújt	az	éppúgy sújt felismerni a törékenységét			
+312	indít	arra	Bitorolt földből napfényre fakadva görnyedt szolgák indítottak járni			
+309	be+jár	azért	Ekkorra a két gyermek is bejárt a városba dolgozni			
+305	húz	azért	az emberek a derekukon húzták el szárítani			
+301	el+kezdődik	az	ahogy elkezdődött nekilendülni az infláció növekedése			
+298	feled	azt	ne feledjen el lelkesedni !			
+292	óvakodik	attól	óvakodott azt átlépni .			
+289	kezdődik	az	mikor is történetünk játszódni kezdődik .			
+286	fekszik	azért	aludni feküdtek .			
+283	száll	azért	eleven szavak szálltak megszólalni a számra			
+282	meg+kezd	azt	mielőtt megkezditek a férfiakat szapulni .			
+280	le+áll	azért	Ekkorra már többen leálltak bámészkodni .			
+278	fel+tesz	azért	ő rögtön feltette a kását főni .			
+276	vállal	azt	Ezt a ragyogást vállaltuk mi gyermekien kimondani .			
+273	meg+enged	azt	testvér atyafija Esterházy István Orsolya nevű lányát feleségül elvenni neki megengedte			
+269	vall	az	Alattomban távozni gyengeségre vall !			
+265	ki+áll	azért	A dolog után kiálltam stoppolni .			
+258	hajt	azért	szabadság ábrándja hajtott írni .			
+256	oda+jön	azért	odajött hozzánk tudtunkra adni			
+253	ki+ír	azért	NOPE			
+250	tekint	x	a munkásság első parancsolatának tekinti együttesen küzdeni az egész romániai magyarsággal	@lex: jónak, rossznak...		
+250	bizonyul	arra	csak jól írni bizonyultak gyengéknek	@lex: gyengének, okosnak...		
+248	zár	azért	akit kijózanodni zártak be ide .			
+248	szolgál	x	NOPE	@lex: örömömre		
+246	próbálgat	azt	amiből most próbálgatunk kimászni			
+244	ide+jön	azért	idejött enbert ölni fölnevelő helyére			
+241	érdemel	azt	a napvilágot látni sem érdemlik .			
+236	ugrik	azért	ketten ugranak visszakötözni .			
+236	adódik	x	végre alkalmam adódott megkérdezni	@lex: alkalma		
+235	küldhet	azért	Nem küldhettek akárkit külföldre kapitalistákkal tárgyalni			
+229	tanulhat	azt	emberként is tanulhatsz szeretni .			
+229	fel+hív	azért	felhívott konzultálni			
+224	engedélyez	azt	érc szoborkolosszusomat felállítani engedélyezem .			
+224	el+vonul	azért	a többiek elvonultak tanácskozni			
+222	ígér	azt	ígért szállítani bennünket .			
+222	gyűlik	azért	Katalinozni gyűlnek			
+220	szarik	arra	szarnak magyarítani még azt is			
+217	adhat	x	enni is adhatsz neki	@lex: enni, inni		
+216	át+jön	azért	mikor esténként átjönnek kötni .			
+214	képzel	azt	az őszre képzelik megnyitni a házat .			
+207	el+kerül	azért	NOPE			
+206	igényel	az	Alapos értelmi munkát igényel látni a világ sokféleségét			
+201	le+jár	azért	Lejárt hozzánk a házbért beszedni .			
+201	el+hív	azért	a szomszédot egyaránt elhívják segíteni .			
+200	tilt	azt	kinek a nevét jó ízlésünk tiltja elárulni			
+198	járhat	azért	oda most napszámba kapálni járhatnának .			
+192	vissza+jön	azért	még visszajön látogatni			
+191	vehet	x	NOPE	@lex: bátorságot		
+189	követel	azt	Leszállítani követelem !			
+187	helyez	azért	egy iskolavárosba helyeztek magyart tanítani			
+185	élvez	azt	Én élvezek kinézni a sötétbe .			
+185	el+utazik	azért	elutazom pihenni egy gyógyfürdőbe			
+184	indulhat	azért	a reggeli után vadászni indulhasson .			
+182	vissza+jár	azért	visszajárok dolgozni			
+182	kél	arra	A gyermeknek kél káromkodni kedve			
+177	kaphat	x	Kaphatnánk valamit enni ?	@lex: enni, inni		
+173	szán	arra/annak	mit veszni szánunk			
+171	el+feled	azt	elfeledtek leülni			
+170	ítél	x	amit Zalabai prózaszemléletéről elmondani érdemesnek ítélek .	@lex: szükségesnek, hasznosnak...		
+169	hallgat	arról	Először akkor hallgattam két polihisztort uralkodót játszani			
+167	szállít	azért	a budapesti rabkórházba szállították meghalni .			
+165	rak	azért	nálunk ilyenkor rakják rudakra szellőzni a téli ágyneműt			
+164	meg+érkezik	azért	megérkezett egy fiatal lány tanítani .			
+164	kötelez	arra	készülni parancs kötelez már			
+163	kelletik	az	fertály óraként kelletett pisilni mennem			
+162	fel+jön	azért	a szüleimmel feljöttünk Pestre megnézni			
+161	be+ugrik	azért	apám beugrott ide cigarettát venni ...			
+160	zavar	azért	Zavarta azonnal paraffint főzni .			
+158	hangzik	x	Talán vakmerőnek hangzik 25 év távlatából megkockáztatni	@lex: jól, rosszul		
+157	ki+vonul	azért	a fácánok kivonulnak szárítkozni a sínekre .			
+157	késlekedik	azzal	nem késlekedik megnevezni őket			
+149	parancsol	azt	a mi doktorunkat gyógyulni parancsolták			
+149	nyom	azért	őt már senki se nyomja a falhoz csókolózni			
+149	ki+visz	azért	kivittem száradni a kötélre a törülközőt			
+149	ered	azért	Eredj aludni !			
+147	el+tűnik	azért	A többiek már eltűntek átöltözni .			
+146	kerülhet	azért	Csupán azért nem kerülhetett egyetemre tanítani			
+145	el+kezdet	x	Mi ezt elkezdettük tenni		%el+kezd	
+143	le+húz	azért	majd lehúzom magamhoz a fejét csókot váltani .			
+142	őriz	attól	Isten őrizz ennek megmondani	@lex: Isten őrizz		
+142	neki+fog	annak	nekifogtam varrni .			
+142	készülődik	arra	Feküdni készülődtem			
+142	idéz	azért	a bíróságra idézték be tanúskodni			
+142	át+jár	azért	akik éjjelenként felfegyverkezve rendszeresen átjártak hozzánk rabolni .			
+140	merhet	azt	melyben alig merhet mozdulni			
+140	ki+ül	azért	kiültem a diófa alá a nyugszékbe olvasni			
+138	le+jön	azért	Isten egyszer régen lejött a földre körülnézni			
+138	jelentkezhet	azért	akkor jelentkezhet felmondani !			
+138	be+tér	azért	minden nap betért oda imádkozni .			
+137	késik	azzal	melyet latba vetni nem késtek			
+137	haza+jön	azért	hazajöttek nyaralni a gyerekek			
+136	kopogtat	azért	még a szomszédok se kopogtatnak át kölcsönkérni ezt meg azt			
+136	adatik	x	akinek csak ez az egy esélye adatott meg élni	@lex: enni, inni		
+135	csesz	arra	persze csesztek kivizsgálni .			
+134	látogat	azért	látogasson el hozzájuk is szilveszterezni			
+134	el+jut	oda	amíg eljutok Franciaországba síelni !			
+133	költözik	azért	Sömjénbe költözött gazdálkodni .			
+133	ki+mehet	azért	máris kimehetett a katedra mellé csillagokat látni .			
+132	vihet	azért	kirándulni vihetjük .			
+132	hívat	azért	Ezután cigányokat hívatok be szerelmeskedni			
+131	képez	az	NOPE	@lex: nevetség tárgyát		
+129	ki+küld	azért	Kiküldtem őket kicsit kozmetikázni .			
+128	ott+hagy	azért	Otthagyták őket meghalni .			
+127	fárad	azért	ezt nem fáradunk hangsúlyozni			
+127	be+rohan	azért	berohant a tanáriba lekapcsolni a kávéfőzőt			
+126	kísér	azért	bálozni kíséred a lányokat .			
+125	bocsát	azért	magát nagy bátran ki az ablakon repülni bocsássa			
+124	maradhat	azért	csak én maradhattam otthon csomagot várni .			
+123	meg+hallik	azt	véletlenségből meghallod a közeledben sziszegni			
+122	meg+marad	azért	ki még egyezkedni megmarad			
+122	akartat	x	Mit akartatok vásárolni ?		%akar	
+121	meg+kísérelhet	azt	ott a csípőből adott válasz helyett inkább megkísérelhetjük rekonstruálni a kérdést			
+120	menekül	azért	aludni menekül			
+120	fel+kel	azért	felkel tüzet rakni .			
+119	emel	azért	kit szárny emel repülni			
+118	hord	azért	nekünk enni hordott			
+118	alakít	azért	NOPE			
+117	meg+kíván	azt	belőletek hatalmat venni megkívánják újra .			
+116	össze+gyűlik	azért	összegyűlnek hallgatni egy órát			
+114	juthat	x	akinek eszébe juthatna megérinteni .	@lex: eszébe		
+114	gyűlöl	azt	gyűlölök varrni			
+113	ki+tesz	azért	amelyet kitettek hűlni az ablak elé			
+112	vissza+vonul	azért	visszavonultak tanakodni			
+112	merészkedik	arra	Végül már senki sem merészkedett megtámadni a kolostort			
+112	épít	azért	akkor majd lehet sok pénzt kérni hogy építsünk új börtönöket			
+111	teremt	azért	élni teremtett bennünket az Úr .			
+111	távozik	azért	kisebb dolgát végezni távozott .			
+111	retteg	attól	Már rettegek élni			
+111	gyűjt	azért/arra	pénzt gyűjt nyaralni			
+110	meg+kap	azért	a fiatal zeneművészek megkapták gyakorolni Lehel kürtjét			
+109	oda+áll	azért	fényes nappal odaáll pisálni a hátsó kerék mellé			
+109	kedvel	azt	Apolló jobban kedveli a vétkesek fülét megnöveszteni			
+107	oda+jár	azért	úgy estefelé odajárt kaszálgatni .			
+107	bízik	azt	a kérdezőre bízzuk a feleletet eltalálni .			
+106	késztet	arra	tűnődni késztet			
+106	el+enged	azért	aki elengedte a feleségét dolgozni			
+104	ki+ment	x	kimentünk a folyópartra sétálni .		%ki+megy	
+104	feledkezik	arról	Ne feledkezzünk meg előző vasárnap meg is hirdetni a gyűjtést			
+102	nyílhat	x	így mód nyílhat talán véglegesen egy bizonyos kérdést tisztázni .	@lex: mód		
+102	dől	azért	aludni dőlt az angol téli síkra			
+101	le+ülhet	azért	leülhetek egy bokor mellé lélegezni			
+101	kívánkozik	azért	nem kívánkoztál megállni ?			
+101	ide+jár	azért	emiatt máshonnan is idejárnak verekedni ...			
+100	tűnhet	x	most célszerűnek tűnhet emelni a támogatások mértékét	@lex: unalmasnak, luxusnak ...		
+99	javall	azt	silány álművészet áldásával javallod megoldani ?...			
+98	össze+ül	azért	összeültem velük marxizmust tanulni .			
+98	derogál	az	neki még egy köszönömöt is derogál mondani .			
+97	fel+vesz	azért	Felvettek rajzolni			
+96	ülhet	azért	az alacsony székre ülhessen manikűröztetni .			
+96	szólít	arra	felelni szólították matematikából			
+96	fel+hajt	azért	felhajt a járdára parkolni			
+95	támaszt	azért	a pitvarban támasztotta oda a fülét hallgatózni az ajtóhoz .			
+95	nevel	arra	Mert értelmetlen kínokat megszokni még tízezeréves lét sem nevel .			
+95	hajlik	arra	Hajlunk ilyen módon szemlélni azokat is			
+94	be+visz	azért	bevitték operálni			
+93	fel+szerel	azért	NOPE			
+91	igazol	azt	talán ezt igazolta alátámasztani a távozó vezetők			
+90	szottyan	x	olykor kedvük szottyan ingyen utazni .	@lex: kedve		
+90	ki+száll	azért	Kiszálltunk eprészni .			
+90	fel+kér	arra	felkéri a pesti lányt táncolni			
+89	irányít	azért	Később a fogolykórházba irányítottak takarítani .			
+88	ódzkodik	attól	nem ódzkodik bemutatni oly műveket			
+88	el+sétál	azért	Elsétáltam megnézni			
+86	hívhat	azért	sétálni hívhatnám a feleségemet			
+86	fenyeget	az	feketézni elsejétől már nemigen fenyeget			
+85	repül	azért	álmodni repült			
+85	kérhet	azt	még tüzet is kérhetne tőle cigarettára gyújtani .			
+85	indítványozik	azt	szövegrészt indítványozza elhagyni .			
+85	gyengül	ahhoz	egyre gyengül az akaratod őhozzá kötni az életedet .			
+84	ki+rak	azért	kirakták száradni .			
+84	célozik	azt	amely azt célozza meghatározni			
+83	következik	abban	Apám intésére most már valóban ő következett a sort továbbfejleszteni			
+82	szül	azért	akik engesztelni fiat szülnek nekik ...			
+82	sikeredik	az	csak még nem sikeredett támogatáshoz jutni .			
+82	át+kel	azért	átkeltem a Kárpátok hágóin régi kedvesemet meglátogatni .			
+81	szaladhat	azért	Most szaladhatsz árulkodni a moderátorhoz			
+81	össze+jön	azért	az emberek összejöttek beszélgetni .			
+81	el+rohan	azért	elrohant dolgozni .			
+81	bújik	azért	sokan csak ebédelni bújnak elő az irodájukból .			
+80	tartózkodik	attól	tartózkodtam ezzel előhozakodni .			
+80	le+visz	azért	Nagyapám mindennap levitt sétálni			
+80	el+szalad	azért	elszalad érdeklődni			
+79	húzódik	azért	oda húzódott a családtól legénykedni			
+79	be+mehet	azért	egyelőre bemehetek kaszálni			
+78	ki+fekszik	azért	kifekszik aludni egy erkélyre vagy benyílóba			
+78	hozzá+fog	annak	Mindjárt hozzáfogtak csépelni .			
+78	gyakorol	azt	madárfüttyös erdőkben gyakorolnak embert ölni			
+78	el+indulhat	azért	elindulhatok megkeresni mindent			
+76	be+hív	azért	Egyszer behívtam vacsorázni			
+75	vélhet	azt	A másikból olyasmit vélhet kihallani a fül			
+75	neki+kezd	annak	nekikezdett bömbölni újra .			
+75	meg+indul	azért	a kóstolómesterrel megindult ízlelgetni a kondérokból			
+75	igyekezhet	azért	igyekezhetünk egyeztetni azokat a valósággal			
+74	vissza+fekszik	azért	Visszafeküdtél alukálni ?			
+74	neki+állhat	annak	az ember nekiállhat mosni			
+74	meg+állapodik	azért	Kitűnő tiszta vizénél mindig megállapodtunk inni .			
+74	hív|hí	azért	forgalmas utcára hívod sétálni .			
+74	fel+ül	azért	majd felült duzzogni a csillárra .			
+72	sejt	azt	ahol más világokat sejtünk sötétleni			
+72	reagál	azért	akkor egy fél mondat erejéig reagálnék kegyet gyakorolni ...			
+72	be+vonul	azért	Bevonultak a városba a hazát megmenteni			
+71	vissza+mehet	azért	visszamehet ezen a héten dolgozni .			
+71	ragad	azért	kisebbik lányának váratlan szerelme az okos népfőiskola-szervező parasztfiú iránt ragadja ki a balatoni villából meghalni			
+71	ki+próbál	azt	Ma kipróbálom bátorságomat igazat mesélni .			
+71	engedtet	azt	élni sem engedtetek ;			
+71	bukik	azért	amíg levegőt venni végre a felszínre bukott .			
+70	találhat	azt	időközben valami történni találhat			
+70	meg+jelöl	azt	amely szervezeteket Marsi Péter Pál képviselő úr javaslatát megelőzően támogatni megjelölt .			
+70	meg+ad	x	NOPE	@lex: a lehetőséget		
+70	látszódik	x	hol délután kék gázok látszódnak fényleni			
+70	haza+ér	azért	A világos vezér hazaért védekezni .			
+69	oda+tesz	azért	odatettek rendet csinálni .			
+69	ki+enged	azért	egy idő után a városba is kiengedtek vásárolni .			
+69	jegyez	az	Féllábú nővel hálni szöröncsét jegyez			
+69	át+ad	azért	akik átadtak neki egy-egy cipőt javítani			
+68	veszt	x	NOPE	@lex: értelmét		
+68	űz	azért	mely előbb még öldökölni űzte őket			
+68	nyúlik	azért	Azzal már nyúlok is beseperni a bankot .			
+68	el+jöhet	azért	eljöhetsz majd horgászni			
+67	úszik	azért	úszott Pula felől lebombázni a torpedógyárat .			
+67	tanácsol	azt	nem tanácsolta a zsidókat Isten ellen harcolni .			
+67	meg+szakad	azért	kiért élni megszakadtam			
+67	láttat	x	Láttatok már kapuhidat felnyílni folyón		%lát	
+67	álmodik	azt	élni álmodtam valaha			
+66	utasít	arra	Kelemen eprészni utasította a leányt			
+66	kelt	azért	melyet meg kelt bontani			
+65	ki+fárad	azért	ki már tetemét hurcolni kifárad			
+65	hajszol	azért	hajszolták a kedvem megkeresni			
+65	érhet	azért	ritkán érhetnek rá mesélni róluk .			
+64	szükségeltet	az	feltétlen szükségeltetik mélyebbre merülni			
+64	minősül	az	Pascalban írni programozásnak minősül -e ?			
+64	kerekedik	x	kedvem kerekedett vitatkozni vele	@lex: kedve		
+64	invitál	arra/azért	olykor sétálni invitált valakit			
+64	fel+ér	azért	azt szinkronozni felér egy öngyilkossággal ?			
+63	meg+érhet	az	rövid távon még megérheti euróban eladósodni			
+63	le+száll	azért	Afrika között leszállt a Ság hegyre kukacot reggelizni .			
+63	fázik	attól	A hajóknak még fázik a fenekük vízre bocsátkozni			
+63	el+ad	azért	eladod magad Lopni			
+62	várhat	arra	hová eljönni várhatom			
+62	közelít	ahhoz	NOPE			
+62	csábít	arra	távolsági sofőröket csábít fürödni			
+61	telepít	azért	új életet kezdeni New Yorkba telepítette .			
+61	meg+kockáztat	azt	megkockáztatom megtudakolni			
+61	be+hoz	azért	Tizenegykor behozták kihallgatni			
+60	oda+ad	azért	odaadtak engem egy ismeretlen város gimnáziumába tanulni .			
+60	neki+ül	annak	nyomban nekiült írni			
+60	mászik	azért	Nyomában másztam először madártojást szedni			
+59	ültet	azért	ámulni egy könyvre ültetem			
+58	vissza+térhet	azért	visszatérhettem Kaposvárra befejezni a kiképzést .			
+58	le+dől	azért	subájukba takarózva ledőltek szundítani			
+58	hozhat	azért	Nem hozhatlak ide dolgozni .			
+58	be+költözhet	azért	NOPE			
+57	tűzik	azért	magam elé tűztem drámasorozatban ábrázolni az új fogalmú hazafiság nagy magyar példáit .			
+57	ront	azért	Henkerszkyre rontsanak kezet csókolni neki			
+57	próbáltat	x	nem próbáltatok panaszkodni rá ?		%próbál	
+57	észre+vesz	azt	észrevettem benne felcsillanni azt a fényt			
+57	be+lép	azért	belép a lét alapértelmét kutatni			
+56	rühell	azt	rühellek gólyalábon járni !			
+56	meg+ér	az	Szerintem megér egy misét megnézni benne lagzilajost izzadni			
+56	könyörög	azért	Székely Magdát a József Attila-díj listájára könyörögtem fölvenni .			
+56	be+száll	azért	Esetleg beszállok sütni .			
+56	akaszt	azért	Az irodán a fogasra akasztja szikkadni .			
+55	utazhat	azért	utazhatott külföldre előadni			
+55	ki+hív	azért	még felelni is kihívta			
+55	irtózik	attól	irtózik újragondolni a hallottakat .			
+55	el+húz	azért	elhúzom a csíkot önkritikázni			
+54	meg+kér	arra	majd megkérte azt postázóba továbbítani soron kívül .			
+54	el+kísér	azért	öt napig pisilni is elkísért .			
+53	teremt|teremtet	arra	ábrándozni teremtette a természet			
+53	létre+jön	azért	amelyikkel vitatkozni e néhány válasz létrejött			
+52	terjed	az	a fiatalok közt ilyenféle övet viselni egy kicsit divatként terjedt .			
+52	be+ment	x	Bementem elbúcsúzni hozzá ...		%be+megy	
+51	takarodik	azért	Akkor takarodj aludni !			
+51	iratkozik	x	iratkozzunk be teniszezni		%be+iratkozik	
+51	halaszt	azt	mit gyáván egyre halasztunk fizetni .			
+51	félre+tesz	azért	Félretesszük hűlni .			
+51	be+enged	azért	beengedtek a raktárba nézelődni .			
+50	vissza+küld	azért	a titkárnő szokás szerint visszaküldi várakozni a folyosóra			
+50	kellhet	az	amelyhez bizonyos históriai stúdiumokat is kellhetett folytatni			
+50	gázol	azért	a szennybe tisztálkodni gázolok			
+50	be+tesz	azért	amit betesztek sülni a sütőbe			
+49	le+tesz	azért	Letették hűteni			
+49	el+vár	azt	NOPE			
+49	elő+készít	azért/arra	NOPE			
+49	be+állít	azért	beállítottak mosogatni .			
+48	keveredik	azért	NOPE			
+48	kényszerülhet	arra	Ebből következően néhány kiadó csökkenteni kényszerülhet lapja terjedelmét			
+48	fektet	azért	aludni fektette gyári szobájában .			
+48	ébred	azért	Ébredni is citeraszóval ébredtek .			
+48	bele+fog	abba	Belefogtam elmondani e tény egy-két fájdalmas következményét			
+47	vissza+hív	azért	A jelenlegi vezetőség mindenkit visszahív dolgozni .			
+47	vállalkozik	arra	egészen ingyen vállalkozott tanítani .			
+47	tanítgat	arra	tanítgatta szép szóval írni			
+47	sért	az	így törvényt hozni sérti azokat a normákat			
+47	le+lép	azért	Lelépek tanulni .			
+47	fel+áll	azért	amikor először felállt a dobogóra elszavalni			
+47	el+felejtettet	x	erről az apróságról elfelejtettetek szólni .		%el+felejt	
+47	be+nyújt	azért	pontosan az ellenzék észrevételei mentén újra benyújtják módosítani			
+46	térhet	azért	nem térhetnek be egyetlen házba se melegedni ...			
+46	találkozhat	azért	a rokonok a hídon találkozhassanak elmondani egymásnak			
+46	szándékol	azt	egy sose-volt-világ bejáratát szándékolja jelképezni			
+46	őrül	x	Nem vagyok őrült még egyszer nősülni !		%meg+őrül	
+46	ki+ugrik	azért	kiugrok ebédelni			
+46	ki+tűzik	azért	fehér ingemet kitűzöd száradni fagyra			
+46	ígérkezik	x	Simának ígérkezik szándékom kifuttatni .	@lex: simának, jónak...		
+46	haza+utazik	azért	hazautazott nyaralni szülőhazájába			
+46	el+hoz	azért	Elhoztuk ide körülnézni .			
+46	árthat	az	NOPE			
+45	tör	azért	nagyon fájni a felszínre tör			
+45	telepszik	azért	közéjük telepszem rakosgatni őket témánként			
+45	le+vág	azért	a galambot levágják megfőzni .			
+45	le+ment	x	lementünk az udvarra játszani .		%le+megy	
+45	ki+repül	azért	kirepült a kalitkából szárítkozni			
+45	haza+jár	azért	éjszakánként hazajárt aludni			
+45	érezhet	azt	az egyén a végtelenség huzatát érezhette önmagán átáramolni .	@lex: jónak		
+45	el+rendel	azt	elrendelte telekkönyvileg törölni			
+45	el+feledkezik	arról	elfeledkezett ön arról beszámolni			
+45	be+ülhet	azért	Beülhetek meghallgatni ?			
+44	vezérel	azért/arra	látványt habzsolni vezérelt .			
+44	téved	azért	hisz csak nullázni tévedtél ide			
+44	próbálkozhat	azzal	Csak következtetni próbálkozhatom			
+44	meg+állít	azért	engem méterenként megállítanak igazoltatni			
+44	biztat	arra	a monyasokat hágni biztatták			
+44	áhít	azt	nem áhítja puszta sznobériából utánozni a tömeg .			
+43	tódul	azért	ahova ugyanúgy tódultak a pestiek mulatni			
+43	szegődik	azért	Szerény hangommal hozzád szegődnék énekelni			
+43	léphet	azért	szinte az előadásában szereplő vesszők gyanánt léphetett ki hűsölni a hatalmas erkélyre			
+43	ki+lép	azért	amint kilépek a balkonra rágyújtani .			
+43	járul	azért	Panaszkodni járult a kiscseléd			
+43	int	attól/azért	az eretnek őrjöngőt eltávolítani intik			
+42	tekintet|tekint	x	A kollektív tudat nem tekintette többé bűnnek meglopni	@lex: kötelességének, megtiszteltetésnek...		
+42	meg+nyer	azt	megnyerték vezényelni Rácz Mártont			
+42	hall	azt	Zörgő babszárat hall pattogni a halántékánál			
+41	vissza+utasít	azt	visszautasítja ingyen közölni a házeladási hirdetést			
+41	vándorol	azért	híveket gyűjteni vándorolt			
+41	szorít	azért	A török Kassára szorította fel meghalni .			
+41	kívánhat	azt	senki se kívánhatja tőlem ezt a szöveget végighallgatni .			
+41	ki+szalad	azért	mire én kiszaladtam játszani			
+41	javít	az	a lincselők közé keveredni javítja a hatékonyságot .			
+41	föl+megy	azért	mire a kimosott ruhákkal fölmentem teregetni a padlásra .			
+41	fel+rak	azért	farmernadrágját felrakta száradni a fűtőtestre			
+41	el+ugrik	azért	elugrik a büfébe reggelizni			
+40	sürget	azért	azokat a törvényeket sürgesse minél hamarabb meghozni			
+40	sétál	azért	sétálj el munkát keresni			
+40	rohangál	azért	nem rohangáltunk ki vigasztalni			
+40	meg+taníthat	arra	A táborban megtaníthatnák őket úszni .			
+40	ki+választ	azért/arra	amit előadni kiválasztunk			
+40	ki+kerül	azért	kikerült a világ legnagyobb divatközpontjaiba dolgozni			
+40	kerget	azért	dolgozni kergeti			
+40	gondolkozik	azon	mégis gondolkoztok szívetekre ölelni			
+40	főz	azért	NOPE			
+40	fel+ugrik	azért	most felugrott megkérdeni			
+40	be+törik	x	amíg az éppen aktuális politikusok érdekei szerint betörsz kazettát keresni		%be+tör	
+39	vágyódik	arra	Vágyódtam tudni			
+39	tarthat	az	pl. egy linuxot elég sokáig tarthat kiismerni egy sima felhasználónak .			
+39	tár	azért	égszínü szárnyát repülni tárja	@lex: szélesre		
+39	taníttat	arra	Minek taníttattak hegedülni ?			
+39	oktat	arra	énekelni oktatná a pacsirtát .			
+39	ki+ad	azért	kiadták birkát őrizni a járásszéli rokonokhoz			
+39	jő	x	Nem jő megnézni senki síromat .		%jön	
+39	fel+készül	arra	felkészülsz az ellentétével siklani .			
+39	bírhat	azt	a nyelv nem bírhat fölmagasodni			
+38	vágyakozik	arra	vágyakoznék megismerni			
+38	szökik	azért	tanulni szökött a városi iskolába			
+38	remélhet	azt	amit meglátni sohasem remélhettem			
+38	meg+feledkezik	arról	megfeledkezzünk valami apró ajándékot vinni .			
+38	le+küld	azért	Leküldtem őt a konyhába főzni			
+38	kapcsolódik	az	NOPE			
+38	hátra+jön	azért	hátrajönnek telefonálni			
+38	el+vihet	azért	pl. elviheted vacsizni .			
+38	bérel	azért	Ki bérelte fel őket az egyszerű díszletezőmunkás szerepében mindent megfigyelni ?			
+38	becsuk	azért	becsukták a szemüket pihentetni			
+37	vissza+jön|jő	azért	valamelyik este visszajövök a szállásra beszélgetni a lányokkal			
+37	segédkezik	abban	is segédkeznek megoldást találni .			
+37	rendeltet	arra	Az egyiknek élni rendeltetett			
+37	össze+áll	azért	egy csapat kamasz összeállt beszélgetni .			
+37	meg-meg+áll	azért	meg-megállt hallgatózni .			
+37	helyesel	azt	erkölcsileg helyeseljük kárpótlásban részesíteni .			
+37	formál	x	jogot formálnak beleszólni mások döntésébe	@lex: jogot		
+37	fel+veszik	x	Felvesznek valamelyik magánirodába körmölgetni minimálbérért .		%fel+vesz	
+37	fel+hív|hí	azért	felhívod vacsorázni			
+37	el+jön|jő	azért	Eljövök segíteni .			
+37	csatol	azért	amiket az ember repülni magára csatolt			
+37	be+fejez	azért	NOPE			
+36	szakít	x	konzuli munkád közben időt szakítottál meglátogatni !	@lex: időt		
+36	ránt	azért	sírni ránt .			
+36	meg+jön	azért	Amúgy nekem is néha megjön a gusztusom világvárost építeni			
+36	könnyít	azt	A hit könnyíti elviselni az élet nehézségeit .			
+36	haza+tér	azért	csomagolni hazatértem			
+36	elő+kerül	azért	NOPE			
+36	el+indít	azért	elindít gondolkodni !!			
+36	el+bújik	azért	elbújnak a bokrok alá ölelkezni .			
+36	csúszik	azért	Csúszott tanulni ?			
+36	aggódik	amiatt	aggódtak egy esetleges bolsi utódkormánynak alárendelni a vád képviseletét .			
+35	szárnyal	azért	NOPE			
+35	össze+jár	azért	az emberek összejárjanak beszélgetni			
+35	le+ugrik	azért	leugrom sörözni			
+35	eshet	x	nehezére eshet ezt olyan embernek hinni	@lex: nehezére		
+35	dug	azért	mások szeme láttára a cselédlányhoz dugtál aludni .			
+35	borul	azért	a válladra borulna zokogni egy igazi kék ridegmarha .			
+35	be+jöhet	azért	Esetleg bejöhetne elbúcsúzni .			
+34	reménykedik	abban	A környék hajléktalanjai talán melegedni reménykednek itt			
+34	ragaszkodik	ahhoz	NOPE			
+34	le+feküdhet	azért	lefeküdhessen szunyókálni egy kicsikét .			
+34	ki+hajt	azért	kihajtják őket dolgozni			
+34	hezitál	azon/attól	mégis sokan hezitálnának rendőrt hívni			
+34	fel+lép	azért	felléptem megszemélyesíteni			
+34	el+képzel	azt	Elképzelem őket birkózni a cukornáddal			
+34	be+kerül	azért	NOPE			
+34	át+ment	x	Mikor a mamájuk átment a szomszédba altatót kölcsönkérni		%át+megy	
+33	vezethet	azért	Arányokról vitatkozni elég gusztustalan dolgokhoz vezethet			
+33	terel	azért	gyakran terelnek a karaván végére pihenni			
+33	szerethet	azt	szerethet kavarni			
+33	neki+indul	annak	Aztán nekiindult keresni az apját .			
+33	mozdul	azért	mégis tenni mozdul			
+33	meg+adatik	az	Akinek megadatott ezen a két úton járhatni			
+33	lapul	azért	a fűre lapultak havasi pocokra vadászni .			
+33	foghat	x	foghatják látni			
+33	fel+nő	azért	NOPE			
+33	fel+ajánl	azt	két dandárt felajánl integrálni a NATO-haderőbe			
+33	fáraszt	az	Négykor kelni nem fáraszt ?			
+33	éltet	azért	mely élni éltetett			
+33	el+járhat	azért	ráadásul délutánonként jó pénzért eljárhattam fusizni			
+33	be+rak	azért	aztán berakta száradni a tűzhely sütőjébe			
+33	be+ad	azért	csak beadtam csináltatni			
+32	vissza+ül	azért	visszaült lóbázni .			
+32	rá+kényszerül	arra	jobban rákényszerült tudni a keresztény vallás szabályait nálunk			
+32	motivál	arra	NOPE			
+32	meg+hoz	azért	másokon segíteni sokszor meghozza a hasznát a segítőnek is .			
+32	meg+fordul	x	megfordultam búcsúzni	@lex: a fejében		
+32	hozzá+lát	ahhoz	hozzálátott újat készíteni .			
+32	el+un	azt	mikor már elunta várni a lányait			
+32	el+látogat	azért	ahová minden pihenni vágyó ember szívesen ellátogat .			
+32	dobál	azért	NOPE			
+32	be+érkezik	azért	NOPE			
+31	vezényel	azért	Fejszésre vezényeltek teherautót rakni .			
+31	undorodik	attól	undorodtunk egy levegőt szívni velük			
+31	süllyed	azért	NOPE			
+31	lóg	azért	mi is a Vagon presszóba lógtunk ki sörözni			
+31	le+szalad	azért	a néni leszaladt bevásárolni			
+31	le+marad	azért	lemaradok még vigasztalni őt			
+31	le+ad	azért	Leadnak egy szerelési utasítást fordítani			
+31	ki+jelöl	arra	NOPE			
+31	kételkedik	abban	NOPE			
+31	haza+visz	azért	Hazavittem olvasni			
+31	hajol	azért	meríteni a kút fölé hajolt			
+31	fel+visz	azért	felvisz kocsikázni a hegyekbe			
+31	félre+vonul	azért	félrevonultak néhány napra pihenni .			
+31	erőltet	azt	ahová felmászni senki sem erőltetett .			
+31	ellenez	azt	a Trón Nyilvántartó Hüpographeusz Magnificuszának hírrel járni nem ellenzem .			
+30	törődik	azzal	ki már lépni is törődött .			
+30	tétovázik	azon	Ne tétovázzunk odahagyni			
+30	oda+ül	azért	egy kicsit odaülnék dideregni			
+30	mulaszthat	x	Nem mulaszthatjuk el megemlíteni		%el+mulaszt	
+30	merészelhet	azt	a nemességet támadni merészelhetné .			
+30	meg+könnyít	az	Világsztárokkal dolgozni megkönnyíti			
+30	meg+akadályoz	azt	ami megakadályozza látni azt			
+30	le+dőlhet	azért	ledőlhetek sziesztázni .			
+30	ki+rohan	azért	kirohant megnézni a jégszekrényt			
+30	ki+próbálhat	azt	NOPE			
+30	ki+néz	azért	NOPE			
+30	kínálkozik	arra	végre alkalom kínálkozik kikezdeni			
+30	be+húzódik	azért	mire behúzódott a cselédszobába bőgni			
+30	át+küld	azért	átküldte a szomszédba kölcsönkérni .			
+29	vissza+fordul	azért	Az ajtóból még visszafordult megkérdezni			
+29	üldöz	azért	NOPE			
+29	le+mehet	azért	szünetben mindig lemehetett aludni a szakácshoz .			
+29	ki+hoz	azért	Kihoztam ide három lovat legelni			
+29	fel+jár	azért	feljártam hozzájuk takarítani .			
+29	ereszt	azért	most eresztik itatni .			
+29	el+vezet	azért	mindig elvezet ide benézni			
+29	el+lop	azért	Én egyet elloptam megfesteni			
+28	vissza+feküdhet	azért	majd visszafeküdhetek aludni egy kicsit .			
+28	ösztönöz	arra	ösztönöz színt vinni a kapcsolatba .			
+28	meg+hagy	azért	a magad hatáskörén belül fellépni meghagyom .			
+28	le+fektet	azért	lefektetjük aludni			
+28	kelt|keltet	azért	Mért nem keltettél fel tornászni ?			
+28	hull	azért	NOPE			
+28	haza+ugrik	azért	Éppen csak hazaugrott üdvözölni szüleit .			
+28	gyötör	azért	guggolni gyötrik görcsei			
+28	elégszik	x	elégedj meg azt hallani		%meg+elégszik	
+28	be+térhet	azért	újra betérhetsz egy templomba imádkozni			
+28	be+állhat	azért	beállhatott az ember a boltba melegedni			
+27	zarándokol	azért	a világból turisták tízezrei zarándokolnak oda megbámulni e romokat			
+27	tojik	arra	tojnak végiggondolni .			
+27	szerződik	arra	nyakát szegni szerződtünk .			
+27	szaladgál	azért	mi a csudát szaladgál protekciót keresgélni			
+27	remeg	attól	akik beleírni sem remegnek !			
+27	pillant	azt	olyasmit pillantott meg onnan közeledni			
+27	meg+száll	azért	NOPE			
+27	meg+nyugtat	az	megnyugtat tudni			
+27	ki+nyit	azért	szellőzni kinyitottad éjjel az ablakot			
+27	hátra+megy	azért	mikor hátrament enni adni a tyúkjainak			
+27	fordulhat	x	NOPE	@lex: megfordulhat a fejemben		
+27	fel+kerekedik	azért	Hősünk felkerekedik hát megtudni az igazságot			
+27	el+tart	az	De beletanulni a demokráciába nyugaton is eltartott pár száz évig			
+27	el+menekül	azért	amitől elmenekültem szörfözni .			
+27	el+dől	azért	némi édes-bús mulatozás után eldőlnek aludni .			
+27	bele+fér	az	hazudni még belefér .			
+27	át+ugrik	azért	Átugrok másfelé nézelődni ...			
+26	vissza+von	azért	a kormány visszavonná átdolgozni			
+26	riad	arra	maga sem riadt vissza kellő taktikával váltogatni azokat .			
+26	meg+tilt	azt	megtiltja az erőszakos magatartást követendő példaként megjeleníteni			
+26	meg+szüntet	azt	Megszüntetek már félni			
+26	meg+próbálkozhat	azzal	később megpróbálkozhatnám újrakezdeni			
+26	meg+kezdhet	azt	megkezdhetjük berendezni a tantermeket .			
+26	ki+dob	azért	kidobjuk a kert végébe rohadni			
+26	haza+küld	azért	ő most mindenkit szép szóval hazaküld lefeküdni .			
+26	föl+tesz	azért	föltette a tésztát főzni			
+26	érkezhet	azért	érkezhetünk belépni annyian .			
+26	be+érik	azért	Aztán beértem dolgozni			
+25	ráz	azért	föltámadni ráz szerelemben-szívbénúlt halottat a másik			
+25	özönlik	azért	miután a népek özönlöttek megnézni a tetthelyet			
+25	meg+ragad	x	egy füst alatt megragadtam az alkalmat utánanézni	@lex: az alkalmat		
+25	meg+pillant	azt	megpillantja a ház körül körözni			
+25	közeledik	azért	NOPE			
+25	ki+veszik	azért	Mikor kiveszem mutatni			
+25	ki+jöhet	azért	Kijöhetne magának törülgetni az úriasszony .			
+25	ki+járhat	azért	sétálni is kijárhatnak a börtönből			
+25	haza+érik	x	NOPE		%haza+ér	
+25	fel+szólít	arra	felszólítottak felelni .			
+25	fekhet	azért	nem fekhettem le pihenni			
+25	egyezik	abban	NOPE			
+25	be+dug	azért	bedugta az orrát melegedni			
+24	ugrál	azért	Állandóan ugráljak átkapcsolni ?			
+24	szűnhet	x	nőni sosem szűnhet			
+24	száműz	azért	királyfit békává bűvölő erő száműzte körmölni az apját			
+24	meg+tart	azért	NOPE			
+24	meg+nő	az	az új rendszerrel megnő a diákok esélye sikeresen belépni a munka világába			
+24	meg+ígér	azt	amit elküldeni megígért			
+24	lohol	azért	Loholt átölelni .			
+24	kockáztat	azt	kockáztassa a szárazföldicsapatokat is bevetni			
+24	ki+fejleszt	azért	NOPE			
+24	hozzá+tesz	azért	hozzáteszem a Fürj utcai Görög Pizzériát sem érdemes kihagyni .			
+24	haza+mehet	azért	hazamehetett lefeküdni .			
+24	hátrál	azért	NOPE			
+24	halogat	azt	ne halogasd visszahozni a szép tavaszt .			
+24	gyújt	azért	te gyújts a lelkünkben tüzet nyőstényt teperni			
+24	feszül	azért	sarkantyús már cicerélni feszül			
+24	el+áll	azért	Elálltam vályogot verni			
+24	bújtat	azért	NOPE			
+24	be+vesz	azért	a húgomat bevették dolgozni az óvodába			
+24	be+szalad	azért	apám beszalad ügyeit intézni valahová .			
+24	be+rendel	azért	apja berendeli őket a házba aludni			
+24	bele+kerülhet	azért	NOPE			
+23	rá+kezd	arra	én egyszer rákezdek botrányt csinálni			
+23	mellékel	azért	NOPE			
+23	ki+vesz	azért	kivettük repülni .			
+23	ki+vág	azért	a nagyobbik tömeg ütlegelni kivágja a kisebbiket .			
+23	ki+sétál	azért	kisétáltunk gombászni az erdőbe			
+23	gyülekezik	azért	amelyek már lakmározni gyülekeznek fölöttük .			
+23	érvel	amellett	tanú jelenlétében végrehajtani érvelt .			
+23	el+ballag	azért	majd elballag a kocsmába eszmét cserélni .			
+23	abba+hagy	azt	A zenekarnak is abbahagyott játszódni .			
+22	vonulhat	azért	Reggelizni vonulhattak			
+22	vissza+tesz	azért	visszatesszük sülni			
+22	vissza+tart	azért	NOPE			
+22	vissza+áll	azért	Most a második visszaáll őrködni			
+22	össze+gyűjt	azért	fabulázni összegyűjtöm			
+22	neki+láthat	annak	nekiláthatok ping-pong labdát keresgélni ...			
+22	neki+esik	annak	Mindjárt nekiesek enni			
+22	le+utazik	azért	leutaznak a Balatonra zöldséget árulni			
+22	le+ültet	azért	leültetek már ezt megbeszélni azóta ?			
+22	le+esik	azért	ahova esténként táplálkozni leestem			
+22	lebeg	azért	NOPE			
+22	ki+utazik	azért	kiutazik menedékjogot kérni			
+22	ki+húz	azért	aztán mikor a nép kihúzott a földekre aratni			
+22	kapaszkodik	azért	az útkereszteződésnél átérve pihenni egy fába kapaszkodott			
+22	gondolhat	azt	NOPE			
+22	emlékszik|emlékezik	arra	Emlékezzél visszatérni hozzánk			
+22	el+van	azért	Elvoltam gombászni itt az erdőben			
+22	előre+megy	azért	Előrement az öregember kötelet csinálni			
+22	el+érkezik	azért	amelynek a színét elérkezik a keresztelésnél megállapítani .			
+21	vissza+jöhet	azért	visszajöhet dolgozni a rendelőbe .			
+21	tölthet	azért	NOPE			
+21	tetszet	x	Nem tetszettek hallani		%tetszik	
+21	terít	azért	Ideje terített asztalhoz ülni			
+21	telhet	x	egyenként elkapni sok embert sok időbe telhet	@lex: időbe		
+21	tanulgat	azt	Most tanulgatok járni .			
+21	méltóztat	arra	Méltóztat parancsolni valamit ?			
+21	le+telepszik	azért	a vízimalom udvarán letelepedtünk egy félórára reggelizni .			
+21	le+néz	azért	szoval a nejnénivel lenéztünk most a hullámokat nézni			
+21	le+állít	azért	Leállította a hajtóművet pihentetni .			
+21	lankad	ahhoz	nem lankadtam mondani			
+21	ki+csap	azért	kicsapták legelni az oroszlánbarlang szikláira .			
+21	járat	azért	Engem ide járattak nyiratkozni			
+21	irányul	arra	NOPE			
+21	fontolgat	azt	Fontolgatom megnyitni			
+21	erőlködik	azon	Nem erőlködtem menteni magam			
+21	el+zavar	azért	őt gyerekfejjel elzavarták főzni			
+21	el+veszt|vesztet	az	a tulajdonosok elvesztették jogaikat szabadon kiadni a lakásokat .			
+21	el+távozik	azért	csak most eltávozott a sofőrt megkeresni .			
+21	el+felejthet	azt	a szerzőt elfelejthetjük meghívni			
+21	cipel	azért	nem cipel el bennünket mozi után vacsorázni !			
+21	be+sétál	azért	szépen besétálok vasárnap délután megnézni			
+21	be+nézik	x	Délután benéztem olvasgatni		%be+néz	
+21	be+iratkozik	azért	majd beiratkoznak szaunázni			
+21	be+épít	azért	NOPE			
+21	ajándékozik	azért	lehetőséget ajándékozott Budapestnek megtenni azt			
+20	vissza+ment	x	visszamentünk megbeszélni		%vissza+megy	
+20	társul	azért	az éppen nálunk vendégeskedők gyerekeihez társuljon játszani			
+20	szór	azért	NOPE			
+20	pusztul	azért	NOPE			
+20	nyomul	azért	Amerikáig nyomul hitet tanulni .			
+20	ki+tart	azért	erre a nyárra kitart bejárni .			
+20	járkál	azért	most majd megint járkál panaszkodni fűhöz-fához			
+20	gátol	az	NOPE			
+20	fel+mászik	azért	felmászott az irodaépület tetejére aludni			
+20	el+szállít	azért	a vontató elszállítja a rönköt fűrészelni			
+20	elő+jön	azért	olykor magától előjön tökéletesebb munkát végezni			
+20	elő+irányoz	azt	az indítványok mintegy 13 milliárd 424 millió forinttal előirányozták csökkenteni .			
+20	el+fordul	azért	elfordultak tollászkodni .			
+20	el+fárad	abban/azért	elfáradtak hallgatni .			
+20	be+költözik	azért	aki beköltözik lakni a falutokba ?			
+19	települ	azért	Válladra pihenni madár települ ,			
+19	össze+hoz	azért	NOPE			
+19	nyújthat	x	hátha ez az új tudomány nyújthat segédkezet kivezetni az emberiséget abból a pokolból	@lex: segédkezet		
+19	lök	azért	amely élni lökött			
+19	ki+jön|jő	azért	majd kijövök ide a hídra festeni .			
+19	ki+akaszt	azért	kiakasztotta száradni			
+19	hurcol	azért	hurcolják faluhosszat sétálgatni .			
+19	helyezkedik	azért	aludni helyezkednek .			
+19	haladhat	azért	NOPE			
+19	fosik	attól	egyedül meg fosok menni .			
+19	fel+emel	azért	NOPE			
+19	döglik	azért	csakugyan azzal döglöttem le aludni			
+19	csalogat	azért	Meg-meghajolva csalogatlak lapulni lábam elé			
+18	zúz	azért	NOPE			
+18	terheltet	az	felküldeni ne terheltessenek ...			
+18	támadhat	x	a mostani jog(ász) államban néha valóban önbíráskodni támadhat kedve az állampolgárnak .	@lex: kedve		
+18	szállhat	azért	lehetőleg szőlőhegyekre szállhat pihenni			
+18	sodródik	azért	Sodródtunk pusztulni az árral			
+18	rá+ért	x	a magyar ráért eljönni a jó hírek után is .		%rá+ér	
+18	óv	attól	Óvd magad annak látszani			
+18	menetel	azért	Az emberek mégis fegyveresen meneteltek világot látni .			
+18	mellőz	azt	gyakran mellőzik megkülönböztetni azokat			
+18	meg+állhat	azért	Itt megállhatnánk csodálkozni .			
+18	márt	azért	edzeni márt a hideg vízbe ,			
+18	le+rohan	azért	hátra sem nézve lerohantunk a kertbe hógolyózni .			
+18	jártat	x	Később aztán jártatok haknizni is .		%jár	
+18	idegenkedik	attól	A költészetről idegenkedem közvetlenül beszélni .			
+18	hí	x	hítta szappanozni		%hív	
+18	győzhet	azt	Aztán meg győzhet az ember mosakodni			
+18	el+vonulhat	azért	elvonulhatok dolgozni .			
+18	el+kér	azért	elkérte játszani			
+18	csomagol	azért	NOPE			
+18	be+zár	azért	Bezárunk a pofontérszobába kupálódni ...			
+18	be+küld	azért	Beküldtek egy osztályba helyettesíteni			
+18	be+jön|jő	azért	bejövök pénzt keresni			
+18	ballag	azért	lefeküdni ballagott fölfelé			
+17	viszolyog	attól	amely viszolygott tudomásul venni e népek értékeit .			
+17	szid	azért	NOPE			
+17	szalaszt	azért	Akármerre szalasztom itthonról ezt-amazt intézni			
+17	sejtet|sejt	azt	olvashatni sejtettem szemében ,			
+17	meg+tér	azért	ahová éjszakára megtértem aludni			
+17	meg+nézhet	azt	NOPE			
+17	meg+ijed	attól	akik szabályszerűen megijedtek iskolába járni .			
+17	le+hív	azért	Lehív beszélgetni			
+17	követhet	azért	NOPE			
+17	futhat	azért	még anyádhoz se futhatsz megbeszélni			
+17	föl+kel	azért	bizonyára fölkelt elkészíteni a reggelit			
+17	fel+szalad	azért	átizzadva felszaladtam a palahányóra razziázni			
+17	el+tesz	azért	tavasszal eltette a zsákokat pihenni			
+17	el+száll	azért	elszáll meghalni hamar			
+17	el+ragad	azért	NOPE			
+17	el+fér	azért	NOPE			
+17	ejt|ejtet	x	Közben leendő apósom módját ejtette értésemre adni	@lex: módját		
+17	be+jut	azért	egykor az országos kapitányságra valakik egyszerűen bejutottak aranyat szabadon árusítani .			
+17	át+vonul	azért	majd átvonultak a Piros Lóba sörözni .			
+17	át+hív	azért	áthívtak kártyázni .			
+16	vissza+visz	azért	akkor visszaviszlek az ágyadba aludni .			
+16	vissza+húz	azért	azzal újra visszahúzta fejét hallgatózni .			
+16	vetődik	azért	főleg Magyarországra vetődnek el munkát keresni			
+16	ügyel	arra	NOPE			
+16	tülekszik	azért	két lelkecske is tülekszik bejutni ugyanabba a testbe ?			
+16	taníthat	arra/azt	hogyan taníthatja meg szopni a csecsemőt			
+16	szerezhet	azért	csak ekként szerezhetek reális esélyt megtudni			
+16	röpül	azért	röpülnek húst tépni az arcból a férgek .			
+16	pattan	azért	a nagyfilm között a nép egyszerre pattant föl pisilni			
+16	oda+siet	azért	odasietek fordítani			
+16	meg+szűnhet	x	megszűnhetnék élni			
+16	le+fekhet	azért	lefekhet pihenni			
+16	kuncsorog	azért	Mégis naponta kuncsorognak be egész családok befogadást kérni .			
+16	ki+szökik	azért	én kiszöktem sétálni a királyi kertbe			
+16	kísérletezik	azzal	én se kísérletezzek olyan dolgokban dönteni			
+16	ki+lóg	azért	a kínai előadások alatt kilógott cigarettázni			
+16	ki+készít	azért	NOPE			
+16	ki+állít	azért	NOPE			
+16	kecsegtet	az	Az elemzők szerint az új generációra összpontosítani több sikerrel kecsegtet			
+16	helyettesít	abban	NOPE			
+16	előre+visz	az	logikusan gondolkodni előrevisz .			
+16	el+felejtkezik	arra	a koncerttel kapcsolatban elfelejtkeztem kiemelni egy olyan részletet			
+16	be+fizet	arra	befizet hozzánk enni			
+16	át+szalad	azért	Majd este átszaladok megbeszélni .			
+16	át+ruccan	azért	átruccanok tesztelni .			
+15	vitet	azért	kit vitetnék elvonókúrára epét öklendezni			
+15	vissza+kerül	azért	a diploma után visszakerült az egyetemre oktatni .			
+15	tolong	azért	Ezzel szemben a munkások sem tolonganak segíteni a nyomorgókon			
+15	tanultat	x	Pesten nem tanultatok énekelni		%tanul	
+15	szabadít	azért	az utcára szabadították őket vacsorát keresni .			
+15	sorakozik	azért	magánvállalkozók sorakoztak fel segíteni .			
+15	ruccan	azért	Budapestről ide ruccant le telelni			
+15	rohanhat	azért	akik rohanhatnak minden film után új autót venni .			
+15	parkol	azért	épp egy rendőrőrs előtt a pázsiton parkolt le pihenni részegen			
+15	omlik	azért	NOPE			
+15	láttatik	x	sírni láttatik az ég			
+15	ki+vezényel	azért	kivezényeltek az udvarra sétálni .			
+15	ki+nevez	azért	az illetőt kinevezték az egyetemre tanítani .			
+15	ki+mászik	azért	egy katona kimászott a fedezékből a dolgát végezni			
+15	ki+kel	azért	Hát kikelsz itten verekedni talán a főnökkel			
+15	kényszeríttet	arra	megenni kényszeríttettek			
+15	izgul	attól/amiatt	NOPE			
+15	iszonyodik	attól	miért iszonyodom egy olyan tükörbe nézni			
+15	irányoz	x	NOPE		%elő+irányoz	
+15	fel+ment	x	Felmentem a lakásunkba telefonálni		%fel+megy	
+15	el+szegődik	azért	Legénykorában elszegődött valahová dolgozni .			
+15	ellenkezik	az/azzal	stílusáról topicot nyitni ellenkezik a Kódex elveivel			
+15	el+határoz	azt	elhatároztam hallgatni addig			
+15	dukál	az	vajon kinek dukál itt visszaütni			
+15	csönget	azért	csöngettek már be érdeklődni ?			
+15	buzdít	arra	nem is buzdítunk senkit bármi jogtalant tenni ellenük .			
+15	be+oszt	azért	Beosztották fegyelmezni .			
+15	bele+fárad	abba	amíg belefáradunk lakni benne ?			
+15	be+járhat	azért	a kutyák bejárhatnak összepiszkítani a homokot .			
+15	át+néz	azért	átnéztem a szülőszobába ott is belekotyogni a dolgokba .			
+15	át+áll	azért	de érdeklődés híján nemsokára átáll Royal Colát meg efféle szarokat gyártani .			
+14	sokall	azt	egy-tálból enni nem sokallotta			
+14	rángat	azért	ne rángassák őket szerepelni ide-oda			
+14	neki+vág	annak	nekivágtunk felfedezni a szigetet .			
+14	mentet|ment	x	NOPE		%megy	
+14	meg+vár	azt	A buszt megvárták elhaladni			
+14	meg+őrül	attól	Majd megőrültem tönkretenni az alakomat !			
+14	meg-meg+próbál	azt	meg-megpróbált szabadulni .			
+14	le+rak	azért	leraktam hagymás olajba érni .			
+14	küszködik	azért	áramlani küszködik			
+14	ki+ruccan	azért	kiruccantak a tópartra piknikezni .			
+14	ki+rendel	azért	igazán beteget is kirendeltek dolgozni .			
+14	ki+bocsát	azért	NOPE			
+14	ki+állhat	azért	Ezekben a rongyokban legfeljebb kiállhatok koldulni a Rókus elé ...			
+14	készülhet	arra	készülhet a konyhára vizet vinni .			
+14	idegesít	az	NOPE			
+14	haza+ment	x	hazamentünk demokráciát építeni		%haza+megy	
+14	fogan	azért	a műveltség emelkedni fogand .			
+14	fogadhat	azért	Akárki napszámost nem is fogadhatsz fel kapálni			
+14	félre+áll	azért	mindjárt félreállottak a folyosón beszélgetni .			
+14	fel+keres	azért	felkereste őket megtudakolni			
+14	el+hívhat	azért	a legrondább titkárnőt is elhívhatják vacsorázni .			
+14	el+hajt	azért	elhajtott valakihez bejelenteni			
+14	el+csal	azért	aztán elcsalom sétálni .			
+14	be+ugorhat	azért	tíz percre beugorhatok a családomhoz elbúcsúzni			
+14	be+toppan	azért	Bernát úr betoppant kávézni			
+14	át+visz	azért	átvigye igazgatni a keleti szektorba ?			
+14	át+képez	arra	A tanárokat átképezik szénát kapálni			
+14	ajánlkozik	arra	Trágyát hordani már nem ajánlkoztam			
+13	zúdul	azért	fosztogatni zúdult a török .			
+13	vissza+hoz	azért	aztán visszahozták fényképezni			
+13	tűr	azt	Nézni sem tűri akárkinek			
+13	tündököl	x	Bírálni tündököl .			
+13	tovább+megy	azért	Dante továbbment meghalni			
+13	térdel	azért	nem térdelnek gyónni			
+13	találtat	x	kit már mindenki ismerni találtatott .			
+13	szégyenkezik	amiatt	minden bizonnyal szégyenkeznék előhozakodni .			
+13	sétálgat	azért	sétálgattunk a Tesco-ban venni egy kis rágcsát ...			
+13	preferál	azt	NOPE			
+13	pakol	azért	ellopni pakolja magát			
+13	oson	azért	a külföldi trénerek álruhában osonnának szemelgetni belőlük .			
+13	ömlik	azért	ömlik majd e sírgödört temetni			
+13	oda+rohan	azért	odarohanunk segíteni			
+13	méltat	x	NOPE	@lex: szóra		
+13	meg+gátol	azt	meggátolt valahányszor már-már szólni			
+13	le+zuhan	azért	lezuhanok egy pár órára aludni			
+13	ki+merészkedik	azért	kimerészkedjem játszani a küszöb elé			
+13	ki+dől	azért	Nagynénim kidőlt még egy kicsit sziesztázni			
+13	kerít	x	Zöldikéből kerítették őket ünnepelni	@lex: sort		
+13	jogosít	arra	másrészt hálistennek senki nem jogosított fel ilyesmit megtenni .			
+13	járogat	azért	Járogatott a mezőre szántani			
+13	izgat	az	Izgatta a fantáziámat ismét rendezni valamit .			
+13	íratik	x	Írasd be hegedülni ...		%be+írat	
+13	igényelhet	az	NOPE			
+13	hozzá+kezd	ahhoz	amint hozzákezdek beírni			
+13	hihet	azt	józan ésszel nem hihet szikrát láthatni ott			
+13	haza+hoz	azért	akit a vőlegénye hazahozott a családnak bemutatni .			
+13	fukarkodik	azzal	ne fukarkodjatok meglepni a barátnőtöket .			
+13	föl+jön	azért	följött a nővérét meglátogatni			
+13	fel+jön|jő	azért	feljövök gépezni egyet			
+13	eridj	x	Eridj mosdani		%ered	
+13	el+juthat	azért	ahol a nyáron mindenki eljuthat táborozni			
+13	el+járogat	azért	eljárogatott vadászni .			
+13	el+húzódik	azért	elhúzódott gondolkozni			
+13	el+áraszt	azért	amelyek elárasztják tartani			
+13	be+vállal	azt	bevállalja ezt megint megrendezni ..			
+13	be+segít	abban	besegítettünk leszedni a teherautókról			
+13	be+mászik	azért	Inkább bemászok a hűtőbe csokizni .			
+13	bele+kezd	abba	belekezdjek kifejteni			
+13	be+jelentkezik	azért	Én ugyan szándékaim szerint bejelentkeztem hozzászólni			
+13	át+mehet	azért	Átmehetünk mindjárt megnézni a lakást ?			
+12	vetkőzik	azért	derékra vetkőzött az anyja szappanát habbá verni .			
+12	utaztat	azért	nincsteleneket utaztatott a Balatonhoz nyaralni ...			
+12	tapsol	x	aki pecázni legyeket tapsol			
+12	szüntet	x	ezt szüntesse meg folytatni		%meg+szüntet	
+12	szaporít	azért	akit szegény anyám szenvedni szaporított			
+12	száguld	azért	száguldjunk haza sokasodni .			
+12	suhan	azért	csillag suhanna leülni a székre			
+12	sóvárog	arra	Aki a mindenható mosolyát egy földi képben látni sóvárog			
+12	reszket	attól	gyúlni reszket			
+12	rendelhet	azért	Ilyen tilalmak megszegését a törvény is büntetni rendelheti			
+12	rá+tesz	azért	rátettek egy lábas teavizet melegedni .			
+12	rá+száll	azért	Rászállt tollászkodni egy fekete holló .			
+12	oda+szalad	azért	nagy sivalkodással odaszaladtak megnézni az eredményt .			
+12	oda+lép	azért	odalépett az apjához köszönni .			
+12	meg+szökik	azért	gyszer Adrika is megszökött ott az unokatestvérével sétálni .			
+12	meg+érez	azt	Megérezte az anyja kezét elnyugodni a vállán			
+12	le+térdel	azért	Mielőtt letérdelnél könyörögni .			
+12	le+tér	azért	NOPE			
+12	le+nyom	azért	Etit nagynehezen már lenyomtuk aludni			
+12	le+jön|jő	azért	Lejövök edzeni			
+12	le+hajol	azért	Újra lehajolt kimerni a szivárgást .			
+12	látszhat	az/annak	eltörpülni látszhattak azok a változások			
+12	kölcsön+ad	azért	kölcsönadnának egy kicsit erősödni előtte			
+12	ki+köt	azért	miközben ott kikötöttek fürdőzni .			
+12	ki+fut	azért	kifut a ló a pályáról füvet legelni			
+12	ki+feszít	azért	NOPE			
+12	ítéltet	arra	fölkelni ítéltetett			
+12	húzódozik	attól	sokan húzódoztak odahagyni házukat .			
+12	hangol	arra	továbbmenni hangol .			
+12	fütyül	arra	Fütyültek eljönni .			
+12	férhet	azért	ő meg nem férhet oda melegedni a tűz közelébe .			
+12	fel+száll	azért	bombázni is felszállnak -e majd onnan a NATO katonai gépei			
+12	fel+mehet	azért	Felmehetett a végtelen fenyvesben gyönyörködni			
+12	fel+küld	azért	aztán felküldte aludni			
+12	fel+ébred	azért	felébredünk pisilni			
+12	farag	x	NOPE			
+12	esküszik	arra	téged lenyakazni esküdött .			
+12	el+repül	azért	elrepültek permetezni .			
+12	el+múlik	x	kedve elmúljék itt letelepedni .	@lex: kedve		
+12	ellent+mond	az	Az egyházak közül néhányat bármilyen indok alapján is privilegizálni teljesen ellentmond a vallási			
+12	el+küldhet	azért	egy mérnököt is elküldhetnek havat lapátolni .			
+12	el+hibázik	azt	elhibázott úgy átállni a többciklusú képzésre			
+12	dívik	az	Strassert baloldalisággal dívik vádolni .			
+12	bizonyulhat	x	Keményebb diónak bizonyulhat a tanulságok levonása után meghatározni a DSZM új stratégiáját .	@lex: x-nek		
+12	be+néz	azért	lefekvés előtt a néni mindig benéz traccsolni .			
+12	be+kopog	azért	akihez bekopogott megkérdezni			
+12	be+íratik	azért	beíratták zongorát tanulni .			
+12	be+fut	azért	Köröm községből befut a cigány a városba a Tiszában fürödni			
+12	bátorít	arra	honnét a szikár eszmény egy kövér énekesnőt bátorít áriázni			
+12	át+sétál	azért	átsétálok az ebédlőbe kajálni .			
+12	át+mászik	azért	Átmászok egy másik ágy alá elhatárolódni ...			
+11	vissza+húzódik	azért	visszahúzódnak majd tanácskozni			
+11	vetkezik	azért	félig alva már aludni vetkezem			
+11	toboroz	azért	NOPE			
+11	tévedhet	azért	NOPE			
+11	szerettet	x	Eddig szerettetek ide járni .		%szeret	
+11	rugaszkodik	azért	Törni egymást rugaszkodtak keményen Tiámat			
+11	robog	azért	maga robogott oda a professzor kívánságát kitudni			
+11	rá+megy	azért	konkrétan rámennek ellenőrizni az evásokra .			
+11	olvaszt	azért	Ők olvasztanak havat kis Csilla pelenkáit mosni			
+11	oda+küld	azért	odaküldték az erdőben a favágókhoz érdeklődni			
+11	oda+csődül	azért	erre a fél város odacsődül kíváncsiskodni			
+11	meg+jelenhet	azért	más tettes is megjelenhet a sötétben diót csemegézni			
+11	meg+jár	az	Egyszer megjárja még fehéret álmodni			
+11	mászkál	azért	A gyerekek pisilni mászkáltak			
+11	le+hoz	azért	lehozzák a kutyát sétálni			
+11	le+heveredik	azért	leheveredett a fűbe napozni			
+11	le+csúszik	azért	NOPE			
+11	körbe+jár	azért	én körbejártam ellenőrizni			
+11	ki+vándorol	azért	esetleg kivándorolsz karriert csinálni			
+11	ki+terít	azért	kiterítettem száradni a padlásra			
+11	ki+pattan	azért	a hapsi kora reggel kipattant az ágyból szemügyre venni az autót			
+11	ki+helyez	azért	kihelyezik az igénylőhöz dolgozni .			
+11	ki+baszik	azért	NOPE			
+11	ki+ballag	azért	kiballagtak megnézni			
+11	inspirál	arra	nem inspirálják a jó képességű fiatalokat az ágazatban maradni .			
+11	ide+hoz	azért	csak idehozta megmutatni			
+11	húzhat	azért	télen alanyi jogon húzhatna délre tárgyalni .			
+11	hűt	azért	NOPE			
+11	hathat	az	Ilyen környezetben komikusnak hathat magyar ügyekről szólni .			
+11	függeszt	azért	esetén függeszt fel veszteséget termelni			
+11	föl+kér	arra	Fölkérek táncolni egy lányt			
+11	fel+hoz	azért	NOPE			
+11	felejthet	x	nem is felejthetem el megnézni .		%el+felejthet	
+11	fel+akaszt	azért	felakasztják lecsöpögni .			
+11	ereszkedik	azért	ezúttal nem ereszkedtek le inni a holtágba .			
+11	építhet	azért	NOPE			
+11	el+tol	azért	inasa eltolta vendégeskedni különböző körökbe .			
+11	el+tanácsol	azért	néhány hónapos tanácsadás után eltanácsoljuk a tanácsadókat máshova tanácsot adni			
+11	el+szalaszt	azért	a felemelő pillanatot elszalasztotta megörökíteni .			
+11	el+jő	x	szombatról-szombatra eljő minden test engem imádni		%el+jön	
+11	el+fut	azért	még gyorsan elfutok szavazni .			
+11	bele+vág	abba	belevágtam törleszteni régi adósságomat			
+11	bele+kerül	az	akinek egy-két napjába belekerült megszokni			
+11	be+húz	azért	NOPE			
+11	át+járhat	azért	Akárki átjárhat játszani			
+11	átalkodik	x	nem átalkodtak tömegesen hamisítani a fűszerpaprikát ...			
+11	árulkodik	az	emlegetni a tájékozottság nagy fehér foltjairól árulkodik .			
+10	zárkózik	azért	egyébként sose zárkózik el szellemi tanácsot adni .			
+10	vergődik	azért	Montpellier-be vergődtek ki igét tanulni .			
+10	tovább+lép	azért	mindig továbblépett tanítani			
+10	taszít	azért	rászívódva gyöngén menni taszította .			
+10	szét+szed	azért	szétszedem a toronycsapágyat zsírozni			
+10	sereglik	azért	Tanácskozni sereglettek			
+10	roskad	azért	NOPE			
+10	rejteget	az	milyen veszélyeket rejteget autóstoppost felvenni .			
+10	pirul	attól	amit másként pirulna kimondani			
+10	ott+marad	azért	mindenki ottmaradna nézni			
+10	örvend	annak	örvend maradni			
+10	oda+visz	azért	akkor odavitték megforgatni a lányokat .			
+10	mulat	x	az Úrnak haragját engesztelni el nem mulatjuk .		%mulaszt	
+10	merít	azért/az	bátorságot merítettem leülni melléje			
+10	meg+tanultat	x	Megtanultatok hallgatni		%meg+tanul	
+10	meg+hív|hí	azért	meghívom őt vezényelni			
+10	meg+hívhat	azért	Meghívhatlak vacsorázni ?			
+10	liheg	azért	OV lihegett lódarazsat befogadni			
+10	le+ver	azért	NOPE			
+10	le+szed	azért	NOPE			
+10	le+ront	azért	lerontott a műhelybe melózni .			
+10	le+hajt	azért	lehajtott a havat kihordani a kaszárnyaudvarból			
+10	le+guggol	azért	leguggolt hozzá megsimogatni a vállát			
+10	köteleztet	arra	A tót nyelvet nálunk csak tót születésűek köteleztettek tanulni			
+10	ki+zavar	azért	mikor kizavartak egy komát hegedülni a pályaudvarra ?			
+10	ki+tol	azért	NOPE			
+10	ki+szorul	azért	étkezni kiszorultak			
+10	ki+szorít	az	NOPE			
+10	ki+költözik	azért	kiköltöztem a fáskamrába dolgozni .			
+10	kereshet	azért	szerdán a Hódmezővásárhelyi Rendőrkapitányságot kereshették fel a vért adni kívánó rendőrök			
+10	kényteleníttet	arra	Fájdalommal kényteleníttetem megvallani			
+10	kényszeríthet	arra	kényszerítheti olyasmit eltűrni			
+10	kelletik|kell	az	mely tulajdonságokkal kellettek ezeknek bírni .			
+10	kanyarodik	azért	Csak akkor kanyarodnak fölénk megnézni a zavarkeltőket			
+10	ingázik	azért	ingázom Pestre gályázni			
+10	ide+küld	azért	minden nap ideküldik kéregetni .			
+10	haza+látogat	azért	hazalátogatnak szétnézni .			
+10	hárul	az	újságíróknak a vállára hárul a teher megmondani			
+10	hajózik	azért	szintén egy szigetre hajóznak pihenni			
+10	hajít	azért	megszáradni hajítom			
+10	gyalogol	azért	énekszóval gyalogolnak meghalni .			
+10	görget	azért	görgeti mérni			
+10	föl+áll	azért	a napon pihenni fölállt			
+10	fel+segít	azért	aki felsegíti ülni az embert			
+10	fel+készít	arra	majd új vízben felkészítjük főzni .			
+10	fel+kerül	azért	NOPE			
+10	fel+fogad	azért	kinek birodalmat megtartani felfogadtam			
+10	el+utazhat	azért	Azért még elutazhatsz egy két helyre megcsodálni			
+10	el+üldöz	azért	NOPE			
+10	el+tökél	azt	ily hosszú út viszontagságait megosztani eltökélem			
+10	el+tervez	azt	NOPE			
+10	el+szökik	azért	ezért a kutya gyakran elszökik egyedül sétálni .			
+10	elő+veszik	x	ma is előveszed még az érmeket nézegetni ?		%elő+vesz	
+10	el+juttat	azért	NOPE			
+10	dicsekszik	azzal	NOPE			
+10	bátorkodhat	arra	bátorkodhatom tanácsot adni			
+10	át+jöhet	azért	játszani is átjöhetsz .			
+10	áhítozik	arra	egy ideig ő maga is áhítozott e pályán tündökölni			
+9	zavarhat	azért	NOPE			
+9	vissza+kocog	azért	Visszakocogtak folytatni a haditanácsot .			
+9	vélelmez	azt	amit ön szerintem vélelmez belőlük kiolvasni			
+9	szövetkezik	arra	líraiságot színre vinni jeles színészek szövetkeztek .			
+9	szemel	x	Rómát tönkretenni téged szemeltek ki az istenek .		%ki+szemel	
+9	simul	azért	homlokom nyugodni simul			
+9	siethet	azért	felszabadultan siethetett ebédelni .			
+9	sejtet	azt	ami azt az elhamarkodott logikai következtetést sejteti levonni			
+9	rá+fér	az	Vezíredre is ráférne valami ember formát felvenni .			
+9	őrizkedik	attól	aki még bemutatkozni is őrizkedik			
+9	oda+van	azért	míg odavolt a menekültek szekereit fosztogatni			
+9	oda+utazik	azért	én is odautaztam vendégszerepelni .			
+9	oda+ment	x	Odamentem a kasszához fizetni .		%oda+megy	
+9	oda+érik	x	odaérjen a mikrofonhoz énekelni		%oda+ér	
+9	mozgat	azért	NOPE			
+9	meg+próbáltat	x	megpróbáltatok segíteni ...		%meg+próbál	
+9	meg+küld	azért	NOPE			
+9	masírozik	azért	milyen zenére masírozzanak be verekedni a marcona férfiak .			
+9	lopakszik	azért	Elsőként Suzuki-kereskedésekbe lopakodtak új Swiftet venni .			
+9	le+kapcsol	azért	NOPE			
+9	ki+tereget	azért	kiteregesse a lelkét szárítani .			
+9	ki+jut	azért	kijutok Egyiptomba arabot tanulni .			
+9	igyekeztet	x	Ti ezt tételesen cáfolni igyekeztetek		%igyekszik	
+9	haza+ad	azért	1/2 évesen az orvosok hazaadtak meghalni			
+9	gurul	azért	Visszafele kb tizenöt gép gurult egyszerre felszállni .			
+9	fel+sorakozik	azért	aztán kipirulva felsorakoznak hallgatózni .			
+9	fel+jöhet	azért	feljöhet ide beszélgetni			
+9	el+szán	arra	végre elszánjuk magunkat az úton menni			
+9	borzad	attól	Én borzadnék kockát játszani a nemzet jövendőjével			
+9	bolondul	azért	játszani bolondul			
+9	be+zárkózik	azért	bezárkózik tévét nézni			
+9	bele+tesz	azért	főni beleteszi az ember egy edénybe			
+9	be+léphet	azért	ami után beléphet játszani .			
+9	be+fordul	azért	befordultunk Sógor bácsiékhoz fölmelegedni .			
+9	be+esik	azért	valaki beessen hozzá árulkodni .			
+8	vissza+lép	azért	akkor visszalépek megvigasztalni .			
+8	tömörül	azért	NOPE			
+8	tekinthet	x	NOPE	@lex: x-nek		
+8	tárul	azért	szólni tárul a száj			
+8	restelkedik	attól	Szinte restelkedem is elmondani			
+8	össze+hív	azért	NOPE			
+8	össze+bújik	azért	összebújtak röhécselni a felszólaláson			
+8	oda+kerül	azért	mire ők odakerültek törölgetni			
+8	oda+jöhet	azért	odajöhetnek megpihenni			
+8	nyüzsög	azért	nyüzsögnek semlegesíteni mindent			
+8	nyomorít	x	nyomorítják az ént odaemelkedni			
+8	meg+elégel	azt	már megelégelted hallgatni			
+8	le+vonul	azért	levonult a pincébe téli álmot aludni .			
+8	le+nyúlik	azért	Éppen lenyúltam megtapogatni a kötelet			
+8	le+kísér	azért	inkább lekíséri felvilágosítani			
+8	le+jöhet	azért	lejöhessen tanítani ebbe a szemét kisvárosba			
+8	le+fut	azért	lefutott a tóhoz a békákat lesni			
+8	le+dob	azért	majd ledobtam az ágyra száradni			
+8	le+állhat	azért	bárkivel leállhat beszélgetni			
+8	kúszik	azért	Az nem kúszik ki a napfényre melegedni			
+8	kottyan	x	meg sem kottyan neki szétrágni járókája fakereteit		%meg+kottyan	
+8	költözhet	azért	NOPE			
+8	ki+oson	azért	hangtalanul kiosonok zuhanyozni .			
+8	ki+önt	azért	utána egy vödörbe kiöntöttem hűlni .			
+8	ki+merít	az	Ilyenféleképp foglalkozni magammal mindig kimerít			
+8	ki+látogat	azért	egyszer-egyszer a temetőbe is kilátogat három volt férjével beszélgetni .			
+8	ki+hajol	azért	az erkélyről kihajolt megnézni			
+8	hozzá+tartozik	az	A műveltséghez hozzátartozik a pluralizmus zongoráján játszani .			
+8	haza+szalad	azért	hazaszaladtam fürödni			
+8	haza+rohan	azért	hazarohant átöltözni .			
+8	haza+jő|jön	azért	hazajövök olvasgatni .			
+8	hallatszik	az	amikor közeledni hallatszott			
+8	hajthat	azért	NOPE			
+8	hajol|hajlik	azért	Fölém hajolsz megnézni			
+8	foszlik	azért	mely sokasodni foszlik			
+8	fel+vonul	azért	időnként mégis felvonul csörömpölni			
+8	fel+utazik	azért	szombatonként felutaztam Pestre játszani			
+8	félhet	attól	félhetnek odaadni a személyes okmányaikat			
+8	evez	azért	a partra evez információt szerezni			
+8	érdemesít	arra	ki ez órát elérni érdemesítettél			
+8	el+űz	azért	szép személyét nézni elűz éngem			
+8	el+siet	azért	majd elsietett átöltözni			
+8	el+rak	azért	télen elraktuk a kerékpárt porosodni !			
+8	el+mentet	x	elmentetek megnézni		%el+megy	
+8	el-el+jár	azért	el-eljárt vadászni .			
+8	dűl	x	Dűlj le kicsit pihenni .		%dől	
+8	cammog	azért	Éjjelente többször az ablakhoz cammogunk megnézni			
+8	bújhat	azért	ugye nem bújhatunk el egy barlangba elmélkedni ?			
+8	be+utazik	azért	Külön beutaztak a városba megvenni .			
+8	be+ültet	azért	Beültettek gondolkozni .			
+8	berzenkedik	attól	Valahogy berzenkedek megkérdezni			
+8	be+kukkant	azért	Csak éppen bekukkantottunk elbúcsúzni .			
+8	át+lép	azért	átléptek kávézni .			
+8	át+helyez	azért	áthelyeztük őket másik céghez dolgozni			
+8	át+enged	azért	átengedi beszélgetni a másik zárkába húsz-harminc percre .			
+8	adódhat	x	Az együttműködés keretében lehetőségünk adódhat a két észak-amerikai járatunk veszteségeit felszámolni .	@lex: alkalom		
+7	vonszol	azért	vonszol az oszlopok mögé szeretkezni			
+7	vissza+indul	azért	visszaindulna tésztát enni .			
+7	vissza+esik	azért	NOPE			
+7	vetemedik	arra	én odabenn nem vetemedtem rágyújtani .			
+7	végig+jár	azért	Sanyika már a kocsik napja előtt végigjárta a rokonságot búcsúzkodni			
+7	tolakszik	azért	Sehol sem tolakodtak szavazni !			
+7	szédül	attól	szédülne lenézni ilyen bizonytalan mélységbe			
+7	sétálhat	azért	nem sétálhat el nézelődni .			
+7	segítget	abban	Cserébe én segítgetek a telefonját karbantartani :) .			
+7	segél	abban	aztán még segéljek nekik is majd megcsinálni .			
+7	sarkall	arra	az úgynevezett valóság legfeljebb élni sarkall ...			
+7	rá+áll	azért	akkor ráálltak zavarni .			
+7	pártol	azért	A javaslat nem pártolja visszaállítani a halálbüntetést .			
+7	össze+jő|jön	azért	Ha már ebédelni összejövünk páran			
+7	össze+függ	az	NOPE			
+7	össze+verődik	azért	NOPE			
+7	össze+állhat	azért	ketten párosozni is összeállhatnak .			
+7	neki+fut	annak	már többször nekifutottak egy olyan műholdrendszert üzemeltetni			
+7	minősülhet	x	a könnyebbik utat választani rövidlátásnak minősülhetne .	@lex: x-nek		
+7	meg+pihen	azért	amikor a Naszályon felfelé megpihenek farigcsálni a Bik kútnál .			
+7	meg+kaphat	azért	az megkaphatja automatával az Evót ellötyögni vele a forgalomba			
+7	meg+bolondul	x	megbolondultam megadni a címemet .			
+7	marasztal	azért	amelyen a combtőig érő víz hűvössége egy ideig állni marasztal			
+7	le+pihen	azért	lepihen aludni			
+7	le+pattan	azért	egy kicsit lepattansz dolgozni ?			
+7	le+kerül	azért	lekerülök az utca felé ácsorogni .			
+7	ki+terel	azért	kiterelnek legelni			
+7	ki+szed	azért	valamit kiszedünk az összepakolt kupacból megvarrni			
+7	ki+siet	azért	azonnal kisiet a kamrába fát vágni .			
+7	ki+rajzik	azért	kirajzott bámészkodni a virágos teraszra			
+7	ki+fizetődik	az	talán kifizetődik majd tanítót tartani .			
+7	ki+csal	azért	kicsalja nagybátyját a mezőkre egy kicsit nyulászni			
+7	késztet|készt	arra	maradni késztette			
+7	kelhet	azért	tisztálkodni sem kelhetnek fel .			
+7	jön-megy	azért	NOPE			
+7	ingerel	az/arra	nevetni ingerelje .			
+7	hozzá+segít	ahhoz	maga hozzásegített bennünket bebizonyítani			
+7	győzköd	azt	aztán csak győzködjétek felkapkodni az állatokat mindenhonnan			
+7	frusztrál	az	frusztrált a környezetemet a képemre formálni			
+7	föl+jár	azért	Nagyapám még följárt vadászni Norvégiába			
+7	feltételez	azt	Ezt a TÉNYT összekeverni ALAPVETÖ JÁRATLANSÁGOT feltételez			
+7	félre+húzódik	azért	félrehúzódtam aludni .			
+7	fel+húz	azért	akit a filmben Springsteen felhúz a színpadra táncolni .			
+7	fel+enged	azért	éjszaka felengedjék a fedélzetre imádkozni			
+7	fel+dob	azért	NOPE			
+7	el+varázsol	az	elvarázsol csak üldögélni			
+7	el+kísérhet	azért	elkísérhetem világot látni .			
+7	delegál	azért	a legtapasztaltabb tagjainkat delegálnánk Bankokba választani .			
+7	cibál	azért	cibálnak focizni .			
+7	bosszant	az	Bosszantja látni bátyja örömét .			
+7	be+téved	azért	csak betévedt olvasgatni			
+7	be+ront	azért	beront a faluba újabb áldozatot keresni .			
+7	be+nyit	azért	néha benyit valaki elköszönni tőle			
+7	be+nevez	azért	rutint szerezni benevezett			
+7	bele+hal	abba	amibe belehaltak Istennek elmondani ?			
+7	be+dob	azért	NOPE			
+7	be+bújik	azért	bebújok az ágyba zokogni			
+7	be-be+jár	azért	a polgármester úr még be-bejárt olvasni ...			
+7	át+rohan	azért	Átrohanok etetni			
+7	át+rándul	azért	átrándulnak Szabadkára magyart enni .			
+7	áramlik	azért	A nézők akadálytalanul áramlottak át táncosokat figyelni			
+7	akadozik	azért	csak időm nem iged akadozott netezni .			
+7	ajánlhat	azért	helyettesíteni ajánlhatja ?			
+6	vissza-vissza+tér	azért	vissza-visszatér enni belőle .			
+6	vissza+rak	azért	visszarakom pihenni a hűtőbe .			
+6	vissza+marad	azért	visszamaradt pihenni			
+6	vissza+bújik	azért	a gilisztát hátára illesztve ebédelni visszabújjon .			
+6	üget	azért	ügettek uzsonnázni .			
+6	tovább+áll	azért	majd továbbállok a többi játékot kipróbálni .			
+6	toszik	arra	ma tosztam bemenni			
+6	tágít	attól	a fényt hirdetni nem tágítottam ! </l>			
+6	reménykedhet	abban	miként reménykedhetünk e legtöbbet elérni			
+6	rejtőzik	azért	a száraz ághalomba rejtőzzön el kimúlni .			
+6	rá+tér	azért	NOPE			
+6	rajta+kap	azon	amikor rajtakaptam kolleganőt sírni munkában .			
+6	rá+gyújt	azért	NOPE			
+6	össze+rak	azért	Utóbbit kipróbálni direkt újra összeraktam a CF-et			
+6	össze+forr	azért	újulni összeforrt			
+6	oda+sereglik	azért	NOPE			
+6	oda+hív	azért	roham közben odahívjuk tanácsot kérni a vezérkart a tűzbe .			
+6	oda+gyűlik	azért	odagyűlnek hallgatni a bandát .			
+6	oda+ér	azért	ugye mire szegény kopi odaér kajálni ...			
+6	meg+ugrik	azért	aztán megugrott PhD-zni az USA-ba .			
+6	meg+kínál	azért	NOPE			
+6	lovagol	azért	Goethe gyakran lovagolt ki Elzász faluiba népdalokat gyűjteni			
+6	le+vesz	azért	A fóliát is levettem megnézni			
+6	le+költözik	azért	hajdan a szlovákok is leköltöztek az Alföldre jobb megélhetést keresni .			
+6	le+hull	azért	bomlani lehull .			
+6	le+bukik	azért	lebuktak kibekkelni .			
+6	kívántatik	az	kívántatik beszélni róla			
+6	ki+ülhet	azért	kiülhetnek pihenni egy kicsit .			
+6	ki+tár	azért	NOPE			
+6	ki+rándul	azért	Tihanyba kirándulnak visszhangot hallgatni			
+6	kínlódik	azért	például rengeteget kínlódtunk munkahelyet szerezni			
+6	ki+lök	azért	kilökik az út szélére pénzt keresni .			
+6	ki+léphet	azért	kiléphessenek az ajtó elé néhány percre friss levegőt szippantani .			
+6	ki+hord	azért	kihordták öntözni .			
+6	ki+felejt|felejtet	azt	Kifelejtetted elmondani			
+6	kertel	azért	NOPE			
+6	javasolhat	azt	bármennyit javasolhat a helyi tantervbe beépíteni			
+6	ide+ül	azért	ideülök önhöz egy kicsit beszélgetni			
+6	ide+jöhet	azért	idejöhetnek ordítozni			
+6	húzódhat	azért	e zugba húzódhattam írni			
+6	haza+siet	azért	Hazasietek dolgozni .			
+6	hátra+hagy	azért	hátrahagyják megrothadni .			
+6	hallik|hal	azt	hangosan nevetni nem hallak .			
+6	futkos	azért	Futkostunk ide-oda tárgyalni			
+6	föl+vesz	azért	fölvennének dolgozni valahová .			
+6	félre+vonulhat	azért	a nap hátralevő részében nyugodtan félrevonulhatnánk elmélkedni			
+6	el+zarándokol	azért	Te elzarándokoltál meghallgatni őket ?			
+6	el+úszik	azért	Elúsztam megkeresni Camillát			
+6	el+sajátít	azt	amit elsajátítottam bátran alkalmazni			
+6	el+rángat	azért	Tegnap este elrángattak barátaim bulizni egy kicsikét			
+6	el+oson	azért	A többiek elosontak búvóhelyet keresni .			
+6	elő+kap	azért	minden járókelő előkapja a telefonját videózni			
+6	elő+bújik	azért	A házakból előbújtak a szorongatott lakók szellőzni			
+6	el+látogathat	azért	Egyszer már kannibálokhoz is ellátogathatna egy kicsit seftelni .			
+6	el+kerget	azért	elkerget elemi iskolába oktatni			
+6	el+kanyarodik	azért	A rendőrök is elkanyarodtak leellenőrizni a bejelentést .			
+6	el+engedhet	azért	nyugodtan elengedhetik a gyerekeket nyaralni .			
+6	el+adhat	azért	NOPE			
+6	csúsztat	azért	mindig csúsztatott költeni 50-60 márkát .			
+6	csináltat	azért	Én örülni csináltattam .			
+6	csábíthat	arra	NOPE			
+6	buzgólkodik	azon	az öngyilkosságot tagadni buzgólkodnak			
+6	buszozik	azért	onnan buszozott edzeni az ETO-stadionba			
+6	be+zavar	azért	bezavartam őket chipet nézetni .			
+6	be+szervez	azért	A visszavonulókat beszervezték különböző szakaszokban őrséget adni .			
+6	be+szállhat	azért	ekkor már én is beszállhatok néhány percre játszani .			
+6	be+rángat	azért	berángatják szavazni ?			
+6	be+merészkedik	azért	mire bemerészkedtem megkérdezni			
+6	be+juthat	azért	bejuthassak pént költeni .			
+6	be+hajt	azért	NOPE			
+6	át+fut	azért	átfutottunk elújságolni .			
+6	ágál	azellen	ágál behajolni az újkommunista iránynak			
+5	vissza-vissza+jár	azért	csipegetni még vissza-visszajártak a téli barlangba			
+5	vissza+kényszerít	azért	visszakényszerítették a Szent László Gimnáziumba tanítani .			
+5	vissza+enged	azért	máris visszaengedték lubickolni .			
+5	vissza+dob	azért	amelyeket minden törvénytisztelő egyesületi tag horgász visszadob növekedni .			
+5	viaskodik	azon/amiatt	NOPE			
+5	vállalkozhat	arra	ma megközelítőleg öt nappal előre vállalkozhatunk olyan biztonsággal prognosztizálni az időjárást			
+5	úszhat	azért	NOPE			
+5	untat	az	már untat körbe-körbe vezetni			
+5	újra+indul	azért	NOPE			
+5	tovább+menetel	azért	NOPE			
+5	tolerál	azt	amelyet kétszer nem tolerálunk elkövetni .			
+5	teremtődik	x	lehetőségünk teremtődjön a nemzetünk kulturális gyöngyszemeit felmutatni	@lex: alkalom, jogalap...		
+5	tereget	azért	teregette száradni a zoknikat .			
+5	szünetel	abban	NOPE			
+5	szét+széled	azért	a mezőny szépen szétszéled pihenni			
+5	szándékoztat	azt	Hogyan szándékoztatok megdönteni a rendszert			
+5	szabódik	azon	kicsit szabódott magára venni a magas tisztséget .			
+5	surran	azért	surranjak az itt maradók után leskelődni ?			
+5	siettet	azt	majd siettette beszámolót küldeni erről azon kijelentéssel			
+5	serkent	arra	izzani serkenti a parazsat			
+5	serken	azért	alkotni serkent szelíden			
+5	rosszul+esik	az	Rosszulesett kimondani a nevét			
+5	repülhet	azért	Helsinkibe repülhet dolgozni			
+5	rá+vezet	arra	amilyennek benneteket hinni rávezettek .			
+5	rá+rak	azért	rárakja pirulni a kenyérszeleteket .			
+5	rajzik	azért	ahonnan legfennebb tudományt öregbíteni rajzott ki a bujdosónak nevezett diákság			
+5	rá+bukkan	arra	rábukkan énekelni a helyi bárban			
+5	ösztökél	arra	A megcsökött tökély tökölni ösztökél !			
+5	össze+gyűlhet	azért	annak keretében összegyűlhettünk énekelni			
+5	oda+tart	azért	amit a megvadultaknak ütlegelni odatartunk			
+5	oda+mehet	azért	attól más még odamehet fúrni .			
+5	oda+hoz	azért	amikor odahozták meghalni ...			
+5	oda+enged	azért	odaengedné a fiatalokat inni			
+5	nógat	azért	Ez ölni nógatta			
+5	neki+vághat	annak	csak egyszerűen nekivághatunk felfedezni a környéket			
+5	neki+kezdhet	annak	most nekikezdhetnék jegyzetelni			
+5	meg+taníttat	arra	megtaníttatja halászni .			
+5	meg+lép	azért	meglépjen a többi kutyához játszani			
+5	le+vezet	azért	aztán levezettek bennünket megnézni a géptermet			
+5	leshet	x	Utólag leshet vitatkozni			
+5	le+ruccan	azért	A hétvégén leruccant a méhészeket meglátogatni Torgyán is			
+5	le+merül	azért	majd lemerült megkeresni .			
+5	le+járogat	azért	újabban lejárogatok mozogni egy kicsit			
+5	le+hullik	azért	majd lehullok meghalni az árva földre én			
+5	le+ereszkedik	azért	A szarvasok leereszkedtek a patakra inni			
+5	le+ballag	azért	mindennap leballagott a rabhoz beszélgetni .			
+5	küldözget	azért	őt küldözgetik F1-et közvetíteni .			
+5	konzervál	az	beleállni az egyetlen vélt igazunkba pont a jelen helyzetet konzerválja .			
+5	ki+utazhat	azért	még kapálni is kiutazhattak a kisvonattal			
+5	ki+ültet	azért	kiültette napozni a szeretőjét			
+5	ki+rándul	azért	Tihanyba kirándulnak visszhangot hallgatni			
+5	ki+tör	azért	robbanni kitör			
+5	ki+szállhat	azért	kiszállhatna szétnézni a városban			
+5	ki+gyűjt	azért	NOPE			
+5	ki+borít	azért	kiborította száradni .			
+5	kérelmez	azt	Ezt kérelmezték kereskedelmi légi szállítási engedélyre módosítani			
+5	képzelhet	azt	így képzelhette magát beleveszni a sivatagba .			
+5	járulhat	azért	a kislány csak egy béna lábú éjjeliőrhöz járulhat beszélgetni			
+5	ítélhet	arra	szükségesnek ítélheti a jogsértést elkövető feleket bírsággal sújtani .			
+5	indíthat	arra	Csak ez a kényszer indíthatja őt megszabni			
+5	időzik	azért	az úr nem menyasszonynak valót kutatni időzik a kúriákon			
+5	haza+vihet	azért	Olykor hazavihettem korrigálni néhány hasonló színvonalú regényt			
+5	haza+térhet	azért	majd nemrég hazatérhetett további éveit letölteni .			
+5	haza+jöhet	azért	hazajöhetnek lázítani .			
+5	haza+hord	azért	én minden nőmet hazahordom bemutatni .			
+5	hatol	azért	a szerelmesek beljebb hatolnak fogócskázni			
+5	hajlít	azért	miféle bánat hajlít a papír fölé hónapok óta görnyedni engem ?			
+5	hajkurász	azért	engem hajkurásztak disznót őrizni			
+5	guggol	azért	mikor kakálni a trágyadombra guggoltam			
+5	futkározik	azért	Örökké futkároztok családot látogatni			
+5	föl+vonul	azért	az új mamához tisztelegni fölvonultak .			
+5	föl+ment	azért	a szünetben fölmentem hozzájuk köszönni .		%föl+megy	
+5	föl+ér	az	az embert megérteni fölér a robottal .			
+5	fel+vetet|vet	azért	Felvetettek Márciusban dolgozni !!!			
+5	fel+vehet	azért	NOPE			
+5	félt|féltet	attól	amit úgy féltettem elveszteni			
+5	fel+pattan	azért	felpattant reklamálni .			
+5	fel+kérhet	arra	bárkit felkérhetünk tanúskodni			
+5	fel+jogosít	arra	NOPE			
+5	fel+érik	x	az összeset bemutatni felérne a Bűn		%fel+ér	
+5	fájlal	azt	bármennyire fájlalom ezt kimondani			
+5	fájhat	az	még leírni is fájhat			
+5	eresztet|ereszt	azért	aztán az udvarra eresztette száradni .			
+5	emigrál	azért	munkaképes ember emigrált napjainkig az Európai Unióba megélhetést keresni .			
+5	el+vándorol	azért	a gyerekekkel elvándoroltak a prérire vadászni .			
+5	el+takarodik	azért	eltakarodtak aludni .			
+5	el+széled	azért	Társaim elszéledtek tájékozódni			
+5	el+merül	azért	NOPE			
+5	el+iramodik	azért	Míg a gyerekek eliramodnak játszani			
+5	el+hozhat	azért	akkor elhozhatnám őket ide gyönyörködni a hatalmas zöld hegyekben .			
+5	el+hord	azért	amiket elhordtam játszani .			
+5	el+hí|hív	azért	aztán elhívod sétálni			
+5	el+helyezkedik	azért	elhelyezkedem valahová dolgozni			
+5	el-el+felejt	azt	el-elfelejt bejönni .			
+5	el+cipel	azért	Elcipelt vacsorázni .			
+5	csíp	azt	én nagyon csípem úgy nézni a filmeket .			
+5	botorkál	azért	ellenkezés nélkül botorkált megkeresni a vödröt			
+5	bocsájt	azért	NOPE			
+5	be+tanít	arra	Betanít embereket sakkozni			
+5	be+szökik	azért	Vasárnap beszöktek a főiskolára mintázni .			
+5	bele+telik	az	néhány könyvbe beletelne részletesen kifejteni			
+5	bele+megy	azért	bátran belemegy a medencébe úszkálni is egy kicsit			
+5	bele+kapaszkodhat	azért	NOPE			
+5	bele+csúszik	azért	NOPE			
+5	be+indít	az/azért	a gépet működni beindítom / egymásra vadászni a reneszánsz Róma emberáradatában hallás után is beindítja a nyáltermelést			
+5	be+idéz	azért	2006-ban beidézték tanúskodni a rendőrségre			
+5	be+hatol	azért	megint behatolt a kertembe lopni .			
+5	be+hajol	azért	melybe szelíden behajolt zavarni egy-egy bokor			
+5	be+fekszik	azért	befeküdt haldokolni a gyepűbe			
+5	át+ül	azért	Átültem hozzá sakkozni .			
+5	át+terjed	azért	NOPE			
+5	át+halad	azért	NOPE			
+5	át+hajt	azért	máris áthajtott bátyjához kérkedni			
+5	abba+hagyhat	azt	az adósok az immár megállapíthatatlan összegű törlesztőrészletek fizetését nyugodtan abbahagyhatják fizetni			
