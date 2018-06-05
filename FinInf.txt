@@ -168,7 +168,6 @@
 487	akarhat	azt	segíteni is akarhat			
 484	von	azért	reggel már felkötni vonták .			
 482	fel+megy	azért	felmentem szüleimhez vacsorázni .			
-478	leszel	x	Képes leszel fogadni őket ?	@lex: képes, hajlandó...	%lesz	
 455	restell	azt	Nem restellte bevallani			
 449	kezdet	x	azt kezdette feszegetni		%kezd	
 448	un	azt	Unok dolgozni .			
@@ -584,7 +583,7 @@
 38	hátra+jön	azért	hátrajönnek telefonálni			
 38	el+vihet	azért	pl. elviheted vacsizni .			
 38	bérel	azért	Ki bérelte fel őket az egyszerű díszletezőmunkás szerepében mindent megfigyelni ?			
-38	becsuk	azért	becsukták a szemüket pihentetni			
+38	be+csuk	azért	becsukták a szemüket pihentetni			
 37	vissza+jön|jő	azért	valamelyik este visszajövök a szállásra beszélgetni a lányokkal			
 37	segédkezik	abban	is segédkeznek megoldást találni .			
 37	rendeltet	arra	Az egyiknek élni rendeltetett			
